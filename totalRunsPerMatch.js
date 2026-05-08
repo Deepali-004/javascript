@@ -9,6 +9,7 @@ function totalRunsPerMatch() {
     let totalRuns = Number(delivery.total_runs);
     let battingTeam = delivery.batting_team;
     let bowlingTeam = delivery.bowling_team;
+    let inning = Number(delivery.inning);
     let matchPair = [battingTeam, bowlingTeam].sort().join(" , ");
     if (!result[matchId]) {
       result[matchId] = {
@@ -16,7 +17,9 @@ function totalRunsPerMatch() {
         totalRuns: 0,
       };
     }
-    result[matchId].totalRuns = result[matchId].totalRuns + totalRuns;
+    if (inning == 1 || inning == 2) {
+      result[matchId].totalRuns = result[matchId].totalRuns + totalRuns;
+    }
   }
   for (let id in result) {
     output.push(result[id]);

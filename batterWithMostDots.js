@@ -7,10 +7,11 @@ function batterWithMostDots() {
     let delivery = deliveries[i];
     let batter = delivery.batter;
     let totalRuns = delivery.total_runs;
+    let inning = Number(delivery.inning);
     if (!result[batter]) {
       result[batter] = 0;
     }
-    if (totalRuns == 0) {
+    if (totalRuns == 0 && (inning == 1 || inning == 2)) {
       result[batter]++;
     }
   }

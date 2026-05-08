@@ -265,7 +265,7 @@
   },
   {
     "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
-    "totalRuns": 333
+    "totalRuns": 300
   },
   {
     "matchPair": "Kings XI Punjab , Royal Challengers Bangalore",
@@ -521,7 +521,7 @@
   },
   {
     "matchPair": "Chennai Super Kings , Kings XI Punjab",
-    "totalRuns": 291
+    "totalRuns": 272
   },
   {
     "matchPair": "Kolkata Knight Riders , Mumbai Indians",
@@ -1313,7 +1313,7 @@
   },
   {
     "matchPair": "Royal Challengers Bangalore , Sunrisers Hyderabad",
-    "totalRuns": 295
+    "totalRuns": 260
   },
   {
     "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
@@ -1365,7 +1365,7 @@
   },
   {
     "matchPair": "Delhi Daredevils , Royal Challengers Bangalore",
-    "totalRuns": 330
+    "totalRuns": 304
   },
   {
     "matchPair": "Pune Warriors , Sunrisers Hyderabad",
@@ -1665,7 +1665,7 @@
   },
   {
     "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
-    "totalRuns": 326
+    "totalRuns": 304
   },
   {
     "matchPair": "Mumbai Indians , Sunrisers Hyderabad",
@@ -1905,7 +1905,7 @@
   },
   {
     "matchPair": "Kings XI Punjab , Rajasthan Royals",
-    "totalRuns": 403
+    "totalRuns": 382
   },
   {
     "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
@@ -2441,7 +2441,7 @@
   },
   {
     "matchPair": "Gujarat Lions , Mumbai Indians",
-    "totalRuns": 323
+    "totalRuns": 306
   },
   {
     "matchPair": "Delhi Daredevils , Kings XI Punjab",
@@ -2821,7 +2821,7 @@
   },
   {
     "matchPair": "Delhi Capitals , Kolkata Knight Riders",
-    "totalRuns": 387
+    "totalRuns": 370
   },
   {
     "matchPair": "Royal Challengers Bangalore , Sunrisers Hyderabad",
@@ -2985,7 +2985,7 @@
   },
   {
     "matchPair": "Mumbai Indians , Sunrisers Hyderabad",
-    "totalRuns": 341
+    "totalRuns": 324
   },
   {
     "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
@@ -3029,7 +3029,7 @@
   },
   {
     "matchPair": "Delhi Capitals , Kings XI Punjab",
-    "totalRuns": 319
+    "totalRuns": 314
   },
   {
     "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
@@ -3105,7 +3105,7 @@
   },
   {
     "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
-    "totalRuns": 331
+    "totalRuns": 326
   },
   {
     "matchPair": "Chennai Super Kings , Kings XI Punjab",
@@ -3125,7 +3125,7 @@
   },
   {
     "matchPair": "Kings XI Punjab , Mumbai Indians",
-    "totalRuns": 388
+    "totalRuns": 352
   },
   {
     "matchPair": "Rajasthan Royals , Sunrisers Hyderabad",
@@ -3245,7 +3245,7 @@
   },
   {
     "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
-    "totalRuns": 420
+    "totalRuns": 402
   },
   {
     "matchPair": "Delhi Capitals , Mumbai Indians",
@@ -3341,7 +3341,7 @@
   },
   {
     "matchPair": "Delhi Capitals , Sunrisers Hyderabad",
-    "totalRuns": 333
+    "totalRuns": 318
   },
   {
     "matchPair": "Kolkata Knight Riders , Punjab Kings",

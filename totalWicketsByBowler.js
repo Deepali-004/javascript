@@ -6,11 +6,14 @@ function totalWicketsByBowler() {
     let delivery = deliveries[i];
     let bowler = delivery.bowler;
     let wickets = Number(delivery.is_wicket);
+    let inning = Number(delivery.inning);
     // console.log(wickets);
     if (!result[bowler]) {
       result[bowler] = 0;
     }
-    result[bowler] = result[bowler] + wickets;
+    if (inning == 1 || inning == 2) {
+      result[bowler] = result[bowler] + wickets;
+    }
   }
   //   console.log(result);
   return result;

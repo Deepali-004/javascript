@@ -6,11 +6,14 @@ function batterDismissedMostTimes() {
   for (let i = 0; i < deliveries.length; i++) {
     let delivery = deliveries[i];
     let dismissedPlayer = delivery.player_dismissed;
+    let inning = Number(delivery.inning);
     if (dismissedPlayer == "NA") continue;
     if (!result[dismissedPlayer]) {
       result[dismissedPlayer] = 0;
     }
-    result[dismissedPlayer]++;
+    if (inning == 1 || inning == 2) {
+      result[dismissedPlayer]++;
+    }
   }
   let mostDismissedPlayer = Math.max(...Object.values(result));
   for (let player in result) {

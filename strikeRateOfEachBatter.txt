@@ -1,0 +1,3367 @@
+{
+  "SC Ganguly": {
+    "runs": 1349,
+    "balls": 1263,
+    "strike_rate": 106.80918448139352
+  },
+  "BB McCullum": {
+    "runs": 2880,
+    "balls": 2186,
+    "strike_rate": 131.74748398902105
+  },
+  "RT Ponting": {
+    "runs": 91,
+    "balls": 128,
+    "strike_rate": 71.09375
+  },
+  "DJ Hussey": {
+    "runs": 1322,
+    "balls": 1075,
+    "strike_rate": 122.97674418604652
+  },
+  "Mohammad Hafeez": {
+    "runs": 64,
+    "balls": 83,
+    "strike_rate": 77.10843373493977
+  },
+  "R Dravid": {
+    "runs": 2174,
+    "balls": 1882,
+    "strike_rate": 115.5154091392136
+  },
+  "W Jaffer": {
+    "runs": 130,
+    "balls": 121,
+    "strike_rate": 107.43801652892562
+  },
+  "V Kohli": {
+    "runs": 8004,
+    "balls": 6065,
+    "strike_rate": 131.97032151690024
+  },
+  "JH Kallis": {
+    "runs": 2427,
+    "balls": 2222,
+    "strike_rate": 109.22592259225922
+  },
+  "CL White": {
+    "runs": 954,
+    "balls": 755,
+    "strike_rate": 126.35761589403972
+  },
+  "MV Boucher": {
+    "runs": 394,
+    "balls": 309,
+    "strike_rate": 127.50809061488673
+  },
+  "B Akhil": {
+    "runs": 76,
+    "balls": 55,
+    "strike_rate": 138.1818181818182
+  },
+  "AA Noffke": {
+    "runs": 9,
+    "balls": 10,
+    "strike_rate": 90
+  },
+  "P Kumar": {
+    "runs": 340,
+    "balls": 314,
+    "strike_rate": 108.28025477707006
+  },
+  "Z Khan": {
+    "runs": 117,
+    "balls": 141,
+    "strike_rate": 82.97872340425532
+  },
+  "SB Joshi": {
+    "runs": 6,
+    "balls": 14,
+    "strike_rate": 42.857142857142854
+  },
+  "PA Patel": {
+    "runs": 2848,
+    "balls": 2358,
+    "strike_rate": 120.78032230703985
+  },
+  "ML Hayden": {
+    "runs": 1107,
+    "balls": 805,
+    "strike_rate": 137.51552795031057
+  },
+  "MEK Hussey": {
+    "runs": 1977,
+    "balls": 1612,
+    "strike_rate": 122.64267990074443
+  },
+  "MS Dhoni": {
+    "runs": 5243,
+    "balls": 3812,
+    "strike_rate": 137.53934942287515
+  },
+  "SK Raina": {
+    "runs": 5528,
+    "balls": 4043,
+    "strike_rate": 136.73015087806084
+  },
+  "JDP Oram": {
+    "runs": 106,
+    "balls": 108,
+    "strike_rate": 98.14814814814815
+  },
+  "S Badrinath": {
+    "runs": 1441,
+    "balls": 1212,
+    "strike_rate": 118.8943894389439
+  },
+  "K Goel": {
+    "runs": 218,
+    "balls": 231,
+    "strike_rate": 94.37229437229438
+  },
+  "JR Hopes": {
+    "runs": 417,
+    "balls": 306,
+    "strike_rate": 136.27450980392157
+  },
+  "KC Sangakkara": {
+    "runs": 1687,
+    "balls": 1392,
+    "strike_rate": 121.19252873563218
+  },
+  "Yuvraj Singh": {
+    "runs": 2750,
+    "balls": 2120,
+    "strike_rate": 129.7169811320755
+  },
+  "SM Katich": {
+    "runs": 241,
+    "balls": 186,
+    "strike_rate": 129.56989247311827
+  },
+  "IK Pathan": {
+    "runs": 1139,
+    "balls": 946,
+    "strike_rate": 120.40169133192389
+  },
+  "T Kohli": {
+    "runs": 11,
+    "balls": 19,
+    "strike_rate": 57.89473684210527
+  },
+  "YK Pathan": {
+    "runs": 3204,
+    "balls": 2241,
+    "strike_rate": 142.9718875502008
+  },
+  "SR Watson": {
+    "runs": 3874,
+    "balls": 2809,
+    "strike_rate": 137.91384834460663
+  },
+  "M Kaif": {
+    "runs": 259,
+    "balls": 250,
+    "strike_rate": 103.60000000000001
+  },
+  "DS Lehmann": {
+    "runs": 18,
+    "balls": 18,
+    "strike_rate": 100
+  },
+  "RA Jadeja": {
+    "runs": 2959,
+    "balls": 2280,
+    "strike_rate": 129.78070175438597
+  },
+  "M Rawat": {
+    "runs": 55,
+    "balls": 69,
+    "strike_rate": 79.71014492753623
+  },
+  "D Salunkhe": {
+    "runs": 33,
+    "balls": 24,
+    "strike_rate": 137.5
+  },
+  "SK Warne": {
+    "runs": 198,
+    "balls": 214,
+    "strike_rate": 92.5233644859813
+  },
+  "SK Trivedi": {
+    "runs": 42,
+    "balls": 59,
+    "strike_rate": 71.1864406779661
+  },
+  "G Gambhir": {
+    "runs": 4217,
+    "balls": 3404,
+    "strike_rate": 123.88366627497062
+  },
+  "V Sehwag": {
+    "runs": 2728,
+    "balls": 1755,
+    "strike_rate": 155.44159544159544
+  },
+  "S Dhawan": {
+    "runs": 6769,
+    "balls": 5324,
+    "strike_rate": 127.1412471825695
+  },
+  "L Ronchi": {
+    "runs": 34,
+    "balls": 34,
+    "strike_rate": 100
+  },
+  "ST Jayasuriya": {
+    "runs": 768,
+    "balls": 532,
+    "strike_rate": 144.36090225563908
+  },
+  "DJ Thornely": {
+    "runs": 39,
+    "balls": 53,
+    "strike_rate": 73.58490566037736
+  },
+  "RV Uthappa": {
+    "runs": 4952,
+    "balls": 3799,
+    "strike_rate": 130.35009212950777
+  },
+  "PR Shah": {
+    "runs": 92,
+    "balls": 91,
+    "strike_rate": 101.0989010989011
+  },
+  "AM Nayar": {
+    "runs": 672,
+    "balls": 577,
+    "strike_rate": 116.46447140381282
+  },
+  "SM Pollock": {
+    "runs": 147,
+    "balls": 111,
+    "strike_rate": 132.43243243243242
+  },
+  "Harbhajan Singh": {
+    "runs": 833,
+    "balls": 604,
+    "strike_rate": 137.91390728476821
+  },
+  "S Chanderpaul": {
+    "runs": 25,
+    "balls": 31,
+    "strike_rate": 80.64516129032258
+  },
+  "LRPL Taylor": {
+    "runs": 1017,
+    "balls": 822,
+    "strike_rate": 123.72262773722629
+  },
+  "AC Gilchrist": {
+    "runs": 2069,
+    "balls": 1495,
+    "strike_rate": 138.39464882943145
+  },
+  "Y Venugopal Rao": {
+    "runs": 985,
+    "balls": 836,
+    "strike_rate": 117.82296650717703
+  },
+  "VVS Laxman": {
+    "runs": 282,
+    "balls": 267,
+    "strike_rate": 105.61797752808988
+  },
+  "A Symonds": {
+    "runs": 974,
+    "balls": 750,
+    "strike_rate": 129.86666666666667
+  },
+  "RG Sharma": {
+    "runs": 6628,
+    "balls": 5054,
+    "strike_rate": 131.14364859517212
+  },
+  "SB Styris": {
+    "runs": 131,
+    "balls": 133,
+    "strike_rate": 98.49624060150376
+  },
+  "AS Yadav": {
+    "runs": 49,
+    "balls": 39,
+    "strike_rate": 125.64102564102564
+  },
+  "SB Bangar": {
+    "runs": 49,
+    "balls": 58,
+    "strike_rate": 84.48275862068965
+  },
+  "WPUJC Vaas": {
+    "runs": 81,
+    "balls": 73,
+    "strike_rate": 110.95890410958904
+  },
+  "RP Singh": {
+    "runs": 52,
+    "balls": 76,
+    "strike_rate": 68.42105263157895
+  },
+  "WP Saha": {
+    "runs": 2934,
+    "balls": 2300,
+    "strike_rate": 127.56521739130436
+  },
+  "LR Shukla": {
+    "runs": 405,
+    "balls": 350,
+    "strike_rate": 115.71428571428572
+  },
+  "DPMD Jayawardene": {
+    "runs": 1802,
+    "balls": 1462,
+    "strike_rate": 123.25581395348837
+  },
+  "S Sohal": {
+    "runs": 368,
+    "balls": 292,
+    "strike_rate": 126.02739726027397
+  },
+  "B Lee": {
+    "runs": 124,
+    "balls": 97,
+    "strike_rate": 127.83505154639174
+  },
+  "PP Chawla": {
+    "runs": 624,
+    "balls": 563,
+    "strike_rate": 110.8348134991119
+  },
+  "WA Mota": {
+    "runs": 56,
+    "balls": 75,
+    "strike_rate": 74.66666666666667
+  },
+  "Kamran Akmal": {
+    "runs": 128,
+    "balls": 78,
+    "strike_rate": 164.1025641025641
+  },
+  "Shahid Afridi": {
+    "runs": 81,
+    "balls": 46,
+    "strike_rate": 176.08695652173913
+  },
+  "DJ Bravo": {
+    "runs": 1560,
+    "balls": 1204,
+    "strike_rate": 129.56810631229237
+  },
+  "MA Khote": {
+    "runs": 24,
+    "balls": 22,
+    "strike_rate": 109.09090909090908
+  },
+  "A Nehra": {
+    "runs": 41,
+    "balls": 62,
+    "strike_rate": 66.12903225806451
+  },
+  "GC Smith": {
+    "runs": 739,
+    "balls": 668,
+    "strike_rate": 110.62874251497006
+  },
+  "Pankaj Singh": {
+    "runs": 7,
+    "balls": 12,
+    "strike_rate": 58.333333333333336
+  },
+  "RR Sarwan": {
+    "runs": 73,
+    "balls": 75,
+    "strike_rate": 97.33333333333334
+  },
+  "S Sreesanth": {
+    "runs": 34,
+    "balls": 55,
+    "strike_rate": 61.81818181818181
+  },
+  "VRV Singh": {
+    "runs": 4,
+    "balls": 3,
+    "strike_rate": 133.33333333333331
+  },
+  "SS Tiwary": {
+    "runs": 1494,
+    "balls": 1244,
+    "strike_rate": 120.09646302250805
+  },
+  "DS Kulkarni": {
+    "runs": 104,
+    "balls": 108,
+    "strike_rate": 96.29629629629629
+  },
+  "R Vinay Kumar": {
+    "runs": 310,
+    "balls": 274,
+    "strike_rate": 113.13868613138686
+  },
+  "AB Agarkar": {
+    "runs": 179,
+    "balls": 154,
+    "strike_rate": 116.23376623376625
+  },
+  "M Kartik": {
+    "runs": 113,
+    "balls": 108,
+    "strike_rate": 104.62962962962963
+  },
+  "I Sharma": {
+    "runs": 57,
+    "balls": 69,
+    "strike_rate": 82.6086956521739
+  },
+  "AM Rahane": {
+    "runs": 4642,
+    "balls": 3761,
+    "strike_rate": 123.42462111140655
+  },
+  "Shoaib Malik": {
+    "runs": 52,
+    "balls": 47,
+    "strike_rate": 110.63829787234043
+  },
+  "MK Tiwary": {
+    "runs": 1695,
+    "balls": 1449,
+    "strike_rate": 116.97722567287785
+  },
+  "KD Karthik": {
+    "runs": 4842,
+    "balls": 3577,
+    "strike_rate": 135.36483086385238
+  },
+  "R Bhatia": {
+    "runs": 342,
+    "balls": 284,
+    "strike_rate": 120.4225352112676
+  },
+  "MF Maharoof": {
+    "runs": 177,
+    "balls": 123,
+    "strike_rate": 143.90243902439025
+  },
+  "VY Mahesh": {
+    "runs": 15,
+    "balls": 27,
+    "strike_rate": 55.55555555555556
+  },
+  "TM Srivastava": {
+    "runs": 8,
+    "balls": 11,
+    "strike_rate": 72.72727272727273
+  },
+  "B Chipli": {
+    "runs": 280,
+    "balls": 251,
+    "strike_rate": 111.55378486055776
+  },
+  "DW Steyn": {
+    "runs": 167,
+    "balls": 160,
+    "strike_rate": 104.375
+  },
+  "DB Das": {
+    "runs": 304,
+    "balls": 261,
+    "strike_rate": 116.47509578544062
+  },
+  "MK Pandey": {
+    "runs": 3850,
+    "balls": 3179,
+    "strike_rate": 121.10726643598615
+  },
+  "HH Gibbs": {
+    "runs": 886,
+    "balls": 807,
+    "strike_rate": 109.78934324659231
+  },
+  "DNT Zoysa": {
+    "runs": 11,
+    "balls": 9,
+    "strike_rate": 122.22222222222223
+  },
+  "D Kalyankrishna": {
+    "runs": 3,
+    "balls": 8,
+    "strike_rate": 37.5
+  },
+  "SE Marsh": {
+    "runs": 2477,
+    "balls": 1866,
+    "strike_rate": 132.7438370846731
+  },
+  "SA Asnodkar": {
+    "runs": 423,
+    "balls": 339,
+    "strike_rate": 124.7787610619469
+  },
+  "Sohail Tanvir": {
+    "runs": 36,
+    "balls": 29,
+    "strike_rate": 124.13793103448276
+  },
+  "Salman Butt": {
+    "runs": 193,
+    "balls": 161,
+    "strike_rate": 119.87577639751552
+  },
+  "BJ Hodge": {
+    "runs": 1400,
+    "balls": 1118,
+    "strike_rate": 125.22361359570662
+  },
+  "Umar Gul": {
+    "runs": 39,
+    "balls": 19,
+    "strike_rate": 205.26315789473685
+  },
+  "AB Dinda": {
+    "runs": 26,
+    "balls": 48,
+    "strike_rate": 54.166666666666664
+  },
+  "SP Fleming": {
+    "runs": 196,
+    "balls": 165,
+    "strike_rate": 118.7878787878788
+  },
+  "S Vidyut": {
+    "runs": 145,
+    "balls": 109,
+    "strike_rate": 133.0275229357798
+  },
+  "JA Morkel": {
+    "runs": 974,
+    "balls": 686,
+    "strike_rate": 141.98250728862973
+  },
+  "AB de Villiers": {
+    "runs": 5162,
+    "balls": 3403,
+    "strike_rate": 151.68968557155452
+  },
+  "LPC Silva": {
+    "runs": 40,
+    "balls": 26,
+    "strike_rate": 153.84615384615387
+  },
+  "DB Ravi Teja": {
+    "runs": 375,
+    "balls": 317,
+    "strike_rate": 118.29652996845425
+  },
+  "Misbah-ul-Haq": {
+    "runs": 117,
+    "balls": 81,
+    "strike_rate": 144.44444444444443
+  },
+  "YV Takawale": {
+    "runs": 192,
+    "balls": 178,
+    "strike_rate": 107.86516853932584
+  },
+  "RR Raje": {
+    "runs": 20,
+    "balls": 18,
+    "strike_rate": 111.11111111111111
+  },
+  "PJ Sangwan": {
+    "runs": 26,
+    "balls": 44,
+    "strike_rate": 59.09090909090909
+  },
+  "Mohammad Asif": {
+    "runs": 3,
+    "balls": 6,
+    "strike_rate": 50
+  },
+  "GD McGrath": {
+    "runs": 4,
+    "balls": 5,
+    "strike_rate": 80
+  },
+  "Joginder Sharma": {
+    "runs": 36,
+    "balls": 30,
+    "strike_rate": 120
+  },
+  "MS Gony": {
+    "runs": 99,
+    "balls": 71,
+    "strike_rate": 139.43661971830986
+  },
+  "M Muralitharan": {
+    "runs": 20,
+    "balls": 30,
+    "strike_rate": 66.66666666666666
+  },
+  "M Ntini": {
+    "runs": 11,
+    "balls": 18,
+    "strike_rate": 61.111111111111114
+  },
+  "DT Patil": {
+    "runs": 13,
+    "balls": 13,
+    "strike_rate": 100
+  },
+  "A Kumble": {
+    "runs": 35,
+    "balls": 47,
+    "strike_rate": 74.46808510638297
+  },
+  "S Anirudha": {
+    "runs": 136,
+    "balls": 113,
+    "strike_rate": 120.35398230088497
+  },
+  "MM Patel": {
+    "runs": 39,
+    "balls": 41,
+    "strike_rate": 95.1219512195122
+  },
+  "CK Kapugedera": {
+    "runs": 16,
+    "balls": 23,
+    "strike_rate": 69.56521739130434
+  },
+  "A Chopra": {
+    "runs": 53,
+    "balls": 71,
+    "strike_rate": 74.64788732394366
+  },
+  "T Taibu": {
+    "runs": 31,
+    "balls": 26,
+    "strike_rate": 119.23076923076923
+  },
+  "J Arunkumar": {
+    "runs": 23,
+    "balls": 23,
+    "strike_rate": 100
+  },
+  "PP Ojha": {
+    "runs": 16,
+    "balls": 45,
+    "strike_rate": 35.55555555555556
+  },
+  "SP Goswami": {
+    "runs": 293,
+    "balls": 295,
+    "strike_rate": 99.32203389830508
+  },
+  "SR Tendulkar": {
+    "runs": 2334,
+    "balls": 1948,
+    "strike_rate": 119.81519507186857
+  },
+  "U Kaul": {
+    "runs": 0,
+    "balls": 1,
+    "strike_rate": 0
+  },
+  "TM Dilshan": {
+    "runs": 1153,
+    "balls": 1007,
+    "strike_rate": 114.49851042701091
+  },
+  "A Mishra": {
+    "runs": 381,
+    "balls": 419,
+    "strike_rate": 90.9307875894988
+  },
+  "AD Mascarenhas": {
+    "runs": 79,
+    "balls": 78,
+    "strike_rate": 101.28205128205127
+  },
+  "NK Patel": {
+    "runs": 121,
+    "balls": 119,
+    "strike_rate": 101.68067226890756
+  },
+  "LA Pomersbach": {
+    "runs": 302,
+    "balls": 246,
+    "strike_rate": 122.76422764227641
+  },
+  "Iqbal Abdulla": {
+    "runs": 88,
+    "balls": 84,
+    "strike_rate": 104.76190476190477
+  },
+  "Younis Khan": {
+    "runs": 3,
+    "balls": 7,
+    "strike_rate": 42.857142857142854
+  },
+  "PM Sarvesh Kumar": {
+    "runs": 1,
+    "balls": 2,
+    "strike_rate": 50
+  },
+  "DP Vijaykumar": {
+    "runs": 1,
+    "balls": 1,
+    "strike_rate": 100
+  },
+  "Shoaib Akhtar": {
+    "runs": 2,
+    "balls": 7,
+    "strike_rate": 28.57142857142857
+  },
+  "Abdur Razzak": {
+    "runs": 0,
+    "balls": 2,
+    "strike_rate": 0
+  },
+  "H Das": {
+    "runs": 2,
+    "balls": 5,
+    "strike_rate": 40
+  },
+  "DR Smith": {
+    "runs": 2385,
+    "balls": 1764,
+    "strike_rate": 135.20408163265304
+  },
+  "SD Chitnis": {
+    "runs": 99,
+    "balls": 89,
+    "strike_rate": 111.23595505617978
+  },
+  "CRD Fernando": {
+    "runs": 4,
+    "balls": 3,
+    "strike_rate": 133.33333333333331
+  },
+  "VS Yeligati": {
+    "runs": 2,
+    "balls": 2,
+    "strike_rate": 100
+  },
+  "L Balaji": {
+    "runs": 36,
+    "balls": 49,
+    "strike_rate": 73.46938775510205
+  },
+  "A Mukund": {
+    "runs": 19,
+    "balls": 22,
+    "strike_rate": 86.36363636363636
+  },
+  "RR Powar": {
+    "runs": 67,
+    "balls": 64,
+    "strike_rate": 104.6875
+  },
+  "JP Duminy": {
+    "runs": 2029,
+    "balls": 1636,
+    "strike_rate": 124.02200488997555
+  },
+  "A Flintoff": {
+    "runs": 62,
+    "balls": 53,
+    "strike_rate": 116.98113207547169
+  },
+  "T Thushara": {
+    "runs": 12,
+    "balls": 18,
+    "strike_rate": 66.66666666666666
+  },
+  "JD Ryder": {
+    "runs": 604,
+    "balls": 458,
+    "strike_rate": 131.87772925764193
+  },
+  "KP Pietersen": {
+    "runs": 1001,
+    "balls": 743,
+    "strike_rate": 134.72409152086138
+  },
+  "T Henderson": {
+    "runs": 11,
+    "balls": 16,
+    "strike_rate": 68.75
+  },
+  "Kamran Khan": {
+    "runs": 3,
+    "balls": 5,
+    "strike_rate": 60
+  },
+  "RS Bopara": {
+    "runs": 531,
+    "balls": 453,
+    "strike_rate": 117.21854304635761
+  },
+  "CH Gayle": {
+    "runs": 4965,
+    "balls": 3333,
+    "strike_rate": 148.96489648964896
+  },
+  "MC Henriques": {
+    "runs": 1000,
+    "balls": 788,
+    "strike_rate": 126.90355329949239
+  },
+  "R Bishnoi": {
+    "runs": 19,
+    "balls": 17,
+    "strike_rate": 111.76470588235294
+  },
+  "FH Edwards": {
+    "runs": 4,
+    "balls": 5,
+    "strike_rate": 80
+  },
+  "KV Sharma": {
+    "runs": 351,
+    "balls": 294,
+    "strike_rate": 119.38775510204083
+  },
+  "PC Valthaty": {
+    "runs": 505,
+    "balls": 418,
+    "strike_rate": 120.8133971291866
+  },
+  "RJ Quiney": {
+    "runs": 103,
+    "balls": 102,
+    "strike_rate": 100.98039215686273
+  },
+  "AS Raut": {
+    "runs": 194,
+    "balls": 167,
+    "strike_rate": 116.1676646706587
+  },
+  "Yashpal Singh": {
+    "runs": 47,
+    "balls": 66,
+    "strike_rate": 71.21212121212122
+  },
+  "M Manhas": {
+    "runs": 514,
+    "balls": 470,
+    "strike_rate": 109.36170212765957
+  },
+  "AA Bilakhia": {
+    "runs": 69,
+    "balls": 85,
+    "strike_rate": 81.17647058823529
+  },
+  "AN Ghosh": {
+    "runs": 7,
+    "balls": 8,
+    "strike_rate": 87.5
+  },
+  "BAW Mendis": {
+    "runs": 3,
+    "balls": 6,
+    "strike_rate": 50
+  },
+  "DL Vettori": {
+    "runs": 121,
+    "balls": 113,
+    "strike_rate": 107.07964601769913
+  },
+  "MN van Wyk": {
+    "runs": 167,
+    "balls": 132,
+    "strike_rate": 126.51515151515152
+  },
+  "RE van der Merwe": {
+    "runs": 159,
+    "balls": 141,
+    "strike_rate": 112.7659574468085
+  },
+  "TL Suman": {
+    "runs": 676,
+    "balls": 575,
+    "strike_rate": 117.56521739130434
+  },
+  "Shoaib Ahmed": {
+    "runs": 1,
+    "balls": 6,
+    "strike_rate": 16.666666666666664
+  },
+  "GR Napier": {
+    "runs": 15,
+    "balls": 16,
+    "strike_rate": 93.75
+  },
+  "KP Appanna": {
+    "runs": 2,
+    "balls": 4,
+    "strike_rate": 50
+  },
+  "LA Carseldine": {
+    "runs": 81,
+    "balls": 68,
+    "strike_rate": 119.11764705882352
+  },
+  "NV Ojha": {
+    "runs": 1554,
+    "balls": 1313,
+    "strike_rate": 118.35491241431835
+  },
+  "SM Harwood": {
+    "runs": 9,
+    "balls": 14,
+    "strike_rate": 64.28571428571429
+  },
+  "M Vijay": {
+    "runs": 2619,
+    "balls": 2150,
+    "strike_rate": 121.81395348837209
+  },
+  "SB Jakati": {
+    "runs": 28,
+    "balls": 29,
+    "strike_rate": 96.55172413793103
+  },
+  "DA Warner": {
+    "runs": 6565,
+    "balls": 4697,
+    "strike_rate": 139.7700659995742
+  },
+  "RJ Harris": {
+    "runs": 117,
+    "balls": 112,
+    "strike_rate": 104.46428571428572
+  },
+  "D du Preez": {
+    "runs": 10,
+    "balls": 13,
+    "strike_rate": 76.92307692307693
+  },
+  "M Morkel": {
+    "runs": 126,
+    "balls": 90,
+    "strike_rate": 140
+  },
+  "AD Mathews": {
+    "runs": 724,
+    "balls": 575,
+    "strike_rate": 125.91304347826086
+  },
+  "J Botha": {
+    "runs": 409,
+    "balls": 359,
+    "strike_rate": 113.9275766016713
+  },
+  "C Nanda": {
+    "runs": 0,
+    "balls": 1,
+    "strike_rate": 0
+  },
+  "SL Malinga": {
+    "runs": 88,
+    "balls": 99,
+    "strike_rate": 88.88888888888889
+  },
+  "Mashrafe Mortaza": {
+    "runs": 2,
+    "balls": 2,
+    "strike_rate": 100
+  },
+  "A Singh": {
+    "runs": 2,
+    "balls": 10,
+    "strike_rate": 20
+  },
+  "GJ Bailey": {
+    "runs": 663,
+    "balls": 544,
+    "strike_rate": 121.875
+  },
+  "AB McDonald": {
+    "runs": 123,
+    "balls": 100,
+    "strike_rate": 123
+  },
+  "Y Nagar": {
+    "runs": 285,
+    "balls": 259,
+    "strike_rate": 110.03861003861005
+  },
+  "SS Shaikh": {
+    "runs": 6,
+    "balls": 7,
+    "strike_rate": 85.71428571428571
+  },
+  "R Ashwin": {
+    "runs": 800,
+    "balls": 675,
+    "strike_rate": 118.5185185185185
+  },
+  "Mohammad Ashraful": {
+    "runs": 2,
+    "balls": 10,
+    "strike_rate": 20
+  },
+  "CA Pujara": {
+    "runs": 390,
+    "balls": 391,
+    "strike_rate": 99.74424552429667
+  },
+  "OA Shah": {
+    "runs": 506,
+    "balls": 389,
+    "strike_rate": 130.0771208226221
+  },
+  "Anirudh Singh": {
+    "runs": 63,
+    "balls": 66,
+    "strike_rate": 95.45454545454545
+  },
+  "Jaskaran Singh": {
+    "runs": 8,
+    "balls": 11,
+    "strike_rate": 72.72727272727273
+  },
+  "AP Tare": {
+    "runs": 339,
+    "balls": 273,
+    "strike_rate": 124.17582417582418
+  },
+  "AT Rayudu": {
+    "runs": 4348,
+    "balls": 3409,
+    "strike_rate": 127.54473452625403
+  },
+  "R Sathish": {
+    "runs": 270,
+    "balls": 231,
+    "strike_rate": 116.88311688311688
+  },
+  "R McLaren": {
+    "runs": 159,
+    "balls": 171,
+    "strike_rate": 92.98245614035088
+  },
+  "AA Jhunjhunwala": {
+    "runs": 217,
+    "balls": 210,
+    "strike_rate": 103.33333333333334
+  },
+  "P Dogra": {
+    "runs": 127,
+    "balls": 138,
+    "strike_rate": 92.02898550724638
+  },
+  "A Uniyal": {
+    "runs": 4,
+    "balls": 7,
+    "strike_rate": 57.14285714285714
+  },
+  "MS Bisla": {
+    "runs": 798,
+    "balls": 702,
+    "strike_rate": 113.67521367521367
+  },
+  "YA Abdulla": {
+    "runs": 0,
+    "balls": 1,
+    "strike_rate": 0
+  },
+  "EJG Morgan": {
+    "runs": 1405,
+    "balls": 1146,
+    "strike_rate": 122.6003490401396
+  },
+  "JM Kemp": {
+    "runs": 26,
+    "balls": 24,
+    "strike_rate": 108.33333333333333
+  },
+  "S Tyagi": {
+    "runs": 3,
+    "balls": 4,
+    "strike_rate": 75
+  },
+  "RS Gavaskar": {
+    "runs": 2,
+    "balls": 8,
+    "strike_rate": 25
+  },
+  "SE Bond": {
+    "runs": 1,
+    "balls": 2,
+    "strike_rate": 50
+  },
+  "KA Pollard": {
+    "runs": 3412,
+    "balls": 2316,
+    "strike_rate": 147.3229706390328
+  },
+  "S Ladda": {
+    "runs": 0,
+    "balls": 9,
+    "strike_rate": 0
+  },
+  "DP Nannes": {
+    "runs": 4,
+    "balls": 13,
+    "strike_rate": 30.76923076923077
+  },
+  "MJ Lumb": {
+    "runs": 278,
+    "balls": 194,
+    "strike_rate": 143.29896907216494
+  },
+  "DR Martyn": {
+    "runs": 19,
+    "balls": 24,
+    "strike_rate": 79.16666666666666
+  },
+  "S Narwal": {
+    "runs": 37,
+    "balls": 27,
+    "strike_rate": 137.03703703703704
+  },
+  "AB Barath": {
+    "runs": 42,
+    "balls": 42,
+    "strike_rate": 100
+  },
+  "Bipul Sharma": {
+    "runs": 187,
+    "balls": 123,
+    "strike_rate": 152.03252032520325
+  },
+  "FY Fazal": {
+    "runs": 183,
+    "balls": 173,
+    "strike_rate": 105.78034682080926
+  },
+  "AC Voges": {
+    "runs": 181,
+    "balls": 143,
+    "strike_rate": 126.57342657342659
+  },
+  "MD Mishra": {
+    "runs": 237,
+    "balls": 208,
+    "strike_rate": 113.9423076923077
+  },
+  "UT Yadav": {
+    "runs": 208,
+    "balls": 201,
+    "strike_rate": 103.48258706467661
+  },
+  "J Theron": {
+    "runs": 10,
+    "balls": 12,
+    "strike_rate": 83.33333333333334
+  },
+  "SJ Srivastava": {
+    "runs": 5,
+    "balls": 5,
+    "strike_rate": 100
+  },
+  "R Sharma": {
+    "runs": 66,
+    "balls": 75,
+    "strike_rate": 88
+  },
+  "Mandeep Singh": {
+    "runs": 1706,
+    "balls": 1388,
+    "strike_rate": 122.91066282420748
+  },
+  "KM Jadhav": {
+    "runs": 1208,
+    "balls": 981,
+    "strike_rate": 123.13965341488277
+  },
+  "SW Tait": {
+    "runs": 23,
+    "balls": 26,
+    "strike_rate": 88.46153846153845
+  },
+  "KB Arun Karthik": {
+    "runs": 51,
+    "balls": 51,
+    "strike_rate": 100
+  },
+  "KAJ Roach": {
+    "runs": 10,
+    "balls": 9,
+    "strike_rate": 111.11111111111111
+  },
+  "PD Collingwood": {
+    "runs": 203,
+    "balls": 156,
+    "strike_rate": 130.12820512820514
+  },
+  "CK Langeveldt": {
+    "runs": 8,
+    "balls": 9,
+    "strike_rate": 88.88888888888889
+  },
+  "VS Malik": {
+    "runs": 7,
+    "balls": 7,
+    "strike_rate": 100
+  },
+  "A Mithun": {
+    "runs": 34,
+    "balls": 26,
+    "strike_rate": 130.76923076923077
+  },
+  "AP Dole": {
+    "runs": 34,
+    "balls": 22,
+    "strike_rate": 154.54545454545453
+  },
+  "AN Ahmed": {
+    "runs": 36,
+    "balls": 26,
+    "strike_rate": 138.46153846153845
+  },
+  "RS Sodhi": {
+    "runs": 4,
+    "balls": 2,
+    "strike_rate": 200
+  },
+  "DE Bollinger": {
+    "runs": 21,
+    "balls": 23,
+    "strike_rate": 91.30434782608695
+  },
+  "S Sriram": {
+    "runs": 31,
+    "balls": 36,
+    "strike_rate": 86.11111111111111
+  },
+  "B Sumanth": {
+    "runs": 35,
+    "balls": 37,
+    "strike_rate": 94.5945945945946
+  },
+  "C Madan": {
+    "runs": 15,
+    "balls": 19,
+    "strike_rate": 78.94736842105263
+  },
+  "AG Paunikar": {
+    "runs": 49,
+    "balls": 58,
+    "strike_rate": 84.48275862068965
+  },
+  "MR Marsh": {
+    "runs": 665,
+    "balls": 521,
+    "strike_rate": 127.6391554702495
+  },
+  "AJ Finch": {
+    "runs": 2091,
+    "balls": 1631,
+    "strike_rate": 128.2035561005518
+  },
+  "STR Binny": {
+    "runs": 880,
+    "balls": 683,
+    "strike_rate": 128.84333821376282
+  },
+  "Harmeet Singh": {
+    "runs": 18,
+    "balls": 12,
+    "strike_rate": 150
+  },
+  "IR Jaggi": {
+    "runs": 76,
+    "balls": 97,
+    "strike_rate": 78.35051546391753
+  },
+  "DT Christian": {
+    "runs": 460,
+    "balls": 398,
+    "strike_rate": 115.57788944723617
+  },
+  "RV Gomez": {
+    "runs": 50,
+    "balls": 51,
+    "strike_rate": 98.0392156862745
+  },
+  "MA Agarwal": {
+    "runs": 2661,
+    "balls": 2000,
+    "strike_rate": 133.05
+  },
+  "AUK Pathan": {
+    "runs": 39,
+    "balls": 23,
+    "strike_rate": 169.56521739130434
+  },
+  "UBT Chand": {
+    "runs": 300,
+    "balls": 300,
+    "strike_rate": 100
+  },
+  "DJ Jacobs": {
+    "runs": 92,
+    "balls": 98,
+    "strike_rate": 93.87755102040816
+  },
+  "Sunny Singh": {
+    "runs": 43,
+    "balls": 31,
+    "strike_rate": 138.70967741935485
+  },
+  "NJ Rimmington": {
+    "runs": 1,
+    "balls": 1,
+    "strike_rate": 100
+  },
+  "AL Menaria": {
+    "runs": 401,
+    "balls": 356,
+    "strike_rate": 112.64044943820224
+  },
+  "WD Parnell": {
+    "runs": 65,
+    "balls": 80,
+    "strike_rate": 81.25
+  },
+  "JJ van der Wath": {
+    "runs": 18,
+    "balls": 16,
+    "strike_rate": 112.5
+  },
+  "R Ninan": {
+    "runs": 3,
+    "balls": 6,
+    "strike_rate": 50
+  },
+  "S Aravind": {
+    "runs": 59,
+    "balls": 57,
+    "strike_rate": 103.50877192982458
+  },
+  "MS Wade": {
+    "runs": 183,
+    "balls": 177,
+    "strike_rate": 103.38983050847457
+  },
+  "TD Paine": {
+    "runs": 10,
+    "balls": 26,
+    "strike_rate": 38.46153846153847
+  },
+  "SB Wagh": {
+    "runs": 2,
+    "balls": 3,
+    "strike_rate": 66.66666666666666
+  },
+  "AC Thomas": {
+    "runs": 20,
+    "balls": 19,
+    "strike_rate": 105.26315789473684
+  },
+  "JEC Franklin": {
+    "runs": 327,
+    "balls": 301,
+    "strike_rate": 108.63787375415282
+  },
+  "Shakib Al Hasan": {
+    "runs": 793,
+    "balls": 637,
+    "strike_rate": 124.48979591836735
+  },
+  "DH Yagnik": {
+    "runs": 170,
+    "balls": 137,
+    "strike_rate": 124.08759124087592
+  },
+  "S Randiv": {
+    "runs": 2,
+    "balls": 4,
+    "strike_rate": 50
+  },
+  "BJ Haddin": {
+    "runs": 18,
+    "balls": 11,
+    "strike_rate": 163.63636363636365
+  },
+  "NLTC Perera": {
+    "runs": 422,
+    "balls": 307,
+    "strike_rate": 137.45928338762215
+  },
+  "NL McCullum": {
+    "runs": 26,
+    "balls": 22,
+    "strike_rate": 118.18181818181819
+  },
+  "JE Taylor": {
+    "runs": 3,
+    "balls": 3,
+    "strike_rate": 100
+  },
+  "J Syed Mohammad": {
+    "runs": 29,
+    "balls": 26,
+    "strike_rate": 111.53846153846155
+  },
+  "RN ten Doeschate": {
+    "runs": 326,
+    "balls": 235,
+    "strike_rate": 138.72340425531914
+  },
+  "TR Birt": {
+    "runs": 75,
+    "balls": 58,
+    "strike_rate": 129.31034482758622
+  },
+  "AG Murtaza": {
+    "runs": 10,
+    "balls": 14,
+    "strike_rate": 71.42857142857143
+  },
+  "Harpreet Singh": {
+    "runs": 123,
+    "balls": 119,
+    "strike_rate": 103.36134453781514
+  },
+  "M Klinger": {
+    "runs": 73,
+    "balls": 77,
+    "strike_rate": 94.8051948051948
+  },
+  "AC Blizzard": {
+    "runs": 120,
+    "balls": 90,
+    "strike_rate": 133.33333333333331
+  },
+  "I Malhotra": {
+    "runs": 7,
+    "balls": 4,
+    "strike_rate": 175
+  },
+  "L Ablish": {
+    "runs": 0,
+    "balls": 2,
+    "strike_rate": 0
+  },
+  "CA Ingram": {
+    "runs": 205,
+    "balls": 180,
+    "strike_rate": 113.88888888888889
+  },
+  "S Nadeem": {
+    "runs": 39,
+    "balls": 87,
+    "strike_rate": 44.827586206896555
+  },
+  "P Parameswaran": {
+    "runs": 1,
+    "balls": 2,
+    "strike_rate": 50
+  },
+  "CJ Ferguson": {
+    "runs": 98,
+    "balls": 117,
+    "strike_rate": 83.76068376068376
+  },
+  "VR Aaron": {
+    "runs": 50,
+    "balls": 72,
+    "strike_rate": 69.44444444444444
+  },
+  "AA Chavan": {
+    "runs": 12,
+    "balls": 11,
+    "strike_rate": 109.09090909090908
+  },
+  "ND Doshi": {
+    "runs": 0,
+    "balls": 13,
+    "strike_rate": 0
+  },
+  "B Kumar": {
+    "runs": 306,
+    "balls": 326,
+    "strike_rate": 93.86503067484662
+  },
+  "Y Gnaneswara Rao": {
+    "runs": 19,
+    "balls": 17,
+    "strike_rate": 111.76470588235294
+  },
+  "S Rana": {
+    "runs": 91,
+    "balls": 81,
+    "strike_rate": 112.34567901234568
+  },
+  "BA Bhatt": {
+    "runs": 6,
+    "balls": 7,
+    "strike_rate": 85.71428571428571
+  },
+  "F du Plessis": {
+    "runs": 4571,
+    "balls": 3352,
+    "strike_rate": 136.36634844868735
+  },
+  "RE Levi": {
+    "runs": 83,
+    "balls": 73,
+    "strike_rate": 113.69863013698631
+  },
+  "GJ Maxwell": {
+    "runs": 2771,
+    "balls": 1768,
+    "strike_rate": 156.73076923076923
+  },
+  "SPD Smith": {
+    "runs": 2485,
+    "balls": 1940,
+    "strike_rate": 128.0927835051546
+  },
+  "MN Samuels": {
+    "runs": 161,
+    "balls": 172,
+    "strike_rate": 93.6046511627907
+  },
+  "SA Yadav": {
+    "runs": 3594,
+    "balls": 2473,
+    "strike_rate": 145.32955923978972
+  },
+  "KK Cooper": {
+    "runs": 116,
+    "balls": 68,
+    "strike_rate": 170.58823529411765
+  },
+  "JP Faulkner": {
+    "runs": 527,
+    "balls": 389,
+    "strike_rate": 135.47557840616966
+  },
+  "HV Patel": {
+    "runs": 249,
+    "balls": 203,
+    "strike_rate": 122.66009852216749
+  },
+  "DAJ Bracewell": {
+    "runs": 12,
+    "balls": 9,
+    "strike_rate": 133.33333333333331
+  },
+  "DJ Harris": {
+    "runs": 111,
+    "balls": 101,
+    "strike_rate": 109.9009900990099
+  },
+  "Ankit Sharma": {
+    "runs": 87,
+    "balls": 67,
+    "strike_rate": 129.8507462686567
+  },
+  "SP Narine": {
+    "runs": 1534,
+    "balls": 925,
+    "strike_rate": 165.83783783783784
+  },
+  "GB Hogg": {
+    "runs": 22,
+    "balls": 22,
+    "strike_rate": 100
+  },
+  "RR Bhatkal": {
+    "runs": 0,
+    "balls": 2,
+    "strike_rate": 0
+  },
+  "CJ McKay": {
+    "runs": 8,
+    "balls": 15,
+    "strike_rate": 53.333333333333336
+  },
+  "N Saini": {
+    "runs": 140,
+    "balls": 141,
+    "strike_rate": 99.29078014184397
+  },
+  "DA Miller": {
+    "runs": 2924,
+    "balls": 2100,
+    "strike_rate": 139.23809523809524
+  },
+  "Azhar Mahmood": {
+    "runs": 388,
+    "balls": 303,
+    "strike_rate": 128.05280528052805
+  },
+  "P Negi": {
+    "runs": 365,
+    "balls": 289,
+    "strike_rate": 126.29757785467129
+  },
+  "RJ Peterson": {
+    "runs": 32,
+    "balls": 30,
+    "strike_rate": 106.66666666666667
+  },
+  "KMDN Kulasekara": {
+    "runs": 5,
+    "balls": 3,
+    "strike_rate": 166.66666666666669
+  },
+  "A Ashish Reddy": {
+    "runs": 280,
+    "balls": 193,
+    "strike_rate": 145.0777202072539
+  },
+  "V Pratap Singh": {
+    "runs": 0,
+    "balls": 1,
+    "strike_rate": 0
+  },
+  "BB Samantray": {
+    "runs": 125,
+    "balls": 113,
+    "strike_rate": 110.61946902654867
+  },
+  "MJ Clarke": {
+    "runs": 98,
+    "balls": 94,
+    "strike_rate": 104.25531914893618
+  },
+  "Gurkeerat Singh": {
+    "runs": 511,
+    "balls": 422,
+    "strike_rate": 121.09004739336493
+  },
+  "AP Majumdar": {
+    "runs": 87,
+    "balls": 76,
+    "strike_rate": 114.4736842105263
+  },
+  "PA Reddy": {
+    "runs": 164,
+    "balls": 160,
+    "strike_rate": 102.49999999999999
+  },
+  "K Upadhyay": {
+    "runs": 12,
+    "balls": 9,
+    "strike_rate": 133.33333333333331
+  },
+  "P Awana": {
+    "runs": 5,
+    "balls": 14,
+    "strike_rate": 35.714285714285715
+  },
+  "AD Russell": {
+    "runs": 2484,
+    "balls": 1420,
+    "strike_rate": 174.92957746478874
+  },
+  "A Chandila": {
+    "runs": 4,
+    "balls": 7,
+    "strike_rate": 57.14285714285714
+  },
+  "CA Lynn": {
+    "runs": 1329,
+    "balls": 945,
+    "strike_rate": 140.63492063492063
+  },
+  "Sunny Gupta": {
+    "runs": 0,
+    "balls": 1,
+    "strike_rate": 0
+  },
+  "MC Juneja": {
+    "runs": 125,
+    "balls": 128,
+    "strike_rate": 97.65625
+  },
+  "KK Nair": {
+    "runs": 1496,
+    "balls": 1171,
+    "strike_rate": 127.75405636208367
+  },
+  "GH Vihari": {
+    "runs": 284,
+    "balls": 321,
+    "strike_rate": 88.47352024922118
+  },
+  "MDKJ Perera": {
+    "runs": 14,
+    "balls": 13,
+    "strike_rate": 107.6923076923077
+  },
+  "R Shukla": {
+    "runs": 19,
+    "balls": 23,
+    "strike_rate": 82.6086956521739
+  },
+  "B Laughlin": {
+    "runs": 5,
+    "balls": 13,
+    "strike_rate": 38.46153846153847
+  },
+  "AS Rajpoot": {
+    "runs": 26,
+    "balls": 41,
+    "strike_rate": 63.41463414634146
+  },
+  "M Vohra": {
+    "runs": 1083,
+    "balls": 829,
+    "strike_rate": 130.63932448733414
+  },
+  "JD Unadkat": {
+    "runs": 197,
+    "balls": 166,
+    "strike_rate": 118.67469879518073
+  },
+  "Mohammed Shami": {
+    "runs": 74,
+    "balls": 79,
+    "strike_rate": 93.67088607594937
+  },
+  "BMAJ Mendis": {
+    "runs": 23,
+    "balls": 27,
+    "strike_rate": 85.18518518518519
+  },
+  "R Rampaul": {
+    "runs": 51,
+    "balls": 50,
+    "strike_rate": 102
+  },
+  "CH Morris": {
+    "runs": 618,
+    "balls": 398,
+    "strike_rate": 155.27638190954772
+  },
+  "SV Samson": {
+    "runs": 4419,
+    "balls": 3180,
+    "strike_rate": 138.96226415094338
+  },
+  "SMSM Senanayake": {
+    "runs": 10,
+    "balls": 17,
+    "strike_rate": 58.82352941176471
+  },
+  "BJ Rohrer": {
+    "runs": 193,
+    "balls": 140,
+    "strike_rate": 137.85714285714286
+  },
+  "KL Rahul": {
+    "runs": 4683,
+    "balls": 3479,
+    "strike_rate": 134.6076458752515
+  },
+  "Q de Kock": {
+    "runs": 3157,
+    "balls": 2352,
+    "strike_rate": 134.22619047619045
+  },
+  "R Dhawan": {
+    "runs": 210,
+    "balls": 187,
+    "strike_rate": 112.29946524064172
+  },
+  "MG Johnson": {
+    "runs": 167,
+    "balls": 164,
+    "strike_rate": 101.82926829268293
+  },
+  "LJ Wright": {
+    "runs": 106,
+    "balls": 60,
+    "strike_rate": 176.66666666666666
+  },
+  "IC Pandey": {
+    "runs": 0,
+    "balls": 2,
+    "strike_rate": 0
+  },
+  "CM Gautam": {
+    "runs": 169,
+    "balls": 150,
+    "strike_rate": 112.66666666666667
+  },
+  "X Thalaivan Sargunam": {
+    "runs": 10,
+    "balls": 17,
+    "strike_rate": 58.82352941176471
+  },
+  "DJG Sammy": {
+    "runs": 295,
+    "balls": 241,
+    "strike_rate": 122.40663900414938
+  },
+  "KW Richardson": {
+    "runs": 36,
+    "balls": 39,
+    "strike_rate": 92.3076923076923
+  },
+  "MM Sharma": {
+    "runs": 124,
+    "balls": 133,
+    "strike_rate": 93.23308270676691
+  },
+  "UA Birla": {
+    "runs": 7,
+    "balls": 14,
+    "strike_rate": 50
+  },
+  "Parvez Rasool": {
+    "runs": 17,
+    "balls": 20,
+    "strike_rate": 85
+  },
+  "Sandeep Sharma": {
+    "runs": 54,
+    "balls": 70,
+    "strike_rate": 77.14285714285715
+  },
+  "S Kaul": {
+    "runs": 20,
+    "balls": 36,
+    "strike_rate": 55.55555555555556
+  },
+  "Sachin Baby": {
+    "runs": 144,
+    "balls": 118,
+    "strike_rate": 122.03389830508475
+  },
+  "PV Tambe": {
+    "runs": 18,
+    "balls": 39,
+    "strike_rate": 46.15384615384615
+  },
+  "NM Coulter-Nile": {
+    "runs": 82,
+    "balls": 72,
+    "strike_rate": 113.88888888888889
+  },
+  "CJ Anderson": {
+    "runs": 538,
+    "balls": 423,
+    "strike_rate": 127.18676122931443
+  },
+  "NJ Maddinson": {
+    "runs": 20,
+    "balls": 21,
+    "strike_rate": 95.23809523809523
+  },
+  "AR Patel": {
+    "runs": 1653,
+    "balls": 1263,
+    "strike_rate": 130.87885985748218
+  },
+  "JJ Bumrah": {
+    "runs": 68,
+    "balls": 78,
+    "strike_rate": 87.17948717948718
+  },
+  "JDS Neesham": {
+    "runs": 92,
+    "balls": 93,
+    "strike_rate": 98.9247311827957
+  },
+  "TG Southee": {
+    "runs": 120,
+    "balls": 107,
+    "strike_rate": 112.14953271028037
+  },
+  "MA Starc": {
+    "runs": 105,
+    "balls": 109,
+    "strike_rate": 96.3302752293578
+  },
+  "BR Dunk": {
+    "runs": 40,
+    "balls": 35,
+    "strike_rate": 114.28571428571428
+  },
+  "RR Rossouw": {
+    "runs": 473,
+    "balls": 308,
+    "strike_rate": 153.57142857142858
+  },
+  "Shivam Sharma": {
+    "runs": 5,
+    "balls": 3,
+    "strike_rate": 166.66666666666669
+  },
+  "YS Chahal": {
+    "runs": 37,
+    "balls": 86,
+    "strike_rate": 43.02325581395349
+  },
+  "LMP Simmons": {
+    "runs": 1079,
+    "balls": 852,
+    "strike_rate": 126.6431924882629
+  },
+  "VH Zol": {
+    "runs": 29,
+    "balls": 26,
+    "strike_rate": 111.53846153846155
+  },
+  "BCJ Cutting": {
+    "runs": 238,
+    "balls": 141,
+    "strike_rate": 168.79432624113474
+  },
+  "Imran Tahir": {
+    "runs": 33,
+    "balls": 37,
+    "strike_rate": 89.1891891891892
+  },
+  "BE Hendricks": {
+    "runs": 1,
+    "balls": 3,
+    "strike_rate": 33.33333333333333
+  },
+  "S Gopal": {
+    "runs": 180,
+    "balls": 169,
+    "strike_rate": 106.50887573964498
+  },
+  "M de Lange": {
+    "runs": 1,
+    "balls": 2,
+    "strike_rate": 50
+  },
+  "R Tewatia": {
+    "runs": 1013,
+    "balls": 752,
+    "strike_rate": 134.70744680851064
+  },
+  "JO Holder": {
+    "runs": 259,
+    "balls": 211,
+    "strike_rate": 122.74881516587676
+  },
+  "Karanveer Singh": {
+    "runs": 12,
+    "balls": 17,
+    "strike_rate": 70.58823529411765
+  },
+  "SS Iyer": {
+    "runs": 3127,
+    "balls": 2453,
+    "strike_rate": 127.47655931512433
+  },
+  "DJ Hooda": {
+    "runs": 1465,
+    "balls": 1131,
+    "strike_rate": 129.5313881520778
+  },
+  "Anureet Singh": {
+    "runs": 36,
+    "balls": 47,
+    "strike_rate": 76.59574468085107
+  },
+  "KS Williamson": {
+    "runs": 2128,
+    "balls": 1694,
+    "strike_rate": 125.6198347107438
+  },
+  "SA Abbott": {
+    "runs": 22,
+    "balls": 18,
+    "strike_rate": 122.22222222222223
+  },
+  "J Suchith": {
+    "runs": 70,
+    "balls": 61,
+    "strike_rate": 114.75409836065573
+  },
+  "RG More": {
+    "runs": 2,
+    "balls": 2,
+    "strike_rate": 100
+  },
+  "HH Pandya": {
+    "runs": 2525,
+    "balls": 1734,
+    "strike_rate": 145.61707035755478
+  },
+  "D Wiese": {
+    "runs": 148,
+    "balls": 101,
+    "strike_rate": 146.53465346534654
+  },
+  "SN Khan": {
+    "runs": 585,
+    "balls": 448,
+    "strike_rate": 130.58035714285714
+  },
+  "MJ McClenaghan": {
+    "runs": 85,
+    "balls": 70,
+    "strike_rate": 121.42857142857142
+  },
+  "DJ Muthuswami": {
+    "runs": 1,
+    "balls": 3,
+    "strike_rate": 33.33333333333333
+  },
+  "PJ Cummins": {
+    "runs": 515,
+    "balls": 344,
+    "strike_rate": 149.7093023255814
+  },
+  "SN Thakur": {
+    "runs": 307,
+    "balls": 221,
+    "strike_rate": 138.91402714932127
+  },
+  "JC Buttler": {
+    "runs": 3582,
+    "balls": 2428,
+    "strike_rate": 147.52883031301482
+  },
+  "CR Brathwaite": {
+    "runs": 181,
+    "balls": 111,
+    "strike_rate": 163.06306306306305
+  },
+  "MP Stoinis": {
+    "runs": 1866,
+    "balls": 1314,
+    "strike_rate": 142.00913242009133
+  },
+  "Ishan Kishan": {
+    "runs": 2644,
+    "balls": 1946,
+    "strike_rate": 135.86844809866392
+  },
+  "C Munro": {
+    "runs": 177,
+    "balls": 141,
+    "strike_rate": 125.53191489361701
+  },
+  "P Sahu": {
+    "runs": 19,
+    "balls": 13,
+    "strike_rate": 146.15384615384613
+  },
+  "KH Pandya": {
+    "runs": 1647,
+    "balls": 1240,
+    "strike_rate": 132.82258064516128
+  },
+  "AD Nath": {
+    "runs": 90,
+    "balls": 98,
+    "strike_rate": 91.83673469387756
+  },
+  "MJ Guptill": {
+    "runs": 270,
+    "balls": 196,
+    "strike_rate": 137.75510204081633
+  },
+  "KJ Abbott": {
+    "runs": 13,
+    "balls": 8,
+    "strike_rate": 162.5
+  },
+  "TM Head": {
+    "runs": 772,
+    "balls": 444,
+    "strike_rate": 173.87387387387386
+  },
+  "M Ashwin": {
+    "runs": 35,
+    "balls": 50,
+    "strike_rate": 70
+  },
+  "NS Naik": {
+    "runs": 31,
+    "balls": 50,
+    "strike_rate": 62
+  },
+  "RR Pant": {
+    "runs": 3284,
+    "balls": 2205,
+    "strike_rate": 148.9342403628118
+  },
+  "SW Billings": {
+    "runs": 503,
+    "balls": 388,
+    "strike_rate": 129.63917525773198
+  },
+  "KC Cariappa": {
+    "runs": 24,
+    "balls": 21,
+    "strike_rate": 114.28571428571428
+  },
+  "PSP Handscomb": {
+    "runs": 6,
+    "balls": 12,
+    "strike_rate": 50
+  },
+  "Swapnil Singh": {
+    "runs": 51,
+    "balls": 45,
+    "strike_rate": 113.33333333333333
+  },
+  "J Yadav": {
+    "runs": 40,
+    "balls": 36,
+    "strike_rate": 111.11111111111111
+  },
+  "UT Khawaja": {
+    "runs": 127,
+    "balls": 100,
+    "strike_rate": 127
+  },
+  "HM Amla": {
+    "runs": 577,
+    "balls": 407,
+    "strike_rate": 141.76904176904176
+  },
+  "F Behardien": {
+    "runs": 14,
+    "balls": 13,
+    "strike_rate": 107.6923076923077
+  },
+  "BB Sran": {
+    "runs": 10,
+    "balls": 14,
+    "strike_rate": 71.42857142857143
+  },
+  "A Zampa": {
+    "runs": 15,
+    "balls": 24,
+    "strike_rate": 62.5
+  },
+  "N Rana": {
+    "runs": 2636,
+    "balls": 1952,
+    "strike_rate": 135.04098360655738
+  },
+  "S Kaushik": {
+    "runs": 0,
+    "balls": 1,
+    "strike_rate": 0
+  },
+  "ER Dwivedi": {
+    "runs": 24,
+    "balls": 14,
+    "strike_rate": 171.42857142857142
+  },
+  "CJ Jordan": {
+    "runs": 81,
+    "balls": 77,
+    "strike_rate": 105.1948051948052
+  },
+  "TS Mills": {
+    "runs": 8,
+    "balls": 14,
+    "strike_rate": 57.14285714285714
+  },
+  "A Choudhary": {
+    "runs": 25,
+    "balls": 20,
+    "strike_rate": 125
+  },
+  "BA Stokes": {
+    "runs": 935,
+    "balls": 698,
+    "strike_rate": 133.9541547277937
+  },
+  "JJ Roy": {
+    "runs": 614,
+    "balls": 443,
+    "strike_rate": 138.6004514672686
+  },
+  "Vishnu Vinod": {
+    "runs": 56,
+    "balls": 57,
+    "strike_rate": 98.24561403508771
+  },
+  "Basil Thampi": {
+    "runs": 32,
+    "balls": 35,
+    "strike_rate": 91.42857142857143
+  },
+  "CR Woakes": {
+    "runs": 78,
+    "balls": 77,
+    "strike_rate": 101.29870129870129
+  },
+  "RA Tripathi": {
+    "runs": 2236,
+    "balls": 1605,
+    "strike_rate": 139.31464174454828
+  },
+  "DL Chahar": {
+    "runs": 80,
+    "balls": 59,
+    "strike_rate": 135.59322033898303
+  },
+  "V Shankar": {
+    "runs": 1115,
+    "balls": 859,
+    "strike_rate": 129.80209545983703
+  },
+  "Rashid Khan": {
+    "runs": 545,
+    "balls": 337,
+    "strike_rate": 161.72106824925817
+  },
+  "RD Chahar": {
+    "runs": 129,
+    "balls": 124,
+    "strike_rate": 104.03225806451613
+  },
+  "LH Ferguson": {
+    "runs": 68,
+    "balls": 46,
+    "strike_rate": 147.82608695652172
+  },
+  "C de Grandhomme": {
+    "runs": 303,
+    "balls": 225,
+    "strike_rate": 134.66666666666666
+  },
+  "AF Milne": {
+    "runs": 23,
+    "balls": 29,
+    "strike_rate": 79.3103448275862
+  },
+  "S Badree": {
+    "runs": 13,
+    "balls": 23,
+    "strike_rate": 56.52173913043478
+  },
+  "Mohammad Nabi": {
+    "runs": 215,
+    "balls": 150,
+    "strike_rate": 143.33333333333334
+  },
+  "AJ Tye": {
+    "runs": 91,
+    "balls": 76,
+    "strike_rate": 119.73684210526316
+  },
+  "K Rabada": {
+    "runs": 206,
+    "balls": 193,
+    "strike_rate": 106.73575129533678
+  },
+  "Kuldeep Yadav": {
+    "runs": 183,
+    "balls": 216,
+    "strike_rate": 84.72222222222221
+  },
+  "Washington Sundar": {
+    "runs": 378,
+    "balls": 325,
+    "strike_rate": 116.3076923076923
+  },
+  "DM Bravo": {
+    "runs": 6,
+    "balls": 5,
+    "strike_rate": 120
+  },
+  "AR Bawne": {
+    "runs": 12,
+    "balls": 12,
+    "strike_rate": 100
+  },
+  "SP Jackson": {
+    "runs": 61,
+    "balls": 57,
+    "strike_rate": 107.01754385964912
+  },
+  "Ankit Soni": {
+    "runs": 7,
+    "balls": 9,
+    "strike_rate": 77.77777777777779
+  },
+  "TA Boult": {
+    "runs": 83,
+    "balls": 78,
+    "strike_rate": 106.41025641025641
+  },
+  "E Lewis": {
+    "runs": 654,
+    "balls": 477,
+    "strike_rate": 137.1069182389937
+  },
+  "MA Wood": {
+    "runs": 12,
+    "balls": 8,
+    "strike_rate": 150
+  },
+  "RK Singh": {
+    "runs": 893,
+    "balls": 623,
+    "strike_rate": 143.338683788122
+  },
+  "DJM Short": {
+    "runs": 115,
+    "balls": 99,
+    "strike_rate": 116.16161616161615
+  },
+  "K Gowtham": {
+    "runs": 247,
+    "balls": 148,
+    "strike_rate": 166.89189189189187
+  },
+  "TK Curran": {
+    "runs": 127,
+    "balls": 107,
+    "strike_rate": 118.69158878504673
+  },
+  "M Markande": {
+    "runs": 48,
+    "balls": 42,
+    "strike_rate": 114.28571428571428
+  },
+  "B Stanlake": {
+    "runs": 5,
+    "balls": 2,
+    "strike_rate": 250
+  },
+  "Mujeeb Ur Rahman": {
+    "runs": 12,
+    "balls": 15,
+    "strike_rate": 80
+  },
+  "A Dananjaya": {
+    "runs": 4,
+    "balls": 5,
+    "strike_rate": 80
+  },
+  "Shubman Gill": {
+    "runs": 3216,
+    "balls": 2370,
+    "strike_rate": 135.69620253164555
+  },
+  "Shivam Mavi": {
+    "runs": 51,
+    "balls": 56,
+    "strike_rate": 91.07142857142857
+  },
+  "Mohammed Siraj": {
+    "runs": 109,
+    "balls": 119,
+    "strike_rate": 91.59663865546219
+  },
+  "H Klaasen": {
+    "runs": 993,
+    "balls": 590,
+    "strike_rate": 168.3050847457627
+  },
+  "RK Bhui": {
+    "runs": 10,
+    "balls": 26,
+    "strike_rate": 38.46153846153847
+  },
+  "JC Archer": {
+    "runs": 199,
+    "balls": 128,
+    "strike_rate": 155.46875
+  },
+  "PP Shaw": {
+    "runs": 1892,
+    "balls": 1283,
+    "strike_rate": 147.4668745128605
+  },
+  "LE Plunkett": {
+    "runs": 1,
+    "balls": 3,
+    "strike_rate": 33.33333333333333
+  },
+  "Mustafizur Rahman": {
+    "runs": 13,
+    "balls": 23,
+    "strike_rate": 56.52173913043478
+  },
+  "AD Hales": {
+    "runs": 148,
+    "balls": 118,
+    "strike_rate": 125.42372881355932
+  },
+  "MK Lomror": {
+    "runs": 527,
+    "balls": 373,
+    "strike_rate": 141.28686327077747
+  },
+  "DR Shorey": {
+    "runs": 13,
+    "balls": 17,
+    "strike_rate": 76.47058823529412
+  },
+  "MM Ali": {
+    "runs": 1162,
+    "balls": 821,
+    "strike_rate": 141.5347137637028
+  },
+  "M Prasidh Krishna": {
+    "runs": 9,
+    "balls": 24,
+    "strike_rate": 37.5
+  },
+  "P Chopra": {
+    "runs": 8,
+    "balls": 6,
+    "strike_rate": 133.33333333333331
+  },
+  "JPR Scantlebury-Searles": {
+    "runs": 8,
+    "balls": 6,
+    "strike_rate": 133.33333333333331
+  },
+  "Abhishek Sharma": {
+    "runs": 1377,
+    "balls": 887,
+    "strike_rate": 155.24239007891768
+  },
+  "IS Sodhi": {
+    "runs": 7,
+    "balls": 17,
+    "strike_rate": 41.17647058823529
+  },
+  "SO Hetmyer": {
+    "runs": 1243,
+    "balls": 812,
+    "strike_rate": 153.07881773399015
+  },
+  "S Dube": {
+    "runs": 1502,
+    "balls": 1024,
+    "strike_rate": 146.6796875
+  },
+  "Navdeep Saini": {
+    "runs": 33,
+    "balls": 37,
+    "strike_rate": 89.1891891891892
+  },
+  "JM Bairstow": {
+    "runs": 1589,
+    "balls": 1100,
+    "strike_rate": 144.45454545454547
+  },
+  "KMA Paul": {
+    "runs": 18,
+    "balls": 24,
+    "strike_rate": 75
+  },
+  "Rasikh Salam": {
+    "runs": 40,
+    "balls": 40,
+    "strike_rate": 100
+  },
+  "N Pooran": {
+    "runs": 1769,
+    "balls": 1090,
+    "strike_rate": 162.2935779816514
+  },
+  "P Ray Barman": {
+    "runs": 19,
+    "balls": 24,
+    "strike_rate": 79.16666666666666
+  },
+  "SM Curran": {
+    "runs": 883,
+    "balls": 647,
+    "strike_rate": 136.47604327666153
+  },
+  "GC Viljoen": {
+    "runs": 3,
+    "balls": 7,
+    "strike_rate": 42.857142857142854
+  },
+  "Avesh Khan": {
+    "runs": 41,
+    "balls": 25,
+    "strike_rate": 164
+  },
+  "S Lamichhane": {
+    "runs": 0,
+    "balls": 1,
+    "strike_rate": 0
+  },
+  "HF Gurney": {
+    "runs": 1,
+    "balls": 5,
+    "strike_rate": 20
+  },
+  "SD Lad": {
+    "runs": 15,
+    "balls": 13,
+    "strike_rate": 115.38461538461537
+  },
+  "AS Joseph": {
+    "runs": 27,
+    "balls": 32,
+    "strike_rate": 84.375
+  },
+  "R Parag": {
+    "runs": 1173,
+    "balls": 868,
+    "strike_rate": 135.13824884792626
+  },
+  "MJ Santner": {
+    "runs": 70,
+    "balls": 71,
+    "strike_rate": 98.59154929577466
+  },
+  "JL Denly": {
+    "runs": 0,
+    "balls": 1,
+    "strike_rate": 0
+  },
+  "LS Livingstone": {
+    "runs": 939,
+    "balls": 578,
+    "strike_rate": 162.4567474048443
+  },
+  "KK Ahmed": {
+    "runs": 1,
+    "balls": 7,
+    "strike_rate": 14.285714285714285
+  },
+  "AJ Turner": {
+    "runs": 24,
+    "balls": 28,
+    "strike_rate": 85.71428571428571
+  },
+  "Harpreet Brar": {
+    "runs": 233,
+    "balls": 190,
+    "strike_rate": 122.63157894736842
+  },
+  "SE Rutherford": {
+    "runs": 106,
+    "balls": 104,
+    "strike_rate": 101.92307692307692
+  },
+  "Y Prithvi Raj": {
+    "runs": 0,
+    "balls": 1,
+    "strike_rate": 0
+  },
+  "P Simran Singh": {
+    "runs": 756,
+    "balls": 517,
+    "strike_rate": 146.22823984526113
+  },
+  "JL Pattinson": {
+    "runs": 15,
+    "balls": 13,
+    "strike_rate": 115.38461538461537
+  },
+  "A Nortje": {
+    "runs": 49,
+    "balls": 49,
+    "strike_rate": 100
+  },
+  "T Banton": {
+    "runs": 18,
+    "balls": 20,
+    "strike_rate": 90
+  },
+  "D Padikkal": {
+    "runs": 1559,
+    "balls": 1266,
+    "strike_rate": 123.1437598736177
+  },
+  "YBK Jaiswal": {
+    "runs": 1607,
+    "balls": 1067,
+    "strike_rate": 150.6091846298032
+  },
+  "RD Gaikwad": {
+    "runs": 2380,
+    "balls": 1739,
+    "strike_rate": 136.860264519839
+  },
+  "TU Deshpande": {
+    "runs": 21,
+    "balls": 14,
+    "strike_rate": 150
+  },
+  "Abdul Samad": {
+    "runs": 577,
+    "balls": 395,
+    "strike_rate": 146.0759493670886
+  },
+  "PK Garg": {
+    "runs": 273,
+    "balls": 241,
+    "strike_rate": 113.27800829875518
+  },
+  "JR Philippe": {
+    "runs": 78,
+    "balls": 77,
+    "strike_rate": 101.29870129870129
+  },
+  "Kartik Tyagi": {
+    "runs": 13,
+    "balls": 16,
+    "strike_rate": 81.25
+  },
+  "KL Nagarkoti": {
+    "runs": 22,
+    "balls": 33,
+    "strike_rate": 66.66666666666666
+  },
+  "CV Varun": {
+    "runs": 25,
+    "balls": 46,
+    "strike_rate": 54.347826086956516
+  },
+  "I Udana": {
+    "runs": 15,
+    "balls": 11,
+    "strike_rate": 136.36363636363635
+  },
+  "Ravi Bishnoi": {
+    "runs": 32,
+    "balls": 50,
+    "strike_rate": 64
+  },
+  "Shahbaz Ahmed": {
+    "runs": 536,
+    "balls": 440,
+    "strike_rate": 121.81818181818183
+  },
+  "AT Carey": {
+    "runs": 32,
+    "balls": 29,
+    "strike_rate": 110.34482758620689
+  },
+  "N Jagadeesan": {
+    "runs": 162,
+    "balls": 147,
+    "strike_rate": 110.20408163265304
+  },
+  "T Natarajan": {
+    "runs": 3,
+    "balls": 5,
+    "strike_rate": 60
+  },
+  "P Dubey": {
+    "runs": 23,
+    "balls": 33,
+    "strike_rate": 69.6969696969697
+  },
+  "SS Cottrell": {
+    "runs": 0,
+    "balls": 2,
+    "strike_rate": 0
+  },
+  "Arshdeep Singh": {
+    "runs": 29,
+    "balls": 40,
+    "strike_rate": 72.5
+  },
+  "DR Sams": {
+    "runs": 44,
+    "balls": 44,
+    "strike_rate": 100
+  },
+  "M Jansen": {
+    "runs": 66,
+    "balls": 66,
+    "strike_rate": 100
+  },
+  "RM Patidar": {
+    "runs": 799,
+    "balls": 503,
+    "strike_rate": 158.84691848906562
+  },
+  "KA Jamieson": {
+    "runs": 65,
+    "balls": 55,
+    "strike_rate": 118.18181818181819
+  },
+  "M Shahrukh Khan": {
+    "runs": 553,
+    "balls": 391,
+    "strike_rate": 141.43222506393863
+  },
+  "JA Richardson": {
+    "runs": 17,
+    "balls": 26,
+    "strike_rate": 65.38461538461539
+  },
+  "Lalit Yadav": {
+    "runs": 305,
+    "balls": 290,
+    "strike_rate": 105.17241379310344
+  },
+  "Virat Singh": {
+    "runs": 15,
+    "balls": 26,
+    "strike_rate": 57.692307692307686
+  },
+  "FA Allen": {
+    "runs": 14,
+    "balls": 19,
+    "strike_rate": 73.68421052631578
+  },
+  "C Sakariya": {
+    "runs": 20,
+    "balls": 31,
+    "strike_rate": 64.51612903225806
+  },
+  "DJ Malan": {
+    "runs": 26,
+    "balls": 26,
+    "strike_rate": 100
+  },
+  "KS Bharat": {
+    "runs": 199,
+    "balls": 163,
+    "strike_rate": 122.08588957055215
+  },
+  "PWH de Silva": {
+    "runs": 72,
+    "balls": 73,
+    "strike_rate": 98.63013698630137
+  },
+  "VR Iyer": {
+    "runs": 1326,
+    "balls": 967,
+    "strike_rate": 137.12512926577043
+  },
+  "GD Phillips": {
+    "runs": 65,
+    "balls": 55,
+    "strike_rate": 118.18181818181819
+  },
+  "GHS Garton": {
+    "runs": 2,
+    "balls": 4,
+    "strike_rate": 50
+  },
+  "AK Markram": {
+    "runs": 995,
+    "balls": 767,
+    "strike_rate": 129.72620599739244
+  },
+  "K Yadav": {
+    "runs": 0,
+    "balls": 4,
+    "strike_rate": 0
+  },
+  "T Shamsi": {
+    "runs": 2,
+    "balls": 4,
+    "strike_rate": 50
+  },
+  "NT Ellis": {
+    "runs": 19,
+    "balls": 25,
+    "strike_rate": 76
+  },
+  "RV Patel": {
+    "runs": 80,
+    "balls": 73,
+    "strike_rate": 109.58904109589041
+  },
+  "TL Seifert": {
+    "runs": 26,
+    "balls": 23,
+    "strike_rate": 113.04347826086956
+  },
+  "Anmolpreet Singh": {
+    "runs": 139,
+    "balls": 115,
+    "strike_rate": 120.8695652173913
+  },
+  "Anuj Rawat": {
+    "runs": 318,
+    "balls": 267,
+    "strike_rate": 119.10112359550563
+  },
+  "TH David": {
+    "runs": 659,
+    "balls": 387,
+    "strike_rate": 170.28423772609818
+  },
+  "DP Conway": {
+    "runs": 924,
+    "balls": 654,
+    "strike_rate": 141.28440366972478
+  },
+  "Tilak Varma": {
+    "runs": 1156,
+    "balls": 790,
+    "strike_rate": 146.32911392405063
+  },
+  "R Powell": {
+    "runs": 360,
+    "balls": 244,
+    "strike_rate": 147.54098360655738
+  },
+  "PBB Rajapaksa": {
+    "runs": 277,
+    "balls": 191,
+    "strike_rate": 145.0261780104712
+  },
+  "RA Bawa": {
+    "runs": 11,
+    "balls": 14,
+    "strike_rate": 78.57142857142857
+  },
+  "OF Smith": {
+    "runs": 51,
+    "balls": 44,
+    "strike_rate": 115.90909090909092
+  },
+  "A Badoni": {
+    "runs": 634,
+    "balls": 473,
+    "strike_rate": 134.03805496828753
+  },
+  "PVD Chameera": {
+    "runs": 43,
+    "balls": 28,
+    "strike_rate": 153.57142857142858
+  },
+  "A Manohar": {
+    "runs": 231,
+    "balls": 174,
+    "strike_rate": 132.75862068965517
+  },
+  "R Shepherd": {
+    "runs": 115,
+    "balls": 63,
+    "strike_rate": 182.53968253968253
+  },
+  "DJ Willey": {
+    "runs": 53,
+    "balls": 62,
+    "strike_rate": 85.48387096774194
+  },
+  "D Pretorius": {
+    "runs": 44,
+    "balls": 28,
+    "strike_rate": 157.14285714285714
+  },
+  "JM Sharma": {
+    "runs": 730,
+    "balls": 483,
+    "strike_rate": 151.13871635610764
+  },
+  "VG Arora": {
+    "runs": 9,
+    "balls": 16,
+    "strike_rate": 56.25
+  },
+  "Mukesh Choudhary": {
+    "runs": 6,
+    "balls": 6,
+    "strike_rate": 100
+  },
+  "Umran Malik": {
+    "runs": 23,
+    "balls": 16,
+    "strike_rate": 143.75
+  },
+  "D Brevis": {
+    "runs": 230,
+    "balls": 172,
+    "strike_rate": 133.72093023255815
+  },
+  "B Sai Sudharsan": {
+    "runs": 1034,
+    "balls": 743,
+    "strike_rate": 139.16554508748317
+  },
+  "Ramandeep Singh": {
+    "runs": 170,
+    "balls": 102,
+    "strike_rate": 166.66666666666669
+  },
+  "HE van der Dussen": {
+    "runs": 22,
+    "balls": 24,
+    "strike_rate": 91.66666666666666
+  },
+  "SS Prabhudessai": {
+    "runs": 126,
+    "balls": 106,
+    "strike_rate": 118.86792452830188
+  },
+  "Akash Deep": {
+    "runs": 19,
+    "balls": 12,
+    "strike_rate": 158.33333333333331
+  },
+  "JR Hazlewood": {
+    "runs": 19,
+    "balls": 28,
+    "strike_rate": 67.85714285714286
+  },
+  "KR Sen": {
+    "runs": 0,
+    "balls": 3,
+    "strike_rate": 0
+  },
+  "Aman Hakim Khan": {
+    "runs": 115,
+    "balls": 104,
+    "strike_rate": 110.57692307692308
+  },
+  "HR Shokeen": {
+    "runs": 66,
+    "balls": 65,
+    "strike_rate": 101.53846153846153
+  },
+  "Yash Dayal": {
+    "runs": 0,
+    "balls": 1,
+    "strike_rate": 0
+  },
+  "DJ Mitchell": {
+    "runs": 351,
+    "balls": 267,
+    "strike_rate": 131.46067415730337
+  },
+  "Shashank Singh": {
+    "runs": 423,
+    "balls": 262,
+    "strike_rate": 161.45038167938932
+  },
+  "B Indrajith": {
+    "runs": 21,
+    "balls": 30,
+    "strike_rate": 70
+  },
+  "Harshit Rana": {
+    "runs": 2,
+    "balls": 3,
+    "strike_rate": 66.66666666666666
+  },
+  "Mohsin Khan": {
+    "runs": 25,
+    "balls": 24,
+    "strike_rate": 104.16666666666667
+  },
+  "Simarjeet Singh": {
+    "runs": 7,
+    "balls": 8,
+    "strike_rate": 87.5
+  },
+  "M Theekshana": {
+    "runs": 7,
+    "balls": 7,
+    "strike_rate": 100
+  },
+  "AS Roy": {
+    "runs": 26,
+    "balls": 24,
+    "strike_rate": 108.33333333333333
+  },
+  "Fazalhaq Farooqi": {
+    "runs": 3,
+    "balls": 13,
+    "strike_rate": 23.076923076923077
+  },
+  "K Kartikeya": {
+    "runs": 9,
+    "balls": 12,
+    "strike_rate": 75
+  },
+  "RP Meredith": {
+    "runs": 0,
+    "balls": 3,
+    "strike_rate": 0
+  },
+  "KS Sharma": {
+    "runs": 16,
+    "balls": 25,
+    "strike_rate": 64
+  },
+  "T Stubbs": {
+    "runs": 405,
+    "balls": 233,
+    "strike_rate": 173.8197424892704
+  },
+  "R Sanjay Yadav": {
+    "runs": 0,
+    "balls": 2,
+    "strike_rate": 0
+  },
+  "A Tomar": {
+    "runs": 4,
+    "balls": 8,
+    "strike_rate": 50
+  },
+  "PN Mankad": {
+    "runs": 97,
+    "balls": 73,
+    "strike_rate": 132.87671232876713
+  },
+  "OC McCoy": {
+    "runs": 8,
+    "balls": 5,
+    "strike_rate": 160
+  },
+  "Sikandar Raza": {
+    "runs": 182,
+    "balls": 136,
+    "strike_rate": 133.8235294117647
+  },
+  "Rahmanullah Gurbaz": {
+    "runs": 289,
+    "balls": 216,
+    "strike_rate": 133.7962962962963
+  },
+  "KR Mayers": {
+    "runs": 379,
+    "balls": 263,
+    "strike_rate": 144.106463878327
+  },
+  "Mukesh Kumar": {
+    "runs": 10,
+    "balls": 18,
+    "strike_rate": 55.55555555555556
+  },
+  "HC Brook": {
+    "runs": 190,
+    "balls": 154,
+    "strike_rate": 123.37662337662339
+  },
+  "AU Rashid": {
+    "runs": 22,
+    "balls": 16,
+    "strike_rate": 137.5
+  },
+  "C Green": {
+    "runs": 707,
+    "balls": 460,
+    "strike_rate": 153.69565217391303
+  },
+  "N Wadhera": {
+    "runs": 350,
+    "balls": 250,
+    "strike_rate": 140
+  },
+  "Arshad Khan": {
+    "runs": 96,
+    "balls": 65,
+    "strike_rate": 147.6923076923077
+  },
+  "Abishek Porel": {
+    "runs": 360,
+    "balls": 236,
+    "strike_rate": 152.54237288135593
+  },
+  "Dhruv Jurel": {
+    "runs": 347,
+    "balls": 229,
+    "strike_rate": 151.528384279476
+  },
+  "MG Bracewell": {
+    "runs": 58,
+    "balls": 47,
+    "strike_rate": 123.40425531914893
+  },
+  "MW Short": {
+    "runs": 117,
+    "balls": 92,
+    "strike_rate": 127.17391304347827
+  },
+  "Mohit Rathee": {
+    "runs": 1,
+    "balls": 2,
+    "strike_rate": 50
+  },
+  "YV Dhull": {
+    "runs": 16,
+    "balls": 23,
+    "strike_rate": 69.56521739130434
+  },
+  "Yudhvir Singh": {
+    "runs": 22,
+    "balls": 16,
+    "strike_rate": 137.5
+  },
+  "Atharva Taide": {
+    "runs": 247,
+    "balls": 168,
+    "strike_rate": 147.02380952380955
+  },
+  "Liton Das": {
+    "runs": 4,
+    "balls": 4,
+    "strike_rate": 100
+  },
+  "PD Salt": {
+    "runs": 653,
+    "balls": 372,
+    "strike_rate": 175.53763440860214
+  },
+  "Vijaykumar Vyshak": {
+    "runs": 14,
+    "balls": 12,
+    "strike_rate": 116.66666666666667
+  },
+  "Abdul Basith": {
+    "runs": 1,
+    "balls": 1,
+    "strike_rate": 100
+  },
+  "Arjun Tendulkar": {
+    "runs": 13,
+    "balls": 9,
+    "strike_rate": 144.44444444444443
+  },
+  "JP Behrendorff": {
+    "runs": 6,
+    "balls": 9,
+    "strike_rate": 66.66666666666666
+  },
+  "AJ Hosein": {
+    "runs": 16,
+    "balls": 10,
+    "strike_rate": 160
+  },
+  "Naveen-ul-Haq": {
+    "runs": 18,
+    "balls": 25,
+    "strike_rate": 72
+  },
+  "Noor Ahmad": {
+    "runs": 13,
+    "balls": 18,
+    "strike_rate": 72.22222222222221
+  },
+  "JE Root": {
+    "runs": 10,
+    "balls": 15,
+    "strike_rate": 66.66666666666666
+  },
+  "KM Asif": {
+    "runs": 0,
+    "balls": 2,
+    "strike_rate": 0
+  },
+  "MD Shanaka": {
+    "runs": 26,
+    "balls": 26,
+    "strike_rate": 100
+  },
+  "Sanvir Singh": {
+    "runs": 25,
+    "balls": 21,
+    "strike_rate": 119.04761904761905
+  },
+  "Vivrant Sharma": {
+    "runs": 69,
+    "balls": 47,
+    "strike_rate": 146.80851063829786
+  },
+  "DG Nalkande": {
+    "runs": 12,
+    "balls": 12,
+    "strike_rate": 100
+  },
+  "R Ravindra": {
+    "runs": 222,
+    "balls": 138,
+    "strike_rate": 160.8695652173913
+  },
+  "SD Hope": {
+    "runs": 183,
+    "balls": 122,
+    "strike_rate": 150
+  },
+  "Sumit Kumar": {
+    "runs": 18,
+    "balls": 24,
+    "strike_rate": 75
+  },
+  "Azmatullah Omarzai": {
+    "runs": 42,
+    "balls": 33,
+    "strike_rate": 127.27272727272727
+  },
+  "Naman Dhir": {
+    "runs": 140,
+    "balls": 79,
+    "strike_rate": 177.2151898734177
+  },
+  "G Coetzee": {
+    "runs": 14,
+    "balls": 22,
+    "strike_rate": 63.63636363636363
+  },
+  "SZ Mulani": {
+    "runs": 1,
+    "balls": 1,
+    "strike_rate": 100
+  },
+  "Sameer Rizvi": {
+    "runs": 51,
+    "balls": 43,
+    "strike_rate": 118.6046511627907
+  },
+  "SH Johnson": {
+    "runs": 6,
+    "balls": 7,
+    "strike_rate": 85.71428571428571
+  },
+  "Akash Madhwal": {
+    "runs": 4,
+    "balls": 5,
+    "strike_rate": 80
+  },
+  "SB Dubey": {
+    "runs": 33,
+    "balls": 19,
+    "strike_rate": 173.6842105263158
+  },
+  "Mayank Dagar": {
+    "runs": 0,
+    "balls": 1,
+    "strike_rate": 0
+  },
+  "RJW Topley": {
+    "runs": 3,
+    "balls": 6,
+    "strike_rate": 50
+  },
+  "A Raghuvanshi": {
+    "runs": 163,
+    "balls": 105,
+    "strike_rate": 155.23809523809524
+  },
+  "Ashutosh Sharma": {
+    "runs": 189,
+    "balls": 113,
+    "strike_rate": 167.2566371681416
+  },
+  "Nithish Kumar Reddy": {
+    "runs": 303,
+    "balls": 212,
+    "strike_rate": 142.9245283018868
+  },
+  "Saurav Chauhan": {
+    "runs": 18,
+    "balls": 15,
+    "strike_rate": 120
+  },
+  "Kumar Kushagra": {
+    "runs": 3,
+    "balls": 7,
+    "strike_rate": 42.857142857142854
+  },
+  "BR Sharath": {
+    "runs": 2,
+    "balls": 5,
+    "strike_rate": 40
+  },
+  "WG Jacks": {
+    "runs": 230,
+    "balls": 131,
+    "strike_rate": 175.57251908396947
+  },
+  "J Fraser-McGurk": {
+    "runs": 330,
+    "balls": 141,
+    "strike_rate": 234.04255319148936
+  },
+  "Tanush Kotian": {
+    "runs": 24,
+    "balls": 31,
+    "strike_rate": 77.41935483870968
+  },
+  "KA Maharaj": {
+    "runs": 1,
+    "balls": 2,
+    "strike_rate": 50
+  },
+  "Arshad Khan (2)": {
+    "runs": 5,
+    "balls": 4,
+    "strike_rate": 125
+  },
+  "R Sai Kishore": {
+    "runs": 13,
+    "balls": 6,
+    "strike_rate": 216.66666666666666
+  },
+  "L Wood": {
+    "runs": 9,
+    "balls": 3,
+    "strike_rate": 300
+  },
+  "LB Williams": {
+    "runs": 1,
+    "balls": 2,
+    "strike_rate": 50
+  },
+  "AA Kulkarni": {
+    "runs": 9,
+    "balls": 8,
+    "strike_rate": 112.5
+  },
+  "MJ Suthar": {
+    "runs": 1,
+    "balls": 2,
+    "strike_rate": 50
+  },
+  "RJ Gleeson": {
+    "runs": 2,
+    "balls": 2,
+    "strike_rate": 100
+  },
+  "Gulbadin Naib": {
+    "runs": 19,
+    "balls": 15,
+    "strike_rate": 126.66666666666666
+  },
+  "D Ferreira": {
+    "runs": 8,
+    "balls": 11,
+    "strike_rate": 72.72727272727273
+  },
+  "A Kamboj": {
+    "runs": 2,
+    "balls": 2,
+    "strike_rate": 100
+  },
+  "T Kohler-Cadmore": {
+    "runs": 48,
+    "balls": 54,
+    "strike_rate": 88.88888888888889
+  },
+  "Shivam Singh": {
+    "runs": 2,
+    "balls": 3,
+    "strike_rate": 66.66666666666666
+  },
+  "V Viyaskanth": {
+    "runs": 7,
+    "balls": 5,
+    "strike_rate": 140
+  }
+}

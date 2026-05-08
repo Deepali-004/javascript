@@ -6,11 +6,12 @@ function sixesCount() {
     let delivery = deliveries[i];
     let batter = delivery.batter;
     let runs = Number(delivery.batsman_runs);
+    let inning = Number(delivery.inning);
     // console.log(runs);
     if (!result[batter]) {
       result[batter] = 0;
     }
-    if (runs == 6) {
+    if (runs == 6 && (inning == 1 || inning == 2)) {
       result[batter]++;
     }
   }

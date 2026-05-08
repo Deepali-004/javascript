@@ -6,7 +6,8 @@ function totalNumberOfDots() {
     let delivery = deliveries[i];
     let batsmanRuns = Number(delivery.batsman_runs);
     let extraRuns = Number(delivery.extra_runs);
-    if (batsmanRuns == 0 && extraRuns == 0) {
+    let inning = Number(delivery.inning);
+    if (batsmanRuns == 0 && extraRuns == 0 && (inning == 1 || inning == 2)) {
       result++;
     }
   }

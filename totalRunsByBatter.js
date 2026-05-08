@@ -6,13 +6,16 @@ function totalRunsByBatter() {
     let delivery = deliveries[i];
     let batsmanRuns = delivery.batsman_runs;
     let batter = delivery.batter;
+    let inning = Number(delivery.inning);
     if (!result[batter]) {
       //   console.log("batter first time found");
       result[batter] = 0;
     }
     // console.log("outside if loop");
     // console.log(result[batter]);
-    result[batter] = result[batter] + Number(batsmanRuns);
+    if (inning == 1 || inning == 2) {
+      result[batter] = result[batter] + Number(batsmanRuns);
+    }
 
     // console.log(result);
   }
