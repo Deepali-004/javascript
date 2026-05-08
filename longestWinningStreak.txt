@@ -1,0 +1,4 @@
+[
+  "Kolkata Knight Riders",
+  10
+]

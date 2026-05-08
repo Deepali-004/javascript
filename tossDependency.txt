@@ -1,0 +1,6 @@
+{
+  "team": "Gujarat Lions",
+  "matchesPlayed": 30,
+  "wins": 13,
+  "winsWhereTossWon": 10
+}

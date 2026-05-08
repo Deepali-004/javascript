@@ -1,0 +1,74 @@
+{
+  "2009": {
+    "maxTeam": "Delhi Daredevils",
+    "max": 10
+  },
+  "2011": {
+    "maxTeam": "Chennai Super Kings",
+    "max": 11
+  },
+  "2012": {
+    "maxTeam": "Kolkata Knight Riders",
+    "max": 12
+  },
+  "2013": {
+    "maxTeam": "Mumbai Indians",
+    "max": 13
+  },
+  "2014": {
+    "maxTeam": "Kings XI Punjab",
+    "max": 12
+  },
+  "2015": {
+    "maxTeam": "Chennai Super Kings",
+    "max": 10
+  },
+  "2016": {
+    "maxTeam": "Sunrisers Hyderabad",
+    "max": 11
+  },
+  "2017": {
+    "maxTeam": "Mumbai Indians",
+    "max": 12
+  },
+  "2018": {
+    "maxTeam": "Chennai Super Kings",
+    "max": 11
+  },
+  "2019": {
+    "maxTeam": "Mumbai Indians",
+    "max": 11
+  },
+  "2021": {
+    "maxTeam": "Chennai Super Kings",
+    "max": 11
+  },
+  "2022": {
+    "maxTeam": "Gujarat Titans",
+    "max": 12
+  },
+  "2023": {
+    "maxTeam": "Gujarat Titans",
+    "max": 11
+  },
+  "2024": {
+    "maxTeam": "Kolkata Knight Riders",
+    "max": 11
+  },
+  "2026": {
+    "maxTeam": "Chennai Super Kings",
+    "max": 1
+  },
+  "2007/08": {
+    "maxTeam": "Rajasthan Royals",
+    "max": 13
+  },
+  "2009/10": {
+    "maxTeam": "Mumbai Indians",
+    "max": 11
+  },
+  "2020/21": {
+    "maxTeam": "Mumbai Indians",
+    "max": 11
+  }
+}

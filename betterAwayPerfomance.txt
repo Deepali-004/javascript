@@ -1,0 +1,62 @@
+{
+  "Kolkata Knight Riders": {
+    "awayWins": 86,
+    "homeWins": 45
+  },
+  "Chennai Super Kings": {
+    "awayWins": 105,
+    "homeWins": 33
+  },
+  "Delhi Daredevils": {
+    "awayWins": 40,
+    "homeWins": 27
+  },
+  "Royal Challengers Bangalore": {
+    "awayWins": 87,
+    "homeWins": 29
+  },
+  "Rajasthan Royals": {
+    "awayWins": 80,
+    "homeWins": 32
+  },
+  "Kings XI Punjab": {
+    "awayWins": 70,
+    "homeWins": 18
+  },
+  "Deccan Chargers": {
+    "awayWins": 26,
+    "homeWins": 3
+  },
+  "Mumbai Indians": {
+    "awayWins": 97,
+    "homeWins": 47
+  },
+  "Pune Warriors": {
+    "awayWins": 8,
+    "homeWins": 4
+  },
+  "Sunrisers Hyderabad": {
+    "awayWins": 68,
+    "homeWins": 20
+  },
+  "Gujarat Lions": {
+    "awayWins": 10,
+    "homeWins": 3
+  },
+  "Delhi Capitals": {
+    "awayWins": 44,
+    "homeWins": 4
+  },
+  "Punjab Kings": {
+    "awayWins": 24,
+    "homeWins": 0
+  },
+  "Gujarat Titans": {
+    "awayWins": 28,
+    "homeWins": 0
+  },
+  "Lucknow Super Giants": {
+    "awayWins": 24,
+    "homeWins": 0
+  }
+}

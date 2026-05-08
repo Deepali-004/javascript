@@ -1,0 +1,21 @@
+{
+  "Royal Challengers Bangalore": 48.333333333333336,
+  "Kolkata Knight Riders": 52.191235059760956,
+  "Kings XI Punjab": 46.31578947368421,
+  "Chennai Super Kings": 58.40336134453782,
+  "Delhi Daredevils": 42.2360248447205,
+  "Rajasthan Royals": 51.58371040723983,
+  "Mumbai Indians": 55.172413793103445,
+  "Deccan Chargers": 38.666666666666664,
+  "Kochi Tuskers Kerala": 42.857142857142854,
+  "Pune Warriors": 28.26086956521739,
+  "Sunrisers Hyderabad": 48.35164835164835,
+  "Rising Pune Supergiants": 35.714285714285715,
+  "Gujarat Lions": 43.333333333333336,
+  "Rising Pune Supergiant": 62.5,
+  "Delhi Capitals": 52.74725274725275,
+  "Punjab Kings": 42.857142857142854,
+  "Lucknow Super Giants": 54.54545454545454,
+  "Gujarat Titans": 62.22222222222222,
+  "Royal Challengers Bengaluru": 46.666666666666664
+}

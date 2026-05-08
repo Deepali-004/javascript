@@ -1,0 +1,186 @@
+{
+  "2009": [
+    [
+      "Kingsmead",
+      15
+    ]
+  ],
+  "2011": [
+    [
+      "MA Chidambaram Stadium, Chepauk",
+      9
+    ],
+    [
+      "Wankhede Stadium",
+      9
+    ]
+  ],
+  "2012": [
+    [
+      "MA Chidambaram Stadium, Chepauk",
+      10
+    ]
+  ],
+  "2013": [
+    [
+      "Eden Gardens",
+      8
+    ],
+    [
+      "M Chinnaswamy Stadium",
+      8
+    ],
+    [
+      "Rajiv Gandhi International Stadium, Uppal",
+      8
+    ],
+    [
+      "Feroz Shah Kotla",
+      8
+    ],
+    [
+      "Sawai Mansingh Stadium",
+      8
+    ],
+    [
+      "Wankhede Stadium",
+      8
+    ]
+  ],
+  "2014": [
+    [
+      "Sheikh Zayed Stadium",
+      7
+    ],
+    [
+      "Dubai International Cricket Stadium",
+      7
+    ]
+  ],
+  "2015": [
+    [
+      "Wankhede Stadium",
+      8
+    ]
+  ],
+  "2016": [
+    [
+      "M Chinnaswamy Stadium",
+      9
+    ]
+  ],
+  "2017": [
+    [
+      "Rajiv Gandhi International Stadium, Uppal",
+      8
+    ],
+    [
+      "Wankhede Stadium",
+      8
+    ]
+  ],
+  "2018": [
+    [
+      "Wankhede Stadium",
+      9
+    ],
+    [
+      "Eden Gardens",
+      9
+    ]
+  ],
+  "2019": [
+    [
+      "MA Chidambaram Stadium",
+      8
+    ],
+    [
+      "Rajiv Gandhi International Stadium",
+      8
+    ]
+  ],
+  "2021": [
+    [
+      "Dubai International Cricket Stadium",
+      13
+    ]
+  ],
+  "2022": [
+    [
+      "Wankhede Stadium, Mumbai",
+      21
+    ]
+  ],
+  "2023": [
+    [
+      "Narendra Modi Stadium, Ahmedabad",
+      9
+    ],
+    [
+      "MA Chidambaram Stadium, Chepauk, Chennai",
+      9
+    ]
+  ],
+  "2024": [
+    [
+      "MA Chidambaram Stadium, Chepauk, Chennai",
+      9
+    ]
+  ],
+  "2026": [
+    [
+      "MA Chidambaram Stadium, Chepauk",
+      1
+    ]
+  ],
+  "2007/08": [
+    [
+      "M Chinnaswamy Stadium",
+      7
+    ],
+    [
+      "Punjab Cricket Association Stadium, Mohali",
+      7
+    ],
+    [
+      "Eden Gardens",
+      7
+    ],
+    [
+      "Sawai Mansingh Stadium",
+      7
+    ],
+    [
+      "Rajiv Gandhi International Stadium, Uppal",
+      7
+    ],
+    [
+      "MA Chidambaram Stadium, Chepauk",
+      7
+    ]
+  ],
+  "2009/10": [
+    [
+      "Eden Gardens",
+      7
+    ],
+    [
+      "MA Chidambaram Stadium, Chepauk",
+      7
+    ],
+    [
+      "M Chinnaswamy Stadium",
+      7
+    ],
+    [
+      "Feroz Shah Kotla",
+      7
+    ]
+  ],
+  "2020/21": [
+    [
+      "Dubai International Cricket Stadium",
+      26
+    ]
+  ]
+}

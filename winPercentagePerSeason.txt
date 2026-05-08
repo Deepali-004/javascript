@@ -1,0 +1,778 @@
+{
+  "2009": {
+    "Chennai Super Kings": {
+      "played": 14,
+      "won": 8,
+      "winPercentage": 57.14285714285714
+    },
+    "Mumbai Indians": {
+      "played": 13,
+      "won": 5,
+      "winPercentage": 38.46153846153847
+    },
+    "Royal Challengers Bangalore": {
+      "played": 16,
+      "won": 9,
+      "winPercentage": 56.25
+    },
+    "Rajasthan Royals": {
+      "played": 13,
+      "won": 6,
+      "winPercentage": 46.15384615384615
+    },
+    "Delhi Daredevils": {
+      "played": 15,
+      "won": 10,
+      "winPercentage": 66.66666666666666
+    },
+    "Kings XI Punjab": {
+      "played": 14,
+      "won": 7,
+      "winPercentage": 50
+    },
+    "Deccan Chargers": {
+      "played": 16,
+      "won": 9,
+      "winPercentage": 56.25
+    },
+    "Kolkata Knight Riders": {
+      "played": 13,
+      "won": 3,
+      "winPercentage": 23.076923076923077
+    }
+  },
+  "2011": {
+    "Chennai Super Kings": {
+      "played": 16,
+      "won": 11,
+      "winPercentage": 68.75
+    },
+    "Kolkata Knight Riders": {
+      "played": 15,
+      "won": 8,
+      "winPercentage": 53.333333333333336
+    },
+    "Deccan Chargers": {
+      "played": 14,
+      "won": 6,
+      "winPercentage": 42.857142857142854
+    },
+    "Rajasthan Royals": {
+      "played": 13,
+      "won": 6,
+      "winPercentage": 46.15384615384615
+    },
+    "Kochi Tuskers Kerala": {
+      "played": 14,
+      "won": 6,
+      "winPercentage": 42.857142857142854
+    },
+    "Royal Challengers Bangalore": {
+      "played": 16,
+      "won": 10,
+      "winPercentage": 62.5
+    },
+    "Delhi Daredevils": {
+      "played": 14,
+      "won": 4,
+      "winPercentage": 28.57142857142857
+    },
+    "Mumbai Indians": {
+      "played": 16,
+      "won": 10,
+      "winPercentage": 62.5
+    },
+    "Pune Warriors": {
+      "played": 14,
+      "won": 4,
+      "winPercentage": 28.57142857142857
+    },
+    "Kings XI Punjab": {
+      "played": 14,
+      "won": 7,
+      "winPercentage": 50
+    }
+  },
+  "2012": {
+    "Chennai Super Kings": {
+      "played": 18,
+      "won": 10,
+      "winPercentage": 55.55555555555556
+    },
+    "Mumbai Indians": {
+      "played": 17,
+      "won": 10,
+      "winPercentage": 58.82352941176471
+    },
+    "Kolkata Knight Riders": {
+      "played": 17,
+      "won": 12,
+      "winPercentage": 70.58823529411765
+    },
+    "Delhi Daredevils": {
+      "played": 18,
+      "won": 11,
+      "winPercentage": 61.111111111111114
+    },
+    "Pune Warriors": {
+      "played": 16,
+      "won": 4,
+      "winPercentage": 25
+    },
+    "Rajasthan Royals": {
+      "played": 16,
+      "won": 7,
+      "winPercentage": 43.75
+    },
+    "Kings XI Punjab": {
+      "played": 16,
+      "won": 8,
+      "winPercentage": 50
+    },
+    "Royal Challengers Bangalore": {
+      "played": 15,
+      "won": 8,
+      "winPercentage": 53.333333333333336
+    },
+    "Deccan Chargers": {
+      "played": 15,
+      "won": 4,
+      "winPercentage": 26.666666666666668
+    }
+  },
+  "2013": {
+    "Kolkata Knight Riders": {
+      "played": 16,
+      "won": 6,
+      "winPercentage": 37.5
+    },
+    "Delhi Daredevils": {
+      "played": 15,
+      "won": 3,
+      "winPercentage": 20
+    },
+    "Royal Challengers Bangalore": {
+      "played": 16,
+      "won": 9,
+      "winPercentage": 56.25
+    },
+    "Mumbai Indians": {
+      "played": 19,
+      "won": 13,
+      "winPercentage": 68.42105263157895
+    },
+    "Sunrisers Hyderabad": {
+      "played": 17,
+      "won": 10,
+      "winPercentage": 58.82352941176471
+    },
+    "Pune Warriors": {
+      "played": 16,
+      "won": 4,
+      "winPercentage": 25
+    },
+    "Rajasthan Royals": {
+      "played": 18,
+      "won": 11,
+      "winPercentage": 61.111111111111114
+    },
+    "Chennai Super Kings": {
+      "played": 17,
+      "won": 11,
+      "winPercentage": 64.70588235294117
+    },
+    "Kings XI Punjab": {
+      "played": 16,
+      "won": 8,
+      "winPercentage": 50
+    }
+  },
+  "2014": {
+    "Mumbai Indians": {
+      "played": 15,
+      "won": 7,
+      "winPercentage": 46.666666666666664
+    },
+    "Kolkata Knight Riders": {
+      "played": 16,
+      "won": 11,
+      "winPercentage": 68.75
+    },
+    "Delhi Daredevils": {
+      "played": 14,
+      "won": 2,
+      "winPercentage": 14.285714285714285
+    },
+    "Royal Challengers Bangalore": {
+      "played": 14,
+      "won": 5,
+      "winPercentage": 35.714285714285715
+    },
+    "Chennai Super Kings": {
+      "played": 16,
+      "won": 10,
+      "winPercentage": 62.5
+    },
+    "Kings XI Punjab": {
+      "played": 17,
+      "won": 12,
+      "winPercentage": 70.58823529411765
+    },
+    "Sunrisers Hyderabad": {
+      "played": 14,
+      "won": 6,
+      "winPercentage": 42.857142857142854
+    },
+    "Rajasthan Royals": {
+      "played": 14,
+      "won": 7,
+      "winPercentage": 50
+    }
+  },
+  "2015": {
+    "Kolkata Knight Riders": {
+      "played": 13,
+      "won": 7,
+      "winPercentage": 53.84615384615385
+    },
+    "Mumbai Indians": {
+      "played": 16,
+      "won": 10,
+      "winPercentage": 62.5
+    },
+    "Chennai Super Kings": {
+      "played": 17,
+      "won": 10,
+      "winPercentage": 58.82352941176471
+    },
+    "Delhi Daredevils": {
+      "played": 14,
+      "won": 5,
+      "winPercentage": 35.714285714285715
+    },
+    "Kings XI Punjab": {
+      "played": 14,
+      "won": 3,
+      "winPercentage": 21.428571428571427
+    },
+    "Rajasthan Royals": {
+      "played": 14,
+      "won": 7,
+      "winPercentage": 50
+    },
+    "Sunrisers Hyderabad": {
+      "played": 14,
+      "won": 7,
+      "winPercentage": 50
+    },
+    "Royal Challengers Bangalore": {
+      "played": 16,
+      "won": 8,
+      "winPercentage": 50
+    }
+  },
+  "2016": {
+    "Mumbai Indians": {
+      "played": 14,
+      "won": 7,
+      "winPercentage": 50
+    },
+    "Rising Pune Supergiants": {
+      "played": 14,
+      "won": 5,
+      "winPercentage": 35.714285714285715
+    },
+    "Kolkata Knight Riders": {
+      "played": 15,
+      "won": 8,
+      "winPercentage": 53.333333333333336
+    },
+    "Delhi Daredevils": {
+      "played": 14,
+      "won": 7,
+      "winPercentage": 50
+    },
+    "Kings XI Punjab": {
+      "played": 14,
+      "won": 4,
+      "winPercentage": 28.57142857142857
+    },
+    "Gujarat Lions": {
+      "played": 16,
+      "won": 9,
+      "winPercentage": 56.25
+    },
+    "Royal Challengers Bangalore": {
+      "played": 16,
+      "won": 9,
+      "winPercentage": 56.25
+    },
+    "Sunrisers Hyderabad": {
+      "played": 17,
+      "won": 11,
+      "winPercentage": 64.70588235294117
+    }
+  },
+  "2017": {
+    "Sunrisers Hyderabad": {
+      "played": 14,
+      "won": 8,
+      "winPercentage": 57.14285714285714
+    },
+    "Royal Challengers Bangalore": {
+      "played": 13,
+      "won": 3,
+      "winPercentage": 23.076923076923077
+    },
+    "Rising Pune Supergiant": {
+      "played": 16,
+      "won": 10,
+      "winPercentage": 62.5
+    },
+    "Mumbai Indians": {
+      "played": 17,
+      "won": 12,
+      "winPercentage": 70.58823529411765
+    },
+    "Gujarat Lions": {
+      "played": 14,
+      "won": 4,
+      "winPercentage": 28.57142857142857
+    },
+    "Kolkata Knight Riders": {
+      "played": 16,
+      "won": 9,
+      "winPercentage": 56.25
+    },
+    "Kings XI Punjab": {
+      "played": 14,
+      "won": 7,
+      "winPercentage": 50
+    },
+    "Delhi Daredevils": {
+      "played": 14,
+      "won": 6,
+      "winPercentage": 42.857142857142854
+    }
+  },
+  "2018": {
+    "Mumbai Indians": {
+      "played": 14,
+      "won": 6,
+      "winPercentage": 42.857142857142854
+    },
+    "Chennai Super Kings": {
+      "played": 16,
+      "won": 11,
+      "winPercentage": 68.75
+    },
+    "Delhi Daredevils": {
+      "played": 14,
+      "won": 5,
+      "winPercentage": 35.714285714285715
+    },
+    "Kings XI Punjab": {
+      "played": 14,
+      "won": 6,
+      "winPercentage": 42.857142857142854
+    },
+    "Royal Challengers Bangalore": {
+      "played": 14,
+      "won": 6,
+      "winPercentage": 42.857142857142854
+    },
+    "Kolkata Knight Riders": {
+      "played": 16,
+      "won": 9,
+      "winPercentage": 56.25
+    },
+    "Rajasthan Royals": {
+      "played": 15,
+      "won": 7,
+      "winPercentage": 46.666666666666664
+    },
+    "Sunrisers Hyderabad": {
+      "played": 17,
+      "won": 10,
+      "winPercentage": 58.82352941176471
+    }
+  },
+  "2019": {
+    "Royal Challengers Bangalore": {
+      "played": 14,
+      "won": 5,
+      "winPercentage": 35.714285714285715
+    },
+    "Chennai Super Kings": {
+      "played": 17,
+      "won": 10,
+      "winPercentage": 58.82352941176471
+    },
+    "Sunrisers Hyderabad": {
+      "played": 15,
+      "won": 6,
+      "winPercentage": 40
+    },
+    "Kolkata Knight Riders": {
+      "played": 14,
+      "won": 6,
+      "winPercentage": 42.857142857142854
+    },
+    "Delhi Capitals": {
+      "played": 16,
+      "won": 10,
+      "winPercentage": 62.5
+    },
+    "Mumbai Indians": {
+      "played": 16,
+      "won": 11,
+      "winPercentage": 68.75
+    },
+    "Kings XI Punjab": {
+      "played": 14,
+      "won": 6,
+      "winPercentage": 42.857142857142854
+    },
+    "Rajasthan Royals": {
+      "played": 14,
+      "won": 5,
+      "winPercentage": 35.714285714285715
+    }
+  },
+  "2021": {
+    "Mumbai Indians": {
+      "played": 14,
+      "won": 7,
+      "winPercentage": 50
+    },
+    "Royal Challengers Bangalore": {
+      "played": 15,
+      "won": 9,
+      "winPercentage": 60
+    },
+    "Chennai Super Kings": {
+      "played": 16,
+      "won": 11,
+      "winPercentage": 68.75
+    },
+    "Delhi Capitals": {
+      "played": 16,
+      "won": 10,
+      "winPercentage": 62.5
+    },
+    "Kolkata Knight Riders": {
+      "played": 17,
+      "won": 9,
+      "winPercentage": 52.94117647058824
+    },
+    "Sunrisers Hyderabad": {
+      "played": 14,
+      "won": 3,
+      "winPercentage": 21.428571428571427
+    },
+    "Punjab Kings": {
+      "played": 14,
+      "won": 6,
+      "winPercentage": 42.857142857142854
+    },
+    "Rajasthan Royals": {
+      "played": 14,
+      "won": 5,
+      "winPercentage": 35.714285714285715
+    }
+  },
+  "2022": {
+    "Chennai Super Kings": {
+      "played": 14,
+      "won": 4,
+      "winPercentage": 28.57142857142857
+    },
+    "Kolkata Knight Riders": {
+      "played": 14,
+      "won": 6,
+      "winPercentage": 42.857142857142854
+    },
+    "Mumbai Indians": {
+      "played": 14,
+      "won": 4,
+      "winPercentage": 28.57142857142857
+    },
+    "Delhi Capitals": {
+      "played": 14,
+      "won": 7,
+      "winPercentage": 50
+    },
+    "Royal Challengers Bangalore": {
+      "played": 16,
+      "won": 9,
+      "winPercentage": 56.25
+    },
+    "Punjab Kings": {
+      "played": 14,
+      "won": 7,
+      "winPercentage": 50
+    },
+    "Lucknow Super Giants": {
+      "played": 15,
+      "won": 9,
+      "winPercentage": 60
+    },
+    "Gujarat Titans": {
+      "played": 16,
+      "won": 12,
+      "winPercentage": 75
+    },
+    "Rajasthan Royals": {
+      "played": 17,
+      "won": 10,
+      "winPercentage": 58.82352941176471
+    },
+    "Sunrisers Hyderabad": {
+      "played": 14,
+      "won": 6,
+      "winPercentage": 42.857142857142854
+    }
+  },
+  "2023": {
+    "Chennai Super Kings": {
+      "played": 16,
+      "won": 10,
+      "winPercentage": 62.5
+    },
+    "Gujarat Titans": {
+      "played": 17,
+      "won": 11,
+      "winPercentage": 64.70588235294117
+    },
+    "Punjab Kings": {
+      "played": 14,
+      "won": 6,
+      "winPercentage": 42.857142857142854
+    },
+    "Kolkata Knight Riders": {
+      "played": 14,
+      "won": 6,
+      "winPercentage": 42.857142857142854
+    },
+    "Lucknow Super Giants": {
+      "played": 15,
+      "won": 8,
+      "winPercentage": 53.333333333333336
+    },
+    "Delhi Capitals": {
+      "played": 14,
+      "won": 5,
+      "winPercentage": 35.714285714285715
+    },
+    "Rajasthan Royals": {
+      "played": 14,
+      "won": 7,
+      "winPercentage": 50
+    },
+    "Sunrisers Hyderabad": {
+      "played": 14,
+      "won": 4,
+      "winPercentage": 28.57142857142857
+    },
+    "Mumbai Indians": {
+      "played": 16,
+      "won": 9,
+      "winPercentage": 56.25
+    },
+    "Royal Challengers Bangalore": {
+      "played": 14,
+      "won": 7,
+      "winPercentage": 50
+    }
+  },
+  "2024": {
+    "Royal Challengers Bengaluru": {
+      "played": 15,
+      "won": 7,
+      "winPercentage": 46.666666666666664
+    },
+    "Chennai Super Kings": {
+      "played": 14,
+      "won": 7,
+      "winPercentage": 50
+    },
+    "Delhi Capitals": {
+      "played": 14,
+      "won": 7,
+      "winPercentage": 50
+    },
+    "Punjab Kings": {
+      "played": 14,
+      "won": 5,
+      "winPercentage": 35.714285714285715
+    },
+    "Kolkata Knight Riders": {
+      "played": 14,
+      "won": 11,
+      "winPercentage": 78.57142857142857
+    },
+    "Sunrisers Hyderabad": {
+      "played": 16,
+      "won": 9,
+      "winPercentage": 56.25
+    },
+    "Rajasthan Royals": {
+      "played": 15,
+      "won": 9,
+      "winPercentage": 60
+    },
+    "Lucknow Super Giants": {
+      "played": 14,
+      "won": 7,
+      "winPercentage": 50
+    },
+    "Gujarat Titans": {
+      "played": 12,
+      "won": 5,
+      "winPercentage": 41.66666666666667
+    },
+    "Mumbai Indians": {
+      "played": 14,
+      "won": 4,
+      "winPercentage": 28.57142857142857
+    }
+  },
+  "2026": {
+    "Chennai Super Kings": {
+      "played": 1,
+      "won": 1,
+      "winPercentage": 100
+    },
+    "Delhi Daredevils": {
+      "played": 1,
+      "won": 0,
+      "winPercentage": 0
+    }
+  },
+  "2007/08": {
+    "Royal Challengers Bangalore": {
+      "played": 14,
+      "won": 4,
+      "winPercentage": 28.57142857142857
+    },
+    "Kolkata Knight Riders": {
+      "played": 13,
+      "won": 6,
+      "winPercentage": 46.15384615384615
+    },
+    "Kings XI Punjab": {
+      "played": 15,
+      "won": 10,
+      "winPercentage": 66.66666666666666
+    },
+    "Chennai Super Kings": {
+      "played": 16,
+      "won": 9,
+      "winPercentage": 56.25
+    },
+    "Delhi Daredevils": {
+      "played": 14,
+      "won": 7,
+      "winPercentage": 50
+    },
+    "Rajasthan Royals": {
+      "played": 16,
+      "won": 13,
+      "winPercentage": 81.25
+    },
+    "Mumbai Indians": {
+      "played": 14,
+      "won": 7,
+      "winPercentage": 50
+    },
+    "Deccan Chargers": {
+      "played": 14,
+      "won": 2,
+      "winPercentage": 14.285714285714285
+    }
+  },
+  "2009/10": {
+    "Deccan Chargers": {
+      "played": 16,
+      "won": 8,
+      "winPercentage": 50
+    },
+    "Kolkata Knight Riders": {
+      "played": 14,
+      "won": 7,
+      "winPercentage": 50
+    },
+    "Mumbai Indians": {
+      "played": 16,
+      "won": 11,
+      "winPercentage": 68.75
+    },
+    "Rajasthan Royals": {
+      "played": 14,
+      "won": 6,
+      "winPercentage": 42.857142857142854
+    },
+    "Kings XI Punjab": {
+      "played": 14,
+      "won": 4,
+      "winPercentage": 28.57142857142857
+    },
+    "Delhi Daredevils": {
+      "played": 14,
+      "won": 7,
+      "winPercentage": 50
+    },
+    "Royal Challengers Bangalore": {
+      "played": 16,
+      "won": 8,
+      "winPercentage": 50
+    },
+    "Chennai Super Kings": {
+      "played": 16,
+      "won": 9,
+      "winPercentage": 56.25
+    }
+  },
+  "2020/21": {
+    "Mumbai Indians": {
+      "played": 16,
+      "won": 11,
+      "winPercentage": 68.75
+    },
+    "Chennai Super Kings": {
+      "played": 14,
+      "won": 6,
+      "winPercentage": 42.857142857142854
+    },
+    "Delhi Capitals": {
+      "played": 17,
+      "won": 9,
+      "winPercentage": 52.94117647058824
+    },
+    "Kings XI Punjab": {
+      "played": 14,
+      "won": 6,
+      "winPercentage": 42.857142857142854
+    },
+    "Royal Challengers Bangalore": {
+      "played": 15,
+      "won": 7,
+      "winPercentage": 46.666666666666664
+    },
+    "Sunrisers Hyderabad": {
+      "played": 16,
+      "won": 8,
+      "winPercentage": 50
+    },
+    "Rajasthan Royals": {
+      "played": 14,
+      "won": 6,
+      "winPercentage": 42.857142857142854
+    },
+    "Kolkata Knight Riders": {
+      "played": 14,
+      "won": 7,
+      "winPercentage": 50
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "teams": [
+    "Chennai Super Kings",
+    "Mumbai Indians"
+  ],
+  "matches": 37,
+  "wins": {
+    "Chennai Super Kings": 17,
+    "Mumbai Indians": 20
+  },
+  "winDifference": 3
+}

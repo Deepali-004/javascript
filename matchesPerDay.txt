@@ -1,0 +1,9 @@
+{
+  "Sunday": 237,
+  "Monday": 114,
+  "Tuesday": 133,
+  "Wednesday": 139,
+  "Thursday": 126,
+  "Friday": 139,
+  "Saturday": 207
+}

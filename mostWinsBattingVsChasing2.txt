@@ -1,0 +1,10 @@
+{
+  "bat": [
+    "Chennai Super Kings",
+    35
+  ],
+  "field": [
+    "Mumbai Indians",
+    48
+  ]
+}

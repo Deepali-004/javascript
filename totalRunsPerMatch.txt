@@ -1,0 +1,4382 @@
+[
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 304
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kings XI Punjab",
+    "totalRuns": 447
+  },
+  {
+    "matchPair": "Delhi Daredevils , Rajasthan Royals",
+    "totalRuns": 261
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 331
+  },
+  {
+    "matchPair": "Deccan Chargers , Kolkata Knight Riders",
+    "totalRuns": 222
+  },
+  {
+    "matchPair": "Kings XI Punjab , Rajasthan Royals",
+    "totalRuns": 334
+  },
+  {
+    "matchPair": "Deccan Chargers , Delhi Daredevils",
+    "totalRuns": 285
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 410
+  },
+  {
+    "matchPair": "Deccan Chargers , Rajasthan Royals",
+    "totalRuns": 431
+  },
+  {
+    "matchPair": "Kings XI Punjab , Mumbai Indians",
+    "totalRuns": 298
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 273
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 299
+  },
+  {
+    "matchPair": "Deccan Chargers , Mumbai Indians",
+    "totalRuns": 309
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kings XI Punjab",
+    "totalRuns": 320
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 343
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 275
+  },
+  {
+    "matchPair": "Delhi Daredevils , Royal Challengers Bangalore",
+    "totalRuns": 372
+  },
+  {
+    "matchPair": "Deccan Chargers , Kings XI Punjab",
+    "totalRuns": 331
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 347
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Daredevils",
+    "totalRuns": 341
+  },
+  {
+    "matchPair": "Deccan Chargers , Royal Challengers Bangalore",
+    "totalRuns": 336
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
+    "totalRuns": 347
+  },
+  {
+    "matchPair": "Delhi Daredevils , Mumbai Indians",
+    "totalRuns": 295
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 219
+  },
+  {
+    "matchPair": "Kings XI Punjab , Royal Challengers Bangalore",
+    "totalRuns": 253
+  },
+  {
+    "matchPair": "Chennai Super Kings , Deccan Chargers",
+    "totalRuns": 292
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 207
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Daredevils",
+    "totalRuns": 375
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 253
+  },
+  {
+    "matchPair": "Deccan Chargers , Rajasthan Royals",
+    "totalRuns": 281
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 248
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kings XI Punjab",
+    "totalRuns": 344
+  },
+  {
+    "matchPair": "Deccan Chargers , Kolkata Knight Riders",
+    "totalRuns": 385
+  },
+  {
+    "matchPair": "Delhi Daredevils , Rajasthan Royals",
+    "totalRuns": 315
+  },
+  {
+    "matchPair": "Kings XI Punjab , Royal Challengers Bangalore",
+    "totalRuns": 287
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kolkata Knight Riders",
+    "totalRuns": 243
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 314
+  },
+  {
+    "matchPair": "Kings XI Punjab , Rajasthan Royals",
+    "totalRuns": 401
+  },
+  {
+    "matchPair": "Deccan Chargers , Delhi Daredevils",
+    "totalRuns": 376
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 135
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kings XI Punjab",
+    "totalRuns": 212
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 329
+  },
+  {
+    "matchPair": "Deccan Chargers , Mumbai Indians",
+    "totalRuns": 331
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 204
+  },
+  {
+    "matchPair": "Delhi Daredevils , Royal Challengers Bangalore",
+    "totalRuns": 312
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 297
+  },
+  {
+    "matchPair": "Kings XI Punjab , Mumbai Indians",
+    "totalRuns": 377
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 238
+  },
+  {
+    "matchPair": "Deccan Chargers , Kings XI Punjab",
+    "totalRuns": 353
+  },
+  {
+    "matchPair": "Delhi Daredevils , Mumbai Indians",
+    "totalRuns": 355
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 412
+  },
+  {
+    "matchPair": "Deccan Chargers , Royal Challengers Bangalore",
+    "totalRuns": 309
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
+    "totalRuns": 349
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 291
+  },
+  {
+    "matchPair": "Chennai Super Kings , Deccan Chargers",
+    "totalRuns": 295
+  },
+  {
+    "matchPair": "Delhi Daredevils , Rajasthan Royals",
+    "totalRuns": 279
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kings XI Punjab",
+    "totalRuns": 228
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 327
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 311
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 191
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kings XI Punjab",
+    "totalRuns": 162
+  },
+  {
+    "matchPair": "Deccan Chargers , Kolkata Knight Riders",
+    "totalRuns": 205
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 266
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
+    "totalRuns": 237
+  },
+  {
+    "matchPair": "Deccan Chargers , Royal Challengers Bangalore",
+    "totalRuns": 344
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Daredevils",
+    "totalRuns": 369
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 333
+  },
+  {
+    "matchPair": "Kings XI Punjab , Royal Challengers Bangalore",
+    "totalRuns": 341
+  },
+  {
+    "matchPair": "Deccan Chargers , Mumbai Indians",
+    "totalRuns": 324
+  },
+  {
+    "matchPair": "Delhi Daredevils , Royal Challengers Bangalore",
+    "totalRuns": 299
+  },
+  {
+    "matchPair": "Kings XI Punjab , Rajasthan Royals",
+    "totalRuns": 251
+  },
+  {
+    "matchPair": "Chennai Super Kings , Deccan Chargers",
+    "totalRuns": 334
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 282
+  },
+  {
+    "matchPair": "Delhi Daredevils , Rajasthan Royals",
+    "totalRuns": 290
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 282
+  },
+  {
+    "matchPair": "Kings XI Punjab , Mumbai Indians",
+    "totalRuns": 235
+  },
+  {
+    "matchPair": "Deccan Chargers , Delhi Daredevils",
+    "totalRuns": 298
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 290
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 287
+  },
+  {
+    "matchPair": "Kings XI Punjab , Royal Challengers Bangalore",
+    "totalRuns": 282
+  },
+  {
+    "matchPair": "Deccan Chargers , Rajasthan Royals",
+    "totalRuns": 283
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Daredevils",
+    "totalRuns": 308
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
+    "totalRuns": 307
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 299
+  },
+  {
+    "matchPair": "Chennai Super Kings , Deccan Chargers",
+    "totalRuns": 278
+  },
+  {
+    "matchPair": "Kings XI Punjab , Rajasthan Royals",
+    "totalRuns": 344
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kolkata Knight Riders",
+    "totalRuns": 311
+  },
+  {
+    "matchPair": "Deccan Chargers , Mumbai Indians",
+    "totalRuns": 271
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 212
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kings XI Punjab",
+    "totalRuns": 359
+  },
+  {
+    "matchPair": "Delhi Daredevils , Mumbai Indians",
+    "totalRuns": 234
+  },
+  {
+    "matchPair": "Deccan Chargers , Kings XI Punjab",
+    "totalRuns": 337
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 281
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 298
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kolkata Knight Riders",
+    "totalRuns": 248
+  },
+  {
+    "matchPair": "Deccan Chargers , Rajasthan Royals",
+    "totalRuns": 279
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 349
+  },
+  {
+    "matchPair": "Kings XI Punjab , Mumbai Indians",
+    "totalRuns": 241
+  },
+  {
+    "matchPair": "Deccan Chargers , Delhi Daredevils",
+    "totalRuns": 334
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 261
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 288
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kings XI Punjab",
+    "totalRuns": 243
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 298
+  },
+  {
+    "matchPair": "Deccan Chargers , Kolkata Knight Riders",
+    "totalRuns": 326
+  },
+  {
+    "matchPair": "Deccan Chargers , Kings XI Punjab",
+    "totalRuns": 267
+  },
+  {
+    "matchPair": "Delhi Daredevils , Rajasthan Royals",
+    "totalRuns": 286
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 377
+  },
+  {
+    "matchPair": "Delhi Daredevils , Royal Challengers Bangalore",
+    "totalRuns": 269
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 203
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kings XI Punjab",
+    "totalRuns": 208
+  },
+  {
+    "matchPair": "Delhi Daredevils , Mumbai Indians",
+    "totalRuns": 331
+  },
+  {
+    "matchPair": "Deccan Chargers , Royal Challengers Bangalore",
+    "totalRuns": 328
+  },
+  {
+    "matchPair": "Deccan Chargers , Delhi Daredevils",
+    "totalRuns": 307
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 295
+  },
+  {
+    "matchPair": "Deccan Chargers , Royal Challengers Bangalore",
+    "totalRuns": 280
+  },
+  {
+    "matchPair": "Deccan Chargers , Kolkata Knight Riders",
+    "totalRuns": 311
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 420
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kings XI Punjab",
+    "totalRuns": 288
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 271
+  },
+  {
+    "matchPair": "Chennai Super Kings , Deccan Chargers",
+    "totalRuns": 349
+  },
+  {
+    "matchPair": "Delhi Daredevils , Rajasthan Royals",
+    "totalRuns": 283
+  },
+  {
+    "matchPair": "Kings XI Punjab , Royal Challengers Bangalore",
+    "totalRuns": 407
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 273
+  },
+  {
+    "matchPair": "Delhi Daredevils , Mumbai Indians",
+    "totalRuns": 338
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 185
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Daredevils",
+    "totalRuns": 375
+  },
+  {
+    "matchPair": "Deccan Chargers , Kings XI Punjab",
+    "totalRuns": 334
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 302
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 306
+  },
+  {
+    "matchPair": "Deccan Chargers , Delhi Daredevils",
+    "totalRuns": 332
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kings XI Punjab",
+    "totalRuns": 291
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 311
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 306
+  },
+  {
+    "matchPair": "Kings XI Punjab , Rajasthan Royals",
+    "totalRuns": 335
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 361
+  },
+  {
+    "matchPair": "Deccan Chargers , Rajasthan Royals",
+    "totalRuns": 299
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
+    "totalRuns": 327
+  },
+  {
+    "matchPair": "Delhi Daredevils , Royal Challengers Bangalore",
+    "totalRuns": 349
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 337
+  },
+  {
+    "matchPair": "Deccan Chargers , Mumbai Indians",
+    "totalRuns": 303
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kolkata Knight Riders",
+    "totalRuns": 314
+  },
+  {
+    "matchPair": "Kings XI Punjab , Mumbai Indians",
+    "totalRuns": 327
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 323
+  },
+  {
+    "matchPair": "Delhi Daredevils , Rajasthan Royals",
+    "totalRuns": 309
+  },
+  {
+    "matchPair": "Deccan Chargers , Kolkata Knight Riders",
+    "totalRuns": 338
+  },
+  {
+    "matchPair": "Kings XI Punjab , Royal Challengers Bangalore",
+    "totalRuns": 365
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 469
+  },
+  {
+    "matchPair": "Deccan Chargers , Mumbai Indians",
+    "totalRuns": 293
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
+    "totalRuns": 404
+  },
+  {
+    "matchPair": "Delhi Daredevils , Royal Challengers Bangalore",
+    "totalRuns": 331
+  },
+  {
+    "matchPair": "Deccan Chargers , Rajasthan Royals",
+    "totalRuns": 316
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 306
+  },
+  {
+    "matchPair": "Kings XI Punjab , Rajasthan Royals",
+    "totalRuns": 310
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kolkata Knight Riders",
+    "totalRuns": 348
+  },
+  {
+    "matchPair": "Deccan Chargers , Royal Challengers Bangalore",
+    "totalRuns": 370
+  },
+  {
+    "matchPair": "Kings XI Punjab , Mumbai Indians",
+    "totalRuns": 312
+  },
+  {
+    "matchPair": "Chennai Super Kings , Deccan Chargers",
+    "totalRuns": 277
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 322
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kings XI Punjab",
+    "totalRuns": 223
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 311
+  },
+  {
+    "matchPair": "Deccan Chargers , Royal Challengers Bangalore",
+    "totalRuns": 289
+  },
+  {
+    "matchPair": "Delhi Daredevils , Mumbai Indians",
+    "totalRuns": 327
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 282
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 262
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Daredevils",
+    "totalRuns": 225
+  },
+  {
+    "matchPair": "Deccan Chargers , Kings XI Punjab",
+    "totalRuns": 352
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 325
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 265
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kings XI Punjab",
+    "totalRuns": 387
+  },
+  {
+    "matchPair": "Deccan Chargers , Delhi Daredevils",
+    "totalRuns": 279
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 268
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 333
+  },
+  {
+    "matchPair": "Chennai Super Kings , Deccan Chargers",
+    "totalRuns": 246
+  },
+  {
+    "matchPair": "Deccan Chargers , Royal Challengers Bangalore",
+    "totalRuns": 168
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 314
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 304
+  },
+  {
+    "matchPair": "Deccan Chargers , Rajasthan Royals",
+    "totalRuns": 278
+  },
+  {
+    "matchPair": "Kochi Tuskers Kerala , Royal Challengers Bangalore",
+    "totalRuns": 323
+  },
+  {
+    "matchPair": "Delhi Daredevils , Mumbai Indians",
+    "totalRuns": 194
+  },
+  {
+    "matchPair": "Kings XI Punjab , Pune Warriors",
+    "totalRuns": 225
+  },
+  {
+    "matchPair": "Deccan Chargers , Kolkata Knight Riders",
+    "totalRuns": 317
+  },
+  {
+    "matchPair": "Delhi Daredevils , Rajasthan Royals",
+    "totalRuns": 303
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 283
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kings XI Punjab",
+    "totalRuns": 381
+  },
+  {
+    "matchPair": "Kochi Tuskers Kerala , Pune Warriors",
+    "totalRuns": 299
+  },
+  {
+    "matchPair": "Deccan Chargers , Royal Challengers Bangalore",
+    "totalRuns": 317
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 319
+  },
+  {
+    "matchPair": "Kochi Tuskers Kerala , Mumbai Indians",
+    "totalRuns": 366
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 345
+  },
+  {
+    "matchPair": "Deccan Chargers , Kings XI Punjab",
+    "totalRuns": 331
+  },
+  {
+    "matchPair": "Delhi Daredevils , Pune Warriors",
+    "totalRuns": 377
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 166
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kochi Tuskers Kerala",
+    "totalRuns": 266
+  },
+  {
+    "matchPair": "Deccan Chargers , Delhi Daredevils",
+    "totalRuns": 320
+  },
+  {
+    "matchPair": "Mumbai Indians , Pune Warriors",
+    "totalRuns": 242
+  },
+  {
+    "matchPair": "Kochi Tuskers Kerala , Kolkata Knight Riders",
+    "totalRuns": 258
+  },
+  {
+    "matchPair": "Kings XI Punjab , Rajasthan Royals",
+    "totalRuns": 342
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 320
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 346
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kings XI Punjab",
+    "totalRuns": 433
+  },
+  {
+    "matchPair": "Deccan Chargers , Mumbai Indians",
+    "totalRuns": 307
+  },
+  {
+    "matchPair": "Kochi Tuskers Kerala , Rajasthan Royals",
+    "totalRuns": 220
+  },
+  {
+    "matchPair": "Chennai Super Kings , Pune Warriors",
+    "totalRuns": 259
+  },
+  {
+    "matchPair": "Delhi Daredevils , Royal Challengers Bangalore",
+    "totalRuns": 321
+  },
+  {
+    "matchPair": "Chennai Super Kings , Pune Warriors",
+    "totalRuns": 286
+  },
+  {
+    "matchPair": "Deccan Chargers , Kochi Tuskers Kerala",
+    "totalRuns": 203
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kolkata Knight Riders",
+    "totalRuns": 279
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 189
+  },
+  {
+    "matchPair": "Pune Warriors , Royal Challengers Bangalore",
+    "totalRuns": 336
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kochi Tuskers Kerala",
+    "totalRuns": 276
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
+    "totalRuns": 239
+  },
+  {
+    "matchPair": "Pune Warriors , Rajasthan Royals",
+    "totalRuns": 287
+  },
+  {
+    "matchPair": "Chennai Super Kings , Deccan Chargers",
+    "totalRuns": 311
+  },
+  {
+    "matchPair": "Kings XI Punjab , Mumbai Indians",
+    "totalRuns": 295
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kochi Tuskers Kerala",
+    "totalRuns": 281
+  },
+  {
+    "matchPair": "Deccan Chargers , Kolkata Knight Riders",
+    "totalRuns": 318
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 296
+  },
+  {
+    "matchPair": "Mumbai Indians , Pune Warriors",
+    "totalRuns": 299
+  },
+  {
+    "matchPair": "Kochi Tuskers Kerala , Kolkata Knight Riders",
+    "totalRuns": 295
+  },
+  {
+    "matchPair": "Deccan Chargers , Delhi Daredevils",
+    "totalRuns": 354
+  },
+  {
+    "matchPair": "Kings XI Punjab , Royal Challengers Bangalore",
+    "totalRuns": 325
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 175
+  },
+  {
+    "matchPair": "Delhi Daredevils , Mumbai Indians",
+    "totalRuns": 324
+  },
+  {
+    "matchPair": "Kochi Tuskers Kerala , Royal Challengers Bangalore",
+    "totalRuns": 253
+  },
+  {
+    "matchPair": "Kings XI Punjab , Pune Warriors",
+    "totalRuns": 239
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 329
+  },
+  {
+    "matchPair": "Deccan Chargers , Pune Warriors",
+    "totalRuns": 273
+  },
+  {
+    "matchPair": "Kings XI Punjab , Mumbai Indians",
+    "totalRuns": 250
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 297
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Daredevils",
+    "totalRuns": 334
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kochi Tuskers Kerala",
+    "totalRuns": 359
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 194
+  },
+  {
+    "matchPair": "Deccan Chargers , Mumbai Indians",
+    "totalRuns": 260
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kings XI Punjab",
+    "totalRuns": 311
+  },
+  {
+    "matchPair": "Kochi Tuskers Kerala , Rajasthan Royals",
+    "totalRuns": 195
+  },
+  {
+    "matchPair": "Deccan Chargers , Pune Warriors",
+    "totalRuns": 274
+  },
+  {
+    "matchPair": "Kings XI Punjab , Royal Challengers Bangalore",
+    "totalRuns": 353
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kochi Tuskers Kerala",
+    "totalRuns": 293
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Pune Warriors",
+    "totalRuns": 237
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 267
+  },
+  {
+    "matchPair": "Deccan Chargers , Kings XI Punjab",
+    "totalRuns": 314
+  },
+  {
+    "matchPair": "Delhi Daredevils , Pune Warriors",
+    "totalRuns": 56
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 257
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 353
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 352
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 295
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 327
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 352
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 227
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kolkata Knight Riders",
+    "totalRuns": 197
+  },
+  {
+    "matchPair": "Mumbai Indians , Pune Warriors",
+    "totalRuns": 230
+  },
+  {
+    "matchPair": "Kings XI Punjab , Rajasthan Royals",
+    "totalRuns": 351
+  },
+  {
+    "matchPair": "Delhi Daredevils , Royal Challengers Bangalore",
+    "totalRuns": 294
+  },
+  {
+    "matchPair": "Chennai Super Kings , Deccan Chargers",
+    "totalRuns": 312
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 306
+  },
+  {
+    "matchPair": "Kings XI Punjab , Pune Warriors",
+    "totalRuns": 310
+  },
+  {
+    "matchPair": "Deccan Chargers , Mumbai Indians",
+    "totalRuns": 280
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 288
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Daredevils",
+    "totalRuns": 221
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 367
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 413
+  },
+  {
+    "matchPair": "Kings XI Punjab , Pune Warriors",
+    "totalRuns": 231
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 268
+  },
+  {
+    "matchPair": "Deccan Chargers , Delhi Daredevils",
+    "totalRuns": 319
+  },
+  {
+    "matchPair": "Chennai Super Kings , Pune Warriors",
+    "totalRuns": 311
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
+    "totalRuns": 266
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 331
+  },
+  {
+    "matchPair": "Delhi Daredevils , Mumbai Indians",
+    "totalRuns": 185
+  },
+  {
+    "matchPair": "Deccan Chargers , Rajasthan Royals",
+    "totalRuns": 393
+  },
+  {
+    "matchPair": "Pune Warriors , Royal Challengers Bangalore",
+    "totalRuns": 368
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
+    "totalRuns": 251
+  },
+  {
+    "matchPair": "Deccan Chargers , Delhi Daredevils",
+    "totalRuns": 380
+  },
+  {
+    "matchPair": "Chennai Super Kings , Pune Warriors",
+    "totalRuns": 315
+  },
+  {
+    "matchPair": "Kings XI Punjab , Royal Challengers Bangalore",
+    "totalRuns": 329
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 293
+  },
+  {
+    "matchPair": "Delhi Daredevils , Pune Warriors",
+    "totalRuns": 364
+  },
+  {
+    "matchPair": "Kings XI Punjab , Mumbai Indians",
+    "totalRuns": 327
+  },
+  {
+    "matchPair": "Deccan Chargers , Kolkata Knight Riders",
+    "totalRuns": 253
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 332
+  },
+  {
+    "matchPair": "Delhi Daredevils , Pune Warriors",
+    "totalRuns": 294
+  },
+  {
+    "matchPair": "Kings XI Punjab , Mumbai Indians",
+    "totalRuns": 339
+  },
+  {
+    "matchPair": "Deccan Chargers , Pune Warriors",
+    "totalRuns": 336
+  },
+  {
+    "matchPair": "Delhi Daredevils , Mumbai Indians",
+    "totalRuns": 377
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kings XI Punjab",
+    "totalRuns": 305
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 333
+  },
+  {
+    "matchPair": "Delhi Daredevils , Rajasthan Royals",
+    "totalRuns": 303
+  },
+  {
+    "matchPair": "Deccan Chargers , Mumbai Indians",
+    "totalRuns": 201
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 279
+  },
+  {
+    "matchPair": "Deccan Chargers , Pune Warriors",
+    "totalRuns": 359
+  },
+  {
+    "matchPair": "Delhi Daredevils , Rajasthan Royals",
+    "totalRuns": 285
+  },
+  {
+    "matchPair": "Kings XI Punjab , Royal Challengers Bangalore",
+    "totalRuns": 321
+  },
+  {
+    "matchPair": "Mumbai Indians , Pune Warriors",
+    "totalRuns": 239
+  },
+  {
+    "matchPair": "Chennai Super Kings , Deccan Chargers",
+    "totalRuns": 310
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Pune Warriors",
+    "totalRuns": 293
+  },
+  {
+    "matchPair": "Kings XI Punjab , Rajasthan Royals",
+    "totalRuns": 311
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 347
+  },
+  {
+    "matchPair": "Deccan Chargers , Royal Challengers Bangalore",
+    "totalRuns": 366
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kolkata Knight Riders",
+    "totalRuns": 307
+  },
+  {
+    "matchPair": "Pune Warriors , Rajasthan Royals",
+    "totalRuns": 251
+  },
+  {
+    "matchPair": "Deccan Chargers , Kings XI Punjab",
+    "totalRuns": 315
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 283
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 253
+  },
+  {
+    "matchPair": "Pune Warriors , Royal Challengers Bangalore",
+    "totalRuns": 311
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 337
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Daredevils",
+    "totalRuns": 229
+  },
+  {
+    "matchPair": "Pune Warriors , Rajasthan Royals",
+    "totalRuns": 295
+  },
+  {
+    "matchPair": "Deccan Chargers , Kings XI Punjab",
+    "totalRuns": 384
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 344
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 318
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kings XI Punjab",
+    "totalRuns": 276
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 248
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kings XI Punjab",
+    "totalRuns": 243
+  },
+  {
+    "matchPair": "Delhi Daredevils , Royal Challengers Bangalore",
+    "totalRuns": 409
+  },
+  {
+    "matchPair": "Deccan Chargers , Rajasthan Royals",
+    "totalRuns": 254
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kings XI Punjab",
+    "totalRuns": 286
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Pune Warriors",
+    "totalRuns": 238
+  },
+  {
+    "matchPair": "Deccan Chargers , Royal Challengers Bangalore",
+    "totalRuns": 255
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 325
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kolkata Knight Riders",
+    "totalRuns": 306
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 336
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Daredevils",
+    "totalRuns": 358
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 382
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kolkata Knight Riders",
+    "totalRuns": 257
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 310
+  },
+  {
+    "matchPair": "Pune Warriors , Sunrisers Hyderabad",
+    "totalRuns": 230
+  },
+  {
+    "matchPair": "Delhi Daredevils , Rajasthan Royals",
+    "totalRuns": 325
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 287
+  },
+  {
+    "matchPair": "Kings XI Punjab , Pune Warriors",
+    "totalRuns": 199
+  },
+  {
+    "matchPair": "Royal Challengers Bangalore , Sunrisers Hyderabad",
+    "totalRuns": 295
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 269
+  },
+  {
+    "matchPair": "Delhi Daredevils , Mumbai Indians",
+    "totalRuns": 374
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kings XI Punjab",
+    "totalRuns": 277
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 312
+  },
+  {
+    "matchPair": "Pune Warriors , Rajasthan Royals",
+    "totalRuns": 293
+  },
+  {
+    "matchPair": "Delhi Daredevils , Sunrisers Hyderabad",
+    "totalRuns": 229
+  },
+  {
+    "matchPair": "Mumbai Indians , Pune Warriors",
+    "totalRuns": 325
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 331
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 312
+  },
+  {
+    "matchPair": "Kings XI Punjab , Rajasthan Royals",
+    "totalRuns": 250
+  },
+  {
+    "matchPair": "Chennai Super Kings , Pune Warriors",
+    "totalRuns": 294
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
+    "totalRuns": 310
+  },
+  {
+    "matchPair": "Delhi Daredevils , Royal Challengers Bangalore",
+    "totalRuns": 330
+  },
+  {
+    "matchPair": "Pune Warriors , Sunrisers Hyderabad",
+    "totalRuns": 227
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 271
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Daredevils",
+    "totalRuns": 252
+  },
+  {
+    "matchPair": "Kings XI Punjab , Sunrisers Hyderabad",
+    "totalRuns": 250
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 243
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 240
+  },
+  {
+    "matchPair": "Delhi Daredevils , Mumbai Indians",
+    "totalRuns": 326
+  },
+  {
+    "matchPair": "Kings XI Punjab , Pune Warriors",
+    "totalRuns": 371
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 371
+  },
+  {
+    "matchPair": "Pune Warriors , Royal Challengers Bangalore",
+    "totalRuns": 396
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kings XI Punjab",
+    "totalRuns": 335
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 321
+  },
+  {
+    "matchPair": "Chennai Super Kings , Sunrisers Hyderabad",
+    "totalRuns": 319
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
+    "totalRuns": 299
+  },
+  {
+    "matchPair": "Rajasthan Royals , Sunrisers Hyderabad",
+    "totalRuns": 290
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 330
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 386
+  },
+  {
+    "matchPair": "Delhi Daredevils , Pune Warriors",
+    "totalRuns": 313
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 344
+  },
+  {
+    "matchPair": "Kings XI Punjab , Mumbai Indians",
+    "totalRuns": 344
+  },
+  {
+    "matchPair": "Chennai Super Kings , Pune Warriors",
+    "totalRuns": 291
+  },
+  {
+    "matchPair": "Mumbai Indians , Sunrisers Hyderabad",
+    "totalRuns": 259
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kolkata Knight Riders",
+    "totalRuns": 273
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kings XI Punjab",
+    "totalRuns": 357
+  },
+  {
+    "matchPair": "Pune Warriors , Royal Challengers Bangalore",
+    "totalRuns": 357
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 265
+  },
+  {
+    "matchPair": "Delhi Daredevils , Sunrisers Hyderabad",
+    "totalRuns": 161
+  },
+  {
+    "matchPair": "Kings XI Punjab , Royal Challengers Bangalore",
+    "totalRuns": 350
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 218
+  },
+  {
+    "matchPair": "Pune Warriors , Rajasthan Royals",
+    "totalRuns": 360
+  },
+  {
+    "matchPair": "Royal Challengers Bangalore , Sunrisers Hyderabad",
+    "totalRuns": 323
+  },
+  {
+    "matchPair": "Delhi Daredevils , Rajasthan Royals",
+    "totalRuns": 309
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 275
+  },
+  {
+    "matchPair": "Chennai Super Kings , Sunrisers Hyderabad",
+    "totalRuns": 369
+  },
+  {
+    "matchPair": "Kings XI Punjab , Rajasthan Royals",
+    "totalRuns": 292
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Pune Warriors",
+    "totalRuns": 258
+  },
+  {
+    "matchPair": "Delhi Daredevils , Royal Challengers Bangalore",
+    "totalRuns": 362
+  },
+  {
+    "matchPair": "Mumbai Indians , Pune Warriors",
+    "totalRuns": 228
+  },
+  {
+    "matchPair": "Kings XI Punjab , Sunrisers Hyderabad",
+    "totalRuns": 270
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 231
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 285
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kings XI Punjab",
+    "totalRuns": 241
+  },
+  {
+    "matchPair": "Mumbai Indians , Sunrisers Hyderabad",
+    "totalRuns": 362
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Pune Warriors",
+    "totalRuns": 333
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Daredevils",
+    "totalRuns": 303
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 318
+  },
+  {
+    "matchPair": "Kings XI Punjab , Royal Challengers Bangalore",
+    "totalRuns": 384
+  },
+  {
+    "matchPair": "Rajasthan Royals , Sunrisers Hyderabad",
+    "totalRuns": 249
+  },
+  {
+    "matchPair": "Kings XI Punjab , Mumbai Indians",
+    "totalRuns": 316
+  },
+  {
+    "matchPair": "Delhi Daredevils , Pune Warriors",
+    "totalRuns": 306
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 188
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 262
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 336
+  },
+  {
+    "matchPair": "Rajasthan Royals , Sunrisers Hyderabad",
+    "totalRuns": 267
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 334
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 273
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 285
+  },
+  {
+    "matchPair": "Delhi Daredevils , Royal Challengers Bangalore",
+    "totalRuns": 291
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kings XI Punjab",
+    "totalRuns": 411
+  },
+  {
+    "matchPair": "Rajasthan Royals , Sunrisers Hyderabad",
+    "totalRuns": 268
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 231
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kolkata Knight Riders",
+    "totalRuns": 333
+  },
+  {
+    "matchPair": "Kings XI Punjab , Rajasthan Royals",
+    "totalRuns": 384
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Daredevils",
+    "totalRuns": 261
+  },
+  {
+    "matchPair": "Kings XI Punjab , Sunrisers Hyderabad",
+    "totalRuns": 314
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 273
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 298
+  },
+  {
+    "matchPair": "Delhi Daredevils , Sunrisers Hyderabad",
+    "totalRuns": 364
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 283
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 141
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
+    "totalRuns": 241
+  },
+  {
+    "matchPair": "Delhi Daredevils , Mumbai Indians",
+    "totalRuns": 251
+  },
+  {
+    "matchPair": "Chennai Super Kings , Sunrisers Hyderabad",
+    "totalRuns": 291
+  },
+  {
+    "matchPair": "Kings XI Punjab , Royal Challengers Bangalore",
+    "totalRuns": 251
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 326
+  },
+  {
+    "matchPair": "Mumbai Indians , Sunrisers Hyderabad",
+    "totalRuns": 329
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 262
+  },
+  {
+    "matchPair": "Kings XI Punjab , Mumbai Indians",
+    "totalRuns": 338
+  },
+  {
+    "matchPair": "Delhi Daredevils , Rajasthan Royals",
+    "totalRuns": 308
+  },
+  {
+    "matchPair": "Royal Challengers Bangalore , Sunrisers Hyderabad",
+    "totalRuns": 313
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 330
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Daredevils",
+    "totalRuns": 359
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 355
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kolkata Knight Riders",
+    "totalRuns": 321
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kings XI Punjab",
+    "totalRuns": 418
+  },
+  {
+    "matchPair": "Rajasthan Royals , Sunrisers Hyderabad",
+    "totalRuns": 236
+  },
+  {
+    "matchPair": "Kings XI Punjab , Royal Challengers Bangalore",
+    "totalRuns": 364
+  },
+  {
+    "matchPair": "Delhi Daredevils , Sunrisers Hyderabad",
+    "totalRuns": 187
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 317
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
+    "totalRuns": 299
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 381
+  },
+  {
+    "matchPair": "Mumbai Indians , Sunrisers Hyderabad",
+    "totalRuns": 317
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 297
+  },
+  {
+    "matchPair": "Delhi Daredevils , Royal Challengers Bangalore",
+    "totalRuns": 356
+  },
+  {
+    "matchPair": "Kings XI Punjab , Sunrisers Hyderabad",
+    "totalRuns": 416
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 283
+  },
+  {
+    "matchPair": "Delhi Daredevils , Rajasthan Royals",
+    "totalRuns": 340
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 280
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 288
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 331
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kings XI Punjab",
+    "totalRuns": 329
+  },
+  {
+    "matchPair": "Royal Challengers Bangalore , Sunrisers Hyderabad",
+    "totalRuns": 321
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 310
+  },
+  {
+    "matchPair": "Kings XI Punjab , Mumbai Indians",
+    "totalRuns": 315
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 360
+  },
+  {
+    "matchPair": "Chennai Super Kings , Sunrisers Hyderabad",
+    "totalRuns": 374
+  },
+  {
+    "matchPair": "Delhi Daredevils , Mumbai Indians",
+    "totalRuns": 331
+  },
+  {
+    "matchPair": "Kings XI Punjab , Rajasthan Royals",
+    "totalRuns": 342
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 314
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 321
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kings XI Punjab",
+    "totalRuns": 234
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 384
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
+    "totalRuns": 298
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 349
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kings XI Punjab",
+    "totalRuns": 428
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
+    "totalRuns": 399
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 338
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Daredevils",
+    "totalRuns": 299
+  },
+  {
+    "matchPair": "Kings XI Punjab , Rajasthan Royals",
+    "totalRuns": 298
+  },
+  {
+    "matchPair": "Chennai Super Kings , Sunrisers Hyderabad",
+    "totalRuns": 373
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 356
+  },
+  {
+    "matchPair": "Delhi Daredevils , Rajasthan Royals",
+    "totalRuns": 370
+  },
+  {
+    "matchPair": "Kings XI Punjab , Mumbai Indians",
+    "totalRuns": 336
+  },
+  {
+    "matchPair": "Royal Challengers Bangalore , Sunrisers Hyderabad",
+    "totalRuns": 338
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 329
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 334
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kings XI Punjab",
+    "totalRuns": 334
+  },
+  {
+    "matchPair": "Rajasthan Royals , Sunrisers Hyderabad",
+    "totalRuns": 258
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 372
+  },
+  {
+    "matchPair": "Delhi Daredevils , Sunrisers Hyderabad",
+    "totalRuns": 330
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
+    "totalRuns": 314
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 313
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 400
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kolkata Knight Riders",
+    "totalRuns": 293
+  },
+  {
+    "matchPair": "Kings XI Punjab , Rajasthan Royals",
+    "totalRuns": 403
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 277
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 335
+  },
+  {
+    "matchPair": "Delhi Daredevils , Mumbai Indians",
+    "totalRuns": 343
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 264
+  },
+  {
+    "matchPair": "Mumbai Indians , Sunrisers Hyderabad",
+    "totalRuns": 294
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kings XI Punjab",
+    "totalRuns": 287
+  },
+  {
+    "matchPair": "Delhi Daredevils , Royal Challengers Bangalore",
+    "totalRuns": 194
+  },
+  {
+    "matchPair": "Kings XI Punjab , Sunrisers Hyderabad",
+    "totalRuns": 280
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kolkata Knight Riders",
+    "totalRuns": 329
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 200
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 266
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kings XI Punjab",
+    "totalRuns": 237
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 366
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 226
+  },
+  {
+    "matchPair": "Chennai Super Kings , Sunrisers Hyderabad",
+    "totalRuns": 362
+  },
+  {
+    "matchPair": "Kings XI Punjab , Mumbai Indians",
+    "totalRuns": 321
+  },
+  {
+    "matchPair": "Delhi Daredevils , Rajasthan Royals",
+    "totalRuns": 364
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 272
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 299
+  },
+  {
+    "matchPair": "Delhi Daredevils , Mumbai Indians",
+    "totalRuns": 305
+  },
+  {
+    "matchPair": "Kings XI Punjab , Royal Challengers Bangalore",
+    "totalRuns": 314
+  },
+  {
+    "matchPair": "Rajasthan Royals , Sunrisers Hyderabad",
+    "totalRuns": 395
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 317
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
+    "totalRuns": 367
+  },
+  {
+    "matchPair": "Delhi Daredevils , Sunrisers Hyderabad",
+    "totalRuns": 320
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 431
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 302
+  },
+  {
+    "matchPair": "Kings XI Punjab , Sunrisers Hyderabad",
+    "totalRuns": 365
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Daredevils",
+    "totalRuns": 239
+  },
+  {
+    "matchPair": "Kings XI Punjab , Royal Challengers Bangalore",
+    "totalRuns": 190
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 337
+  },
+  {
+    "matchPair": "Royal Challengers Bangalore , Sunrisers Hyderabad",
+    "totalRuns": 218
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kings XI Punjab",
+    "totalRuns": 264
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 389
+  },
+  {
+    "matchPair": "Delhi Daredevils , Royal Challengers Bangalore",
+    "totalRuns": 189
+  },
+  {
+    "matchPair": "Mumbai Indians , Sunrisers Hyderabad",
+    "totalRuns": 227
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 349
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 289
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 279
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 363
+  },
+  {
+    "matchPair": "Mumbai Indians , Rising Pune Supergiants",
+    "totalRuns": 247
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kolkata Knight Riders",
+    "totalRuns": 197
+  },
+  {
+    "matchPair": "Gujarat Lions , Kings XI Punjab",
+    "totalRuns": 323
+  },
+  {
+    "matchPair": "Royal Challengers Bangalore , Sunrisers Hyderabad",
+    "totalRuns": 409
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 375
+  },
+  {
+    "matchPair": "Gujarat Lions , Rising Pune Supergiants",
+    "totalRuns": 327
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kings XI Punjab",
+    "totalRuns": 224
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 288
+  },
+  {
+    "matchPair": "Gujarat Lions , Mumbai Indians",
+    "totalRuns": 290
+  },
+  {
+    "matchPair": "Kings XI Punjab , Rising Pune Supergiants",
+    "totalRuns": 305
+  },
+  {
+    "matchPair": "Delhi Daredevils , Royal Challengers Bangalore",
+    "totalRuns": 383
+  },
+  {
+    "matchPair": "Mumbai Indians , Sunrisers Hyderabad",
+    "totalRuns": 287
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
+    "totalRuns": 279
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 341
+  },
+  {
+    "matchPair": "Gujarat Lions , Sunrisers Hyderabad",
+    "totalRuns": 272
+  },
+  {
+    "matchPair": "Rising Pune Supergiants , Royal Challengers Bangalore",
+    "totalRuns": 357
+  },
+  {
+    "matchPair": "Delhi Daredevils , Mumbai Indians",
+    "totalRuns": 318
+  },
+  {
+    "matchPair": "Kings XI Punjab , Sunrisers Hyderabad",
+    "totalRuns": 289
+  },
+  {
+    "matchPair": "Gujarat Lions , Royal Challengers Bangalore",
+    "totalRuns": 362
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rising Pune Supergiants",
+    "totalRuns": 322
+  },
+  {
+    "matchPair": "Kings XI Punjab , Mumbai Indians",
+    "totalRuns": 353
+  },
+  {
+    "matchPair": "Rising Pune Supergiants , Sunrisers Hyderabad",
+    "totalRuns": 212
+  },
+  {
+    "matchPair": "Delhi Daredevils , Gujarat Lions",
+    "totalRuns": 343
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 352
+  },
+  {
+    "matchPair": "Gujarat Lions , Rising Pune Supergiants",
+    "totalRuns": 391
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kolkata Knight Riders",
+    "totalRuns": 345
+  },
+  {
+    "matchPair": "Royal Challengers Bangalore , Sunrisers Hyderabad",
+    "totalRuns": 373
+  },
+  {
+    "matchPair": "Gujarat Lions , Kings XI Punjab",
+    "totalRuns": 285
+  },
+  {
+    "matchPair": "Mumbai Indians , Rising Pune Supergiants",
+    "totalRuns": 320
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 374
+  },
+  {
+    "matchPair": "Delhi Daredevils , Gujarat Lions",
+    "totalRuns": 299
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
+    "totalRuns": 321
+  },
+  {
+    "matchPair": "Delhi Daredevils , Rising Pune Supergiants",
+    "totalRuns": 328
+  },
+  {
+    "matchPair": "Gujarat Lions , Sunrisers Hyderabad",
+    "totalRuns": 255
+  },
+  {
+    "matchPair": "Rising Pune Supergiants , Royal Challengers Bangalore",
+    "totalRuns": 386
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kings XI Punjab",
+    "totalRuns": 353
+  },
+  {
+    "matchPair": "Mumbai Indians , Sunrisers Hyderabad",
+    "totalRuns": 269
+  },
+  {
+    "matchPair": "Gujarat Lions , Kolkata Knight Riders",
+    "totalRuns": 322
+  },
+  {
+    "matchPair": "Kings XI Punjab , Royal Challengers Bangalore",
+    "totalRuns": 349
+  },
+  {
+    "matchPair": "Rising Pune Supergiants , Sunrisers Hyderabad",
+    "totalRuns": 270
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 304
+  },
+  {
+    "matchPair": "Delhi Daredevils , Sunrisers Hyderabad",
+    "totalRuns": 296
+  },
+  {
+    "matchPair": "Kings XI Punjab , Mumbai Indians",
+    "totalRuns": 251
+  },
+  {
+    "matchPair": "Gujarat Lions , Royal Challengers Bangalore",
+    "totalRuns": 352
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rising Pune Supergiants",
+    "totalRuns": 169
+  },
+  {
+    "matchPair": "Kings XI Punjab , Sunrisers Hyderabad",
+    "totalRuns": 359
+  },
+  {
+    "matchPair": "Delhi Daredevils , Mumbai Indians",
+    "totalRuns": 332
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 369
+  },
+  {
+    "matchPair": "Delhi Daredevils , Rising Pune Supergiants",
+    "totalRuns": 197
+  },
+  {
+    "matchPair": "Kings XI Punjab , Royal Challengers Bangalore",
+    "totalRuns": 331
+  },
+  {
+    "matchPair": "Gujarat Lions , Kolkata Knight Riders",
+    "totalRuns": 249
+  },
+  {
+    "matchPair": "Delhi Daredevils , Sunrisers Hyderabad",
+    "totalRuns": 319
+  },
+  {
+    "matchPair": "Kings XI Punjab , Rising Pune Supergiants",
+    "totalRuns": 345
+  },
+  {
+    "matchPair": "Gujarat Lions , Mumbai Indians",
+    "totalRuns": 345
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 320
+  },
+  {
+    "matchPair": "Delhi Daredevils , Royal Challengers Bangalore",
+    "totalRuns": 277
+  },
+  {
+    "matchPair": "Gujarat Lions , Royal Challengers Bangalore",
+    "totalRuns": 317
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 302
+  },
+  {
+    "matchPair": "Gujarat Lions , Sunrisers Hyderabad",
+    "totalRuns": 325
+  },
+  {
+    "matchPair": "Royal Challengers Bangalore , Sunrisers Hyderabad",
+    "totalRuns": 408
+  },
+  {
+    "matchPair": "Royal Challengers Bangalore , Sunrisers Hyderabad",
+    "totalRuns": 379
+  },
+  {
+    "matchPair": "Mumbai Indians , Rising Pune Supergiant",
+    "totalRuns": 371
+  },
+  {
+    "matchPair": "Gujarat Lions , Kolkata Knight Riders",
+    "totalRuns": 367
+  },
+  {
+    "matchPair": "Kings XI Punjab , Rising Pune Supergiant",
+    "totalRuns": 327
+  },
+  {
+    "matchPair": "Delhi Daredevils , Royal Challengers Bangalore",
+    "totalRuns": 299
+  },
+  {
+    "matchPair": "Gujarat Lions , Sunrisers Hyderabad",
+    "totalRuns": 275
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 358
+  },
+  {
+    "matchPair": "Kings XI Punjab , Royal Challengers Bangalore",
+    "totalRuns": 298
+  },
+  {
+    "matchPair": "Delhi Daredevils , Rising Pune Supergiant",
+    "totalRuns": 313
+  },
+  {
+    "matchPair": "Mumbai Indians , Sunrisers Hyderabad",
+    "totalRuns": 317
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
+    "totalRuns": 341
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 287
+  },
+  {
+    "matchPair": "Gujarat Lions , Rising Pune Supergiant",
+    "totalRuns": 343
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 327
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kings XI Punjab",
+    "totalRuns": 325
+  },
+  {
+    "matchPair": "Gujarat Lions , Mumbai Indians",
+    "totalRuns": 353
+  },
+  {
+    "matchPair": "Rising Pune Supergiant , Royal Challengers Bangalore",
+    "totalRuns": 295
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kolkata Knight Riders",
+    "totalRuns": 337
+  },
+  {
+    "matchPair": "Kings XI Punjab , Sunrisers Hyderabad",
+    "totalRuns": 313
+  },
+  {
+    "matchPair": "Gujarat Lions , Royal Challengers Bangalore",
+    "totalRuns": 405
+  },
+  {
+    "matchPair": "Delhi Daredevils , Sunrisers Hyderabad",
+    "totalRuns": 367
+  },
+  {
+    "matchPair": "Kings XI Punjab , Mumbai Indians",
+    "totalRuns": 397
+  },
+  {
+    "matchPair": "Gujarat Lions , Kolkata Knight Riders",
+    "totalRuns": 375
+  },
+  {
+    "matchPair": "Delhi Daredevils , Mumbai Indians",
+    "totalRuns": 270
+  },
+  {
+    "matchPair": "Rising Pune Supergiant , Sunrisers Hyderabad",
+    "totalRuns": 355
+  },
+  {
+    "matchPair": "Gujarat Lions , Kings XI Punjab",
+    "totalRuns": 350
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 180
+  },
+  {
+    "matchPair": "Mumbai Indians , Rising Pune Supergiant",
+    "totalRuns": 317
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rising Pune Supergiant",
+    "totalRuns": 366
+  },
+  {
+    "matchPair": "Gujarat Lions , Royal Challengers Bangalore",
+    "totalRuns": 269
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kolkata Knight Riders",
+    "totalRuns": 321
+  },
+  {
+    "matchPair": "Kings XI Punjab , Sunrisers Hyderabad",
+    "totalRuns": 388
+  },
+  {
+    "matchPair": "Rising Pune Supergiant , Royal Challengers Bangalore",
+    "totalRuns": 253
+  },
+  {
+    "matchPair": "Gujarat Lions , Mumbai Indians",
+    "totalRuns": 323
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kings XI Punjab",
+    "totalRuns": 135
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 370
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 327
+  },
+  {
+    "matchPair": "Gujarat Lions , Rising Pune Supergiant",
+    "totalRuns": 328
+  },
+  {
+    "matchPair": "Delhi Daredevils , Sunrisers Hyderabad",
+    "totalRuns": 374
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rising Pune Supergiant",
+    "totalRuns": 313
+  },
+  {
+    "matchPair": "Delhi Daredevils , Gujarat Lions",
+    "totalRuns": 422
+  },
+  {
+    "matchPair": "Kings XI Punjab , Royal Challengers Bangalore",
+    "totalRuns": 257
+  },
+  {
+    "matchPair": "Rising Pune Supergiant , Sunrisers Hyderabad",
+    "totalRuns": 284
+  },
+  {
+    "matchPair": "Delhi Daredevils , Mumbai Indians",
+    "totalRuns": 278
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 317
+  },
+  {
+    "matchPair": "Gujarat Lions , Kings XI Punjab",
+    "totalRuns": 381
+  },
+  {
+    "matchPair": "Mumbai Indians , Sunrisers Hyderabad",
+    "totalRuns": 278
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
+    "totalRuns": 320
+  },
+  {
+    "matchPair": "Delhi Daredevils , Gujarat Lions",
+    "totalRuns": 392
+  },
+  {
+    "matchPair": "Kings XI Punjab , Mumbai Indians",
+    "totalRuns": 453
+  },
+  {
+    "matchPair": "Delhi Daredevils , Rising Pune Supergiant",
+    "totalRuns": 329
+  },
+  {
+    "matchPair": "Gujarat Lions , Sunrisers Hyderabad",
+    "totalRuns": 312
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 337
+  },
+  {
+    "matchPair": "Kings XI Punjab , Rising Pune Supergiant",
+    "totalRuns": 151
+  },
+  {
+    "matchPair": "Delhi Daredevils , Royal Challengers Bangalore",
+    "totalRuns": 312
+  },
+  {
+    "matchPair": "Mumbai Indians , Rising Pune Supergiant",
+    "totalRuns": 304
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 176
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 218
+  },
+  {
+    "matchPair": "Mumbai Indians , Rising Pune Supergiant",
+    "totalRuns": 257
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 334
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kings XI Punjab",
+    "totalRuns": 333
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 353
+  },
+  {
+    "matchPair": "Rajasthan Royals , Sunrisers Hyderabad",
+    "totalRuns": 252
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 407
+  },
+  {
+    "matchPair": "Delhi Daredevils , Rajasthan Royals",
+    "totalRuns": 213
+  },
+  {
+    "matchPair": "Mumbai Indians , Sunrisers Hyderabad",
+    "totalRuns": 298
+  },
+  {
+    "matchPair": "Kings XI Punjab , Royal Challengers Bangalore",
+    "totalRuns": 314
+  },
+  {
+    "matchPair": "Delhi Daredevils , Mumbai Indians",
+    "totalRuns": 389
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 277
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 415
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kings XI Punjab",
+    "totalRuns": 390
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kolkata Knight Riders",
+    "totalRuns": 329
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 380
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 323
+  },
+  {
+    "matchPair": "Kings XI Punjab , Sunrisers Hyderabad",
+    "totalRuns": 371
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 344
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
+    "totalRuns": 317
+  },
+  {
+    "matchPair": "Delhi Daredevils , Royal Challengers Bangalore",
+    "totalRuns": 350
+  },
+  {
+    "matchPair": "Chennai Super Kings , Sunrisers Hyderabad",
+    "totalRuns": 360
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 335
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kings XI Punjab",
+    "totalRuns": 282
+  },
+  {
+    "matchPair": "Mumbai Indians , Sunrisers Hyderabad",
+    "totalRuns": 205
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 412
+  },
+  {
+    "matchPair": "Kings XI Punjab , Sunrisers Hyderabad",
+    "totalRuns": 251
+  },
+  {
+    "matchPair": "Delhi Daredevils , Kolkata Knight Riders",
+    "totalRuns": 383
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 339
+  },
+  {
+    "matchPair": "Rajasthan Royals , Sunrisers Hyderabad",
+    "totalRuns": 291
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 351
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Daredevils",
+    "totalRuns": 409
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 320
+  },
+  {
+    "matchPair": "Delhi Daredevils , Rajasthan Royals",
+    "totalRuns": 342
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 357
+  },
+  {
+    "matchPair": "Kings XI Punjab , Mumbai Indians",
+    "totalRuns": 350
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 255
+  },
+  {
+    "matchPair": "Delhi Daredevils , Sunrisers Hyderabad",
+    "totalRuns": 327
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 349
+  },
+  {
+    "matchPair": "Kings XI Punjab , Rajasthan Royals",
+    "totalRuns": 307
+  },
+  {
+    "matchPair": "Royal Challengers Bangalore , Sunrisers Hyderabad",
+    "totalRuns": 287
+  },
+  {
+    "matchPair": "Kings XI Punjab , Rajasthan Royals",
+    "totalRuns": 301
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 318
+  },
+  {
+    "matchPair": "Delhi Daredevils , Sunrisers Hyderabad",
+    "totalRuns": 378
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 353
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
+    "totalRuns": 459
+  },
+  {
+    "matchPair": "Delhi Daredevils , Royal Challengers Bangalore",
+    "totalRuns": 368
+  },
+  {
+    "matchPair": "Chennai Super Kings , Sunrisers Hyderabad",
+    "totalRuns": 359
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 339
+  },
+  {
+    "matchPair": "Kings XI Punjab , Royal Challengers Bangalore",
+    "totalRuns": 180
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 287
+  },
+  {
+    "matchPair": "Kings XI Punjab , Mumbai Indians",
+    "totalRuns": 369
+  },
+  {
+    "matchPair": "Royal Challengers Bangalore , Sunrisers Hyderabad",
+    "totalRuns": 422
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Daredevils",
+    "totalRuns": 290
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 298
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 345
+  },
+  {
+    "matchPair": "Delhi Daredevils , Mumbai Indians",
+    "totalRuns": 337
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kings XI Punjab",
+    "totalRuns": 312
+  },
+  {
+    "matchPair": "Chennai Super Kings , Sunrisers Hyderabad",
+    "totalRuns": 279
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 313
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 334
+  },
+  {
+    "matchPair": "Chennai Super Kings , Sunrisers Hyderabad",
+    "totalRuns": 359
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 141
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 364
+  },
+  {
+    "matchPair": "Delhi Capitals , Mumbai Indians",
+    "totalRuns": 389
+  },
+  {
+    "matchPair": "Kings XI Punjab , Rajasthan Royals",
+    "totalRuns": 354
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Capitals",
+    "totalRuns": 297
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
+    "totalRuns": 408
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 368
+  },
+  {
+    "matchPair": "Rajasthan Royals , Sunrisers Hyderabad",
+    "totalRuns": 399
+  },
+  {
+    "matchPair": "Kings XI Punjab , Mumbai Indians",
+    "totalRuns": 353
+  },
+  {
+    "matchPair": "Delhi Capitals , Kolkata Knight Riders",
+    "totalRuns": 387
+  },
+  {
+    "matchPair": "Royal Challengers Bangalore , Sunrisers Hyderabad",
+    "totalRuns": 344
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 342
+  },
+  {
+    "matchPair": "Delhi Capitals , Kings XI Punjab",
+    "totalRuns": 318
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 322
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 303
+  },
+  {
+    "matchPair": "Delhi Capitals , Sunrisers Hyderabad",
+    "totalRuns": 260
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 411
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kings XI Punjab",
+    "totalRuns": 298
+  },
+  {
+    "matchPair": "Mumbai Indians , Sunrisers Hyderabad",
+    "totalRuns": 232
+  },
+  {
+    "matchPair": "Delhi Capitals , Royal Challengers Bangalore",
+    "totalRuns": 301
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 279
+  },
+  {
+    "matchPair": "Kings XI Punjab , Sunrisers Hyderabad",
+    "totalRuns": 301
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 219
+  },
+  {
+    "matchPair": "Kings XI Punjab , Mumbai Indians",
+    "totalRuns": 395
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 306
+  },
+  {
+    "matchPair": "Delhi Capitals , Kolkata Knight Riders",
+    "totalRuns": 358
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 375
+  },
+  {
+    "matchPair": "Kings XI Punjab , Royal Challengers Bangalore",
+    "totalRuns": 347
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 323
+  },
+  {
+    "matchPair": "Delhi Capitals , Sunrisers Hyderabad",
+    "totalRuns": 271
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 343
+  },
+  {
+    "matchPair": "Kings XI Punjab , Rajasthan Royals",
+    "totalRuns": 352
+  },
+  {
+    "matchPair": "Chennai Super Kings , Sunrisers Hyderabad",
+    "totalRuns": 269
+  },
+  {
+    "matchPair": "Delhi Capitals , Mumbai Indians",
+    "totalRuns": 296
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 416
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 323
+  },
+  {
+    "matchPair": "Delhi Capitals , Kings XI Punjab",
+    "totalRuns": 329
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 320
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 321
+  },
+  {
+    "matchPair": "Delhi Capitals , Rajasthan Royals",
+    "totalRuns": 384
+  },
+  {
+    "matchPair": "Chennai Super Kings , Sunrisers Hyderabad",
+    "totalRuns": 351
+  },
+  {
+    "matchPair": "Kings XI Punjab , Royal Challengers Bangalore",
+    "totalRuns": 387
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 352
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 264
+  },
+  {
+    "matchPair": "Rajasthan Royals , Sunrisers Hyderabad",
+    "totalRuns": 321
+  },
+  {
+    "matchPair": "Delhi Capitals , Royal Challengers Bangalore",
+    "totalRuns": 358
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 430
+  },
+  {
+    "matchPair": "Kings XI Punjab , Sunrisers Hyderabad",
+    "totalRuns": 379
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 103
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Capitals",
+    "totalRuns": 278
+  },
+  {
+    "matchPair": "Mumbai Indians , Sunrisers Hyderabad",
+    "totalRuns": 341
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
+    "totalRuns": 368
+  },
+  {
+    "matchPair": "Delhi Capitals , Rajasthan Royals",
+    "totalRuns": 236
+  },
+  {
+    "matchPair": "Royal Challengers Bangalore , Sunrisers Hyderabad",
+    "totalRuns": 353
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kings XI Punjab",
+    "totalRuns": 343
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 267
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 263
+  },
+  {
+    "matchPair": "Delhi Capitals , Sunrisers Hyderabad",
+    "totalRuns": 327
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Capitals",
+    "totalRuns": 298
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 297
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 328
+  },
+  {
+    "matchPair": "Delhi Capitals , Kings XI Punjab",
+    "totalRuns": 319
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 169
+  },
+  {
+    "matchPair": "Mumbai Indians , Sunrisers Hyderabad",
+    "totalRuns": 300
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 416
+  },
+  {
+    "matchPair": "Delhi Capitals , Kolkata Knight Riders",
+    "totalRuns": 329
+  },
+  {
+    "matchPair": "Kings XI Punjab , Sunrisers Hyderabad",
+    "totalRuns": 240
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 330
+  },
+  {
+    "matchPair": "Delhi Capitals , Rajasthan Royals",
+    "totalRuns": 322
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 324
+  },
+  {
+    "matchPair": "Royal Challengers Bangalore , Sunrisers Hyderabad",
+    "totalRuns": 241
+  },
+  {
+    "matchPair": "Kings XI Punjab , Mumbai Indians",
+    "totalRuns": 334
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 311
+  },
+  {
+    "matchPair": "Delhi Capitals , Royal Challengers Bangalore",
+    "totalRuns": 306
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kings XI Punjab",
+    "totalRuns": 307
+  },
+  {
+    "matchPair": "Rajasthan Royals , Sunrisers Hyderabad",
+    "totalRuns": 321
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 341
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Capitals",
+    "totalRuns": 364
+  },
+  {
+    "matchPair": "Kings XI Punjab , Royal Challengers Bangalore",
+    "totalRuns": 315
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 329
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 331
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kings XI Punjab",
+    "totalRuns": 359
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 312
+  },
+  {
+    "matchPair": "Delhi Capitals , Kolkata Knight Riders",
+    "totalRuns": 438
+  },
+  {
+    "matchPair": "Chennai Super Kings , Sunrisers Hyderabad",
+    "totalRuns": 321
+  },
+  {
+    "matchPair": "Kings XI Punjab , Mumbai Indians",
+    "totalRuns": 388
+  },
+  {
+    "matchPair": "Rajasthan Royals , Sunrisers Hyderabad",
+    "totalRuns": 310
+  },
+  {
+    "matchPair": "Delhi Capitals , Royal Challengers Bangalore",
+    "totalRuns": 333
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
+    "totalRuns": 299
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 230
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 356
+  },
+  {
+    "matchPair": "Kings XI Punjab , Kolkata Knight Riders",
+    "totalRuns": 326
+  },
+  {
+    "matchPair": "Delhi Capitals , Sunrisers Hyderabad",
+    "totalRuns": 350
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 301
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 297
+  },
+  {
+    "matchPair": "Kings XI Punjab , Rajasthan Royals",
+    "totalRuns": 449
+  },
+  {
+    "matchPair": "Chennai Super Kings , Sunrisers Hyderabad",
+    "totalRuns": 314
+  },
+  {
+    "matchPair": "Delhi Capitals , Mumbai Indians",
+    "totalRuns": 328
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 322
+  },
+  {
+    "matchPair": "Kings XI Punjab , Royal Challengers Bangalore",
+    "totalRuns": 348
+  },
+  {
+    "matchPair": "Delhi Capitals , Sunrisers Hyderabad",
+    "totalRuns": 309
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 251
+  },
+  {
+    "matchPair": "Royal Challengers Bangalore , Sunrisers Hyderabad",
+    "totalRuns": 316
+  },
+  {
+    "matchPair": "Delhi Capitals , Mumbai Indians",
+    "totalRuns": 221
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 350
+  },
+  {
+    "matchPair": "Kings XI Punjab , Rajasthan Royals",
+    "totalRuns": 371
+  },
+  {
+    "matchPair": "Mumbai Indians , Sunrisers Hyderabad",
+    "totalRuns": 382
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Capitals",
+    "totalRuns": 306
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 306
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 391
+  },
+  {
+    "matchPair": "Kings XI Punjab , Sunrisers Hyderabad",
+    "totalRuns": 333
+  },
+  {
+    "matchPair": "Delhi Capitals , Rajasthan Royals",
+    "totalRuns": 309
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 295
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 287
+  },
+  {
+    "matchPair": "Delhi Capitals , Kings XI Punjab",
+    "totalRuns": 331
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 420
+  },
+  {
+    "matchPair": "Delhi Capitals , Mumbai Indians",
+    "totalRuns": 343
+  },
+  {
+    "matchPair": "Royal Challengers Bangalore , Sunrisers Hyderabad",
+    "totalRuns": 263
+  },
+  {
+    "matchPair": "Delhi Capitals , Sunrisers Hyderabad",
+    "totalRuns": 361
+  },
+  {
+    "matchPair": "Delhi Capitals , Mumbai Indians",
+    "totalRuns": 313
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 319
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Capitals",
+    "totalRuns": 378
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 364
+  },
+  {
+    "matchPair": "Punjab Kings , Rajasthan Royals",
+    "totalRuns": 438
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 294
+  },
+  {
+    "matchPair": "Royal Challengers Bangalore , Sunrisers Hyderabad",
+    "totalRuns": 292
+  },
+  {
+    "matchPair": "Delhi Capitals , Rajasthan Royals",
+    "totalRuns": 297
+  },
+  {
+    "matchPair": "Chennai Super Kings , Punjab Kings",
+    "totalRuns": 213
+  },
+  {
+    "matchPair": "Mumbai Indians , Sunrisers Hyderabad",
+    "totalRuns": 287
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 370
+  },
+  {
+    "matchPair": "Delhi Capitals , Punjab Kings",
+    "totalRuns": 393
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 331
+  },
+  {
+    "matchPair": "Delhi Capitals , Mumbai Indians",
+    "totalRuns": 275
+  },
+  {
+    "matchPair": "Punjab Kings , Sunrisers Hyderabad",
+    "totalRuns": 241
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 422
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 358
+  },
+  {
+    "matchPair": "Mumbai Indians , Punjab Kings",
+    "totalRuns": 263
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 267
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 313
+  },
+  {
+    "matchPair": "Delhi Capitals , Sunrisers Hyderabad",
+    "totalRuns": 333
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Punjab Kings",
+    "totalRuns": 249
+  },
+  {
+    "matchPair": "Delhi Capitals , Royal Challengers Bangalore",
+    "totalRuns": 341
+  },
+  {
+    "matchPair": "Chennai Super Kings , Sunrisers Hyderabad",
+    "totalRuns": 344
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 343
+  },
+  {
+    "matchPair": "Delhi Capitals , Kolkata Knight Riders",
+    "totalRuns": 310
+  },
+  {
+    "matchPair": "Punjab Kings , Royal Challengers Bangalore",
+    "totalRuns": 324
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 437
+  },
+  {
+    "matchPair": "Rajasthan Royals , Sunrisers Hyderabad",
+    "totalRuns": 385
+  },
+  {
+    "matchPair": "Delhi Capitals , Punjab Kings",
+    "totalRuns": 333
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 186
+  },
+  {
+    "matchPair": "Mumbai Indians , Sunrisers Hyderabad",
+    "totalRuns": 428
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 379
+  },
+  {
+    "matchPair": "Punjab Kings , Royal Challengers Bangalore",
+    "totalRuns": 322
+  },
+  {
+    "matchPair": "Chennai Super Kings , Sunrisers Hyderabad",
+    "totalRuns": 273
+  },
+  {
+    "matchPair": "Delhi Capitals , Kolkata Knight Riders",
+    "totalRuns": 257
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 184
+  },
+  {
+    "matchPair": "Chennai Super Kings , Punjab Kings",
+    "totalRuns": 273
+  },
+  {
+    "matchPair": "Royal Challengers Bangalore , Sunrisers Hyderabad",
+    "totalRuns": 278
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 314
+  },
+  {
+    "matchPair": "Delhi Capitals , Rajasthan Royals",
+    "totalRuns": 275
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 343
+  },
+  {
+    "matchPair": "Mumbai Indians , Punjab Kings",
+    "totalRuns": 272
+  },
+  {
+    "matchPair": "Rajasthan Royals , Sunrisers Hyderabad",
+    "totalRuns": 331
+  },
+  {
+    "matchPair": "Delhi Capitals , Royal Challengers Bangalore",
+    "totalRuns": 330
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Punjab Kings",
+    "totalRuns": 333
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 302
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 292
+  },
+  {
+    "matchPair": "Delhi Capitals , Sunrisers Hyderabad",
+    "totalRuns": 273
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 256
+  },
+  {
+    "matchPair": "Punjab Kings , Sunrisers Hyderabad",
+    "totalRuns": 245
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 276
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 234
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Capitals",
+    "totalRuns": 275
+  },
+  {
+    "matchPair": "Punjab Kings , Rajasthan Royals",
+    "totalRuns": 368
+  },
+  {
+    "matchPair": "Delhi Capitals , Mumbai Indians",
+    "totalRuns": 261
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 313
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Capitals",
+    "totalRuns": 345
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 277
+  },
+  {
+    "matchPair": "Delhi Capitals , Kolkata Knight Riders",
+    "totalRuns": 271
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 357
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 264
+  },
+  {
+    "matchPair": "Delhi Capitals , Mumbai Indians",
+    "totalRuns": 356
+  },
+  {
+    "matchPair": "Punjab Kings , Royal Challengers Bangalore",
+    "totalRuns": 413
+  },
+  {
+    "matchPair": "Gujarat Titans , Lucknow Super Giants",
+    "totalRuns": 319
+  },
+  {
+    "matchPair": "Rajasthan Royals , Sunrisers Hyderabad",
+    "totalRuns": 359
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 260
+  },
+  {
+    "matchPair": "Chennai Super Kings , Lucknow Super Giants",
+    "totalRuns": 421
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Punjab Kings",
+    "totalRuns": 278
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 363
+  },
+  {
+    "matchPair": "Delhi Capitals , Gujarat Titans",
+    "totalRuns": 328
+  },
+  {
+    "matchPair": "Chennai Super Kings , Punjab Kings",
+    "totalRuns": 306
+  },
+  {
+    "matchPair": "Lucknow Super Giants , Sunrisers Hyderabad",
+    "totalRuns": 326
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 342
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 323
+  },
+  {
+    "matchPair": "Delhi Capitals , Lucknow Super Giants",
+    "totalRuns": 304
+  },
+  {
+    "matchPair": "Gujarat Titans , Punjab Kings",
+    "totalRuns": 379
+  },
+  {
+    "matchPair": "Chennai Super Kings , Sunrisers Hyderabad",
+    "totalRuns": 309
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 303
+  },
+  {
+    "matchPair": "Delhi Capitals , Kolkata Knight Riders",
+    "totalRuns": 386
+  },
+  {
+    "matchPair": "Lucknow Super Giants , Rajasthan Royals",
+    "totalRuns": 327
+  },
+  {
+    "matchPair": "Gujarat Titans , Sunrisers Hyderabad",
+    "totalRuns": 330
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 409
+  },
+  {
+    "matchPair": "Mumbai Indians , Punjab Kings",
+    "totalRuns": 384
+  },
+  {
+    "matchPair": "Gujarat Titans , Rajasthan Royals",
+    "totalRuns": 347
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 351
+  },
+  {
+    "matchPair": "Lucknow Super Giants , Mumbai Indians",
+    "totalRuns": 380
+  },
+  {
+    "matchPair": "Delhi Capitals , Royal Challengers Bangalore",
+    "totalRuns": 362
+  },
+  {
+    "matchPair": "Punjab Kings , Sunrisers Hyderabad",
+    "totalRuns": 303
+  },
+  {
+    "matchPair": "Chennai Super Kings , Gujarat Titans",
+    "totalRuns": 339
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 427
+  },
+  {
+    "matchPair": "Lucknow Super Giants , Royal Challengers Bangalore",
+    "totalRuns": 344
+  },
+  {
+    "matchPair": "Delhi Capitals , Punjab Kings",
+    "totalRuns": 234
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 311
+  },
+  {
+    "matchPair": "Delhi Capitals , Rajasthan Royals",
+    "totalRuns": 429
+  },
+  {
+    "matchPair": "Gujarat Titans , Kolkata Knight Riders",
+    "totalRuns": 304
+  },
+  {
+    "matchPair": "Royal Challengers Bangalore , Sunrisers Hyderabad",
+    "totalRuns": 140
+  },
+  {
+    "matchPair": "Lucknow Super Giants , Mumbai Indians",
+    "totalRuns": 300
+  },
+  {
+    "matchPair": "Chennai Super Kings , Punjab Kings",
+    "totalRuns": 363
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 259
+  },
+  {
+    "matchPair": "Gujarat Titans , Sunrisers Hyderabad",
+    "totalRuns": 394
+  },
+  {
+    "matchPair": "Delhi Capitals , Kolkata Knight Riders",
+    "totalRuns": 296
+  },
+  {
+    "matchPair": "Lucknow Super Giants , Punjab Kings",
+    "totalRuns": 286
+  },
+  {
+    "matchPair": "Gujarat Titans , Royal Challengers Bangalore",
+    "totalRuns": 344
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 319
+  },
+  {
+    "matchPair": "Delhi Capitals , Lucknow Super Giants",
+    "totalRuns": 384
+  },
+  {
+    "matchPair": "Chennai Super Kings , Sunrisers Hyderabad",
+    "totalRuns": 391
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 310
+  },
+  {
+    "matchPair": "Gujarat Titans , Punjab Kings",
+    "totalRuns": 288
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 333
+  },
+  {
+    "matchPair": "Delhi Capitals , Sunrisers Hyderabad",
+    "totalRuns": 393
+  },
+  {
+    "matchPair": "Gujarat Titans , Mumbai Indians",
+    "totalRuns": 349
+  },
+  {
+    "matchPair": "Punjab Kings , Rajasthan Royals",
+    "totalRuns": 379
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Lucknow Super Giants",
+    "totalRuns": 277
+  },
+  {
+    "matchPair": "Royal Challengers Bangalore , Sunrisers Hyderabad",
+    "totalRuns": 317
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Capitals",
+    "totalRuns": 325
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 278
+  },
+  {
+    "matchPair": "Gujarat Titans , Lucknow Super Giants",
+    "totalRuns": 226
+  },
+  {
+    "matchPair": "Delhi Capitals , Rajasthan Royals",
+    "totalRuns": 321
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 200
+  },
+  {
+    "matchPair": "Punjab Kings , Royal Challengers Bangalore",
+    "totalRuns": 364
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 300
+  },
+  {
+    "matchPair": "Chennai Super Kings , Gujarat Titans",
+    "totalRuns": 270
+  },
+  {
+    "matchPair": "Lucknow Super Giants , Rajasthan Royals",
+    "totalRuns": 332
+  },
+  {
+    "matchPair": "Delhi Capitals , Punjab Kings",
+    "totalRuns": 301
+  },
+  {
+    "matchPair": "Mumbai Indians , Sunrisers Hyderabad",
+    "totalRuns": 383
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Lucknow Super Giants",
+    "totalRuns": 418
+  },
+  {
+    "matchPair": "Gujarat Titans , Royal Challengers Bangalore",
+    "totalRuns": 338
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 301
+  },
+  {
+    "matchPair": "Delhi Capitals , Mumbai Indians",
+    "totalRuns": 319
+  },
+  {
+    "matchPair": "Punjab Kings , Sunrisers Hyderabad",
+    "totalRuns": 317
+  },
+  {
+    "matchPair": "Gujarat Titans , Rajasthan Royals",
+    "totalRuns": 379
+  },
+  {
+    "matchPair": "Lucknow Super Giants , Royal Challengers Bangalore",
+    "totalRuns": 400
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 318
+  },
+  {
+    "matchPair": "Gujarat Titans , Rajasthan Royals",
+    "totalRuns": 263
+  },
+  {
+    "matchPair": "Chennai Super Kings , Gujarat Titans",
+    "totalRuns": 360
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Punjab Kings",
+    "totalRuns": 337
+  },
+  {
+    "matchPair": "Delhi Capitals , Lucknow Super Giants",
+    "totalRuns": 336
+  },
+  {
+    "matchPair": "Rajasthan Royals , Sunrisers Hyderabad",
+    "totalRuns": 334
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 343
+  },
+  {
+    "matchPair": "Chennai Super Kings , Lucknow Super Giants",
+    "totalRuns": 422
+  },
+  {
+    "matchPair": "Delhi Capitals , Gujarat Titans",
+    "totalRuns": 325
+  },
+  {
+    "matchPair": "Punjab Kings , Rajasthan Royals",
+    "totalRuns": 389
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 327
+  },
+  {
+    "matchPair": "Lucknow Super Giants , Sunrisers Hyderabad",
+    "totalRuns": 248
+  },
+  {
+    "matchPair": "Delhi Capitals , Rajasthan Royals",
+    "totalRuns": 341
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 316
+  },
+  {
+    "matchPair": "Gujarat Titans , Kolkata Knight Riders",
+    "totalRuns": 411
+  },
+  {
+    "matchPair": "Punjab Kings , Sunrisers Hyderabad",
+    "totalRuns": 288
+  },
+  {
+    "matchPair": "Lucknow Super Giants , Royal Challengers Bangalore",
+    "totalRuns": 425
+  },
+  {
+    "matchPair": "Delhi Capitals , Mumbai Indians",
+    "totalRuns": 345
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 347
+  },
+  {
+    "matchPair": "Gujarat Titans , Punjab Kings",
+    "totalRuns": 307
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 433
+  },
+  {
+    "matchPair": "Delhi Capitals , Royal Challengers Bangalore",
+    "totalRuns": 325
+  },
+  {
+    "matchPair": "Lucknow Super Giants , Punjab Kings",
+    "totalRuns": 320
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 371
+  },
+  {
+    "matchPair": "Gujarat Titans , Rajasthan Royals",
+    "totalRuns": 356
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bangalore",
+    "totalRuns": 444
+  },
+  {
+    "matchPair": "Mumbai Indians , Sunrisers Hyderabad",
+    "totalRuns": 370
+  },
+  {
+    "matchPair": "Lucknow Super Giants , Rajasthan Royals",
+    "totalRuns": 298
+  },
+  {
+    "matchPair": "Punjab Kings , Royal Challengers Bangalore",
+    "totalRuns": 324
+  },
+  {
+    "matchPair": "Delhi Capitals , Kolkata Knight Riders",
+    "totalRuns": 255
+  },
+  {
+    "matchPair": "Chennai Super Kings , Sunrisers Hyderabad",
+    "totalRuns": 272
+  },
+  {
+    "matchPair": "Gujarat Titans , Lucknow Super Giants",
+    "totalRuns": 263
+  },
+  {
+    "matchPair": "Mumbai Indians , Punjab Kings",
+    "totalRuns": 415
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 371
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 421
+  },
+  {
+    "matchPair": "Delhi Capitals , Sunrisers Hyderabad",
+    "totalRuns": 281
+  },
+  {
+    "matchPair": "Gujarat Titans , Mumbai Indians",
+    "totalRuns": 359
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bangalore",
+    "totalRuns": 379
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 372
+  },
+  {
+    "matchPair": "Lucknow Super Giants , Punjab Kings",
+    "totalRuns": 458
+  },
+  {
+    "matchPair": "Gujarat Titans , Kolkata Knight Riders",
+    "totalRuns": 359
+  },
+  {
+    "matchPair": "Delhi Capitals , Sunrisers Hyderabad",
+    "totalRuns": 385
+  },
+  {
+    "matchPair": "Chennai Super Kings , Punjab Kings",
+    "totalRuns": 401
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 426
+  },
+  {
+    "matchPair": "Lucknow Super Giants , Royal Challengers Bangalore",
+    "totalRuns": 234
+  },
+  {
+    "matchPair": "Delhi Capitals , Gujarat Titans",
+    "totalRuns": 255
+  },
+  {
+    "matchPair": "Chennai Super Kings , Lucknow Super Giants",
+    "totalRuns": 125
+  },
+  {
+    "matchPair": "Mumbai Indians , Punjab Kings",
+    "totalRuns": 430
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 337
+  },
+  {
+    "matchPair": "Gujarat Titans , Rajasthan Royals",
+    "totalRuns": 237
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 279
+  },
+  {
+    "matchPair": "Delhi Capitals , Royal Challengers Bangalore",
+    "totalRuns": 368
+  },
+  {
+    "matchPair": "Gujarat Titans , Lucknow Super Giants",
+    "totalRuns": 398
+  },
+  {
+    "matchPair": "Rajasthan Royals , Sunrisers Hyderabad",
+    "totalRuns": 431
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Punjab Kings",
+    "totalRuns": 361
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bangalore",
+    "totalRuns": 399
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Capitals",
+    "totalRuns": 307
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 300
+  },
+  {
+    "matchPair": "Gujarat Titans , Mumbai Indians",
+    "totalRuns": 409
+  },
+  {
+    "matchPair": "Lucknow Super Giants , Sunrisers Hyderabad",
+    "totalRuns": 367
+  },
+  {
+    "matchPair": "Delhi Capitals , Punjab Kings",
+    "totalRuns": 303
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bangalore",
+    "totalRuns": 230
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 291
+  },
+  {
+    "matchPair": "Gujarat Titans , Sunrisers Hyderabad",
+    "totalRuns": 342
+  },
+  {
+    "matchPair": "Lucknow Super Giants , Mumbai Indians",
+    "totalRuns": 349
+  },
+  {
+    "matchPair": "Delhi Capitals , Punjab Kings",
+    "totalRuns": 411
+  },
+  {
+    "matchPair": "Royal Challengers Bangalore , Sunrisers Hyderabad",
+    "totalRuns": 373
+  },
+  {
+    "matchPair": "Punjab Kings , Rajasthan Royals",
+    "totalRuns": 376
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Capitals",
+    "totalRuns": 369
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Lucknow Super Giants",
+    "totalRuns": 351
+  },
+  {
+    "matchPair": "Mumbai Indians , Sunrisers Hyderabad",
+    "totalRuns": 401
+  },
+  {
+    "matchPair": "Gujarat Titans , Royal Challengers Bangalore",
+    "totalRuns": 395
+  },
+  {
+    "matchPair": "Chennai Super Kings , Gujarat Titans",
+    "totalRuns": 329
+  },
+  {
+    "matchPair": "Lucknow Super Giants , Mumbai Indians",
+    "totalRuns": 283
+  },
+  {
+    "matchPair": "Gujarat Titans , Mumbai Indians",
+    "totalRuns": 404
+  },
+  {
+    "matchPair": "Chennai Super Kings , Gujarat Titans",
+    "totalRuns": 385
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bengaluru",
+    "totalRuns": 349
+  },
+  {
+    "matchPair": "Delhi Capitals , Punjab Kings",
+    "totalRuns": 351
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 412
+  },
+  {
+    "matchPair": "Lucknow Super Giants , Rajasthan Royals",
+    "totalRuns": 366
+  },
+  {
+    "matchPair": "Gujarat Titans , Mumbai Indians",
+    "totalRuns": 330
+  },
+  {
+    "matchPair": "Punjab Kings , Royal Challengers Bengaluru",
+    "totalRuns": 354
+  },
+  {
+    "matchPair": "Chennai Super Kings , Gujarat Titans",
+    "totalRuns": 349
+  },
+  {
+    "matchPair": "Mumbai Indians , Sunrisers Hyderabad",
+    "totalRuns": 523
+  },
+  {
+    "matchPair": "Delhi Capitals , Rajasthan Royals",
+    "totalRuns": 358
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bengaluru",
+    "totalRuns": 368
+  },
+  {
+    "matchPair": "Lucknow Super Giants , Punjab Kings",
+    "totalRuns": 377
+  },
+  {
+    "matchPair": "Gujarat Titans , Sunrisers Hyderabad",
+    "totalRuns": 330
+  },
+  {
+    "matchPair": "Chennai Super Kings , Delhi Capitals",
+    "totalRuns": 362
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 252
+  },
+  {
+    "matchPair": "Lucknow Super Giants , Royal Challengers Bengaluru",
+    "totalRuns": 334
+  },
+  {
+    "matchPair": "Delhi Capitals , Kolkata Knight Riders",
+    "totalRuns": 438
+  },
+  {
+    "matchPair": "Gujarat Titans , Punjab Kings",
+    "totalRuns": 399
+  },
+  {
+    "matchPair": "Chennai Super Kings , Sunrisers Hyderabad",
+    "totalRuns": 331
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bengaluru",
+    "totalRuns": 372
+  },
+  {
+    "matchPair": "Delhi Capitals , Mumbai Indians",
+    "totalRuns": 439
+  },
+  {
+    "matchPair": "Gujarat Titans , Lucknow Super Giants",
+    "totalRuns": 293
+  },
+  {
+    "matchPair": "Chennai Super Kings , Kolkata Knight Riders",
+    "totalRuns": 278
+  },
+  {
+    "matchPair": "Punjab Kings , Sunrisers Hyderabad",
+    "totalRuns": 362
+  },
+  {
+    "matchPair": "Gujarat Titans , Rajasthan Royals",
+    "totalRuns": 395
+  },
+  {
+    "matchPair": "Mumbai Indians , Royal Challengers Bengaluru",
+    "totalRuns": 395
+  },
+  {
+    "matchPair": "Delhi Capitals , Lucknow Super Giants",
+    "totalRuns": 337
+  },
+  {
+    "matchPair": "Punjab Kings , Rajasthan Royals",
+    "totalRuns": 299
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Lucknow Super Giants",
+    "totalRuns": 323
+  },
+  {
+    "matchPair": "Chennai Super Kings , Mumbai Indians",
+    "totalRuns": 392
+  },
+  {
+    "matchPair": "Royal Challengers Bengaluru , Sunrisers Hyderabad",
+    "totalRuns": 549
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Rajasthan Royals",
+    "totalRuns": 447
+  },
+  {
+    "matchPair": "Delhi Capitals , Gujarat Titans",
+    "totalRuns": 181
+  },
+  {
+    "matchPair": "Mumbai Indians , Punjab Kings",
+    "totalRuns": 375
+  },
+  {
+    "matchPair": "Chennai Super Kings , Lucknow Super Giants",
+    "totalRuns": 356
+  },
+  {
+    "matchPair": "Delhi Capitals , Sunrisers Hyderabad",
+    "totalRuns": 465
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Royal Challengers Bengaluru",
+    "totalRuns": 443
+  },
+  {
+    "matchPair": "Gujarat Titans , Punjab Kings",
+    "totalRuns": 288
+  },
+  {
+    "matchPair": "Mumbai Indians , Rajasthan Royals",
+    "totalRuns": 362
+  },
+  {
+    "matchPair": "Chennai Super Kings , Lucknow Super Giants",
+    "totalRuns": 423
+  },
+  {
+    "matchPair": "Delhi Capitals , Gujarat Titans",
+    "totalRuns": 444
+  },
+  {
+    "matchPair": "Royal Challengers Bengaluru , Sunrisers Hyderabad",
+    "totalRuns": 377
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Punjab Kings",
+    "totalRuns": 523
+  },
+  {
+    "matchPair": "Delhi Capitals , Mumbai Indians",
+    "totalRuns": 504
+  },
+  {
+    "matchPair": "Lucknow Super Giants , Rajasthan Royals",
+    "totalRuns": 395
+  },
+  {
+    "matchPair": "Gujarat Titans , Royal Challengers Bengaluru",
+    "totalRuns": 406
+  },
+  {
+    "matchPair": "Chennai Super Kings , Sunrisers Hyderabad",
+    "totalRuns": 346
+  },
+  {
+    "matchPair": "Delhi Capitals , Kolkata Knight Riders",
+    "totalRuns": 310
+  },
+  {
+    "matchPair": "Lucknow Super Giants , Mumbai Indians",
+    "totalRuns": 289
+  },
+  {
+    "matchPair": "Chennai Super Kings , Punjab Kings",
+    "totalRuns": 325
+  },
+  {
+    "matchPair": "Rajasthan Royals , Sunrisers Hyderabad",
+    "totalRuns": 401
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 314
+  },
+  {
+    "matchPair": "Gujarat Titans , Royal Challengers Bengaluru",
+    "totalRuns": 299
+  },
+  {
+    "matchPair": "Chennai Super Kings , Punjab Kings",
+    "totalRuns": 306
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Lucknow Super Giants",
+    "totalRuns": 372
+  },
+  {
+    "matchPair": "Mumbai Indians , Sunrisers Hyderabad",
+    "totalRuns": 347
+  },
+  {
+    "matchPair": "Delhi Capitals , Rajasthan Royals",
+    "totalRuns": 422
+  },
+  {
+    "matchPair": "Lucknow Super Giants , Sunrisers Hyderabad",
+    "totalRuns": 332
+  },
+  {
+    "matchPair": "Punjab Kings , Royal Challengers Bengaluru",
+    "totalRuns": 422
+  },
+  {
+    "matchPair": "Chennai Super Kings , Gujarat Titans",
+    "totalRuns": 427
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Mumbai Indians",
+    "totalRuns": 296
+  },
+  {
+    "matchPair": "Chennai Super Kings , Rajasthan Royals",
+    "totalRuns": 286
+  },
+  {
+    "matchPair": "Delhi Capitals , Royal Challengers Bengaluru",
+    "totalRuns": 327
+  },
+  {
+    "matchPair": "Delhi Capitals , Lucknow Super Giants",
+    "totalRuns": 397
+  },
+  {
+    "matchPair": "Punjab Kings , Rajasthan Royals",
+    "totalRuns": 289
+  },
+  {
+    "matchPair": "Lucknow Super Giants , Mumbai Indians",
+    "totalRuns": 410
+  },
+  {
+    "matchPair": "Chennai Super Kings , Royal Challengers Bengaluru",
+    "totalRuns": 409
+  },
+  {
+    "matchPair": "Punjab Kings , Sunrisers Hyderabad",
+    "totalRuns": 429
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 323
+  },
+  {
+    "matchPair": "Rajasthan Royals , Royal Challengers Bengaluru",
+    "totalRuns": 346
+  },
+  {
+    "matchPair": "Rajasthan Royals , Sunrisers Hyderabad",
+    "totalRuns": 314
+  },
+  {
+    "matchPair": "Kolkata Knight Riders , Sunrisers Hyderabad",
+    "totalRuns": 227
+  }
+]
