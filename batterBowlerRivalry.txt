@@ -1,0 +1,112 @@
+[
+  {
+    "batter": "SK Raina",
+    "bowler": "PP Chawla",
+    "batterRuns": 176,
+    "bowlerRuns": 178,
+    "batterBalls": 102,
+    "legalBalls": 102,
+    "batterWickets": 4,
+    "bowlerWickets": 4,
+    "batterStrikeRate": 172.54901960784315
+  },
+  {
+    "batter": "SK Raina",
+    "bowler": "DJ Bravo",
+    "batterRuns": 56,
+    "bowlerRuns": 57,
+    "batterBalls": 33,
+    "legalBalls": 33,
+    "batterWickets": 4,
+    "bowlerWickets": 4,
+    "batterStrikeRate": 169.6969696969697
+  },
+  {
+    "batter": "MS Dhoni",
+    "bowler": "Z Khan",
+    "batterRuns": 74,
+    "bowlerRuns": 75,
+    "batterBalls": 42,
+    "legalBalls": 42,
+    "batterWickets": 7,
+    "bowlerWickets": 7,
+    "batterStrikeRate": 176.19047619047618
+  },
+  {
+    "batter": "G Gambhir",
+    "bowler": "Z Khan",
+    "batterRuns": 109,
+    "bowlerRuns": 119,
+    "batterBalls": 79,
+    "legalBalls": 79,
+    "batterWickets": 6,
+    "bowlerWickets": 6,
+    "batterStrikeRate": 137.9746835443038
+  },
+  {
+    "batter": "AC Gilchrist",
+    "bowler": "IK Pathan",
+    "batterRuns": 66,
+    "bowlerRuns": 66,
+    "batterBalls": 44,
+    "legalBalls": 44,
+    "batterWickets": 4,
+    "bowlerWickets": 4,
+    "batterStrikeRate": 150
+  },
+  {
+    "batter": "DJ Hussey",
+    "bowler": "SK Trivedi",
+    "batterRuns": 35,
+    "bowlerRuns": 36,
+    "batterBalls": 27,
+    "legalBalls": 27,
+    "batterWickets": 4,
+    "bowlerWickets": 4,
+    "batterStrikeRate": 129.62962962962962
+  },
+  {
+    "batter": "WP Saha",
+    "bowler": "PP Chawla",
+    "batterRuns": 100,
+    "bowlerRuns": 101,
+    "batterBalls": 61,
+    "legalBalls": 61,
+    "batterWickets": 4,
+    "bowlerWickets": 4,
+    "batterStrikeRate": 163.9344262295082
+  },
+  {
+    "batter": "KD Karthik",
+    "bowler": "DJ Bravo",
+    "batterRuns": 49,
+    "bowlerRuns": 56,
+    "batterBalls": 34,
+    "legalBalls": 33,
+    "batterWickets": 4,
+    "bowlerWickets": 4,
+    "batterStrikeRate": 148.4848484848485
+  },
+  {
+    "batter": "G Gambhir",
+    "bowler": "PP Ojha",
+    "batterRuns": 55,
+    "bowlerRuns": 58,
+    "batterBalls": 42,
+    "legalBalls": 42,
+    "batterWickets": 5,
+    "bowlerWickets": 5,
+    "batterStrikeRate": 130.95238095238096
+  },
+  {
+    "batter": "YK Pathan",
+    "bowler": "R Vinay Kumar",
+    "batterRuns": 66,
+    "bowlerRuns": 70,
+    "batterBalls": 42,
+    "legalBalls": 42,
+    "batterWickets": 4,
+    "bowlerWickets": 4,
+    "batterStrikeRate": 157.14285714285714
+  }
+]

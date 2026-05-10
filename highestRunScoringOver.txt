@@ -1,0 +1,20 @@
+[
+  {
+    "matchId": 501247,
+    "season": "2011",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Kochi Tuskers Kerala",
+    "inning": "2",
+    "over": "2",
+    "maxRuns": 37
+  },
+  {
+    "matchId": 1254076,
+    "season": "2021",
+    "team1": "Chennai Super Kings",
+    "team2": "Royal Challengers Bangalore",
+    "inning": "1",
+    "over": "19",
+    "maxRuns": 37
+  }
+]

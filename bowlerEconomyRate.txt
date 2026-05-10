@@ -1,0 +1,2652 @@
+{
+  "P Kumar": {
+    "totalBalls": 2524,
+    "totalRuns": 3251,
+    "economy": 7.728209191759113
+  },
+  "Z Khan": {
+    "totalBalls": 2200,
+    "totalRuns": 2782,
+    "economy": 7.587272727272728
+  },
+  "AA Noffke": {
+    "totalBalls": 24,
+    "totalRuns": 40,
+    "economy": 10
+  },
+  "JH Kallis": {
+    "totalBalls": 1742,
+    "totalRuns": 2293,
+    "economy": 7.897818599311137
+  },
+  "SB Joshi": {
+    "totalBalls": 55,
+    "totalRuns": 82,
+    "economy": 8.945454545454545
+  },
+  "CL White": {
+    "totalBalls": 42,
+    "totalRuns": 86,
+    "economy": 12.285714285714285
+  },
+  "AB Dinda": {
+    "totalBalls": 1516,
+    "totalRuns": 2073,
+    "economy": 8.20448548812665
+  },
+  "I Sharma": {
+    "totalBalls": 2309,
+    "totalRuns": 3172,
+    "economy": 8.242529233434386
+  },
+  "AB Agarkar": {
+    "totalBalls": 782,
+    "totalRuns": 1151,
+    "economy": 8.831202046035806
+  },
+  "SC Ganguly": {
+    "totalBalls": 276,
+    "totalRuns": 363,
+    "economy": 7.891304347826088
+  },
+  "LR Shukla": {
+    "totalBalls": 314,
+    "totalRuns": 447,
+    "economy": 8.54140127388535
+  },
+  "B Lee": {
+    "totalBalls": 875,
+    "totalRuns": 1095,
+    "economy": 7.508571428571428
+  },
+  "S Sreesanth": {
+    "totalBalls": 880,
+    "totalRuns": 1194,
+    "economy": 8.14090909090909
+  },
+  "JR Hopes": {
+    "totalBalls": 360,
+    "totalRuns": 548,
+    "economy": 9.133333333333333
+  },
+  "IK Pathan": {
+    "totalBalls": 2043,
+    "totalRuns": 2649,
+    "economy": 7.779735682819384
+  },
+  "K Goel": {
+    "totalBalls": 66,
+    "totalRuns": 93,
+    "economy": 8.454545454545455
+  },
+  "PP Chawla": {
+    "totalBalls": 3850,
+    "totalRuns": 5108,
+    "economy": 7.960519480519481
+  },
+  "WA Mota": {
+    "totalBalls": 72,
+    "totalRuns": 97,
+    "economy": 8.083333333333334
+  },
+  "JDP Oram": {
+    "totalBalls": 237,
+    "totalRuns": 349,
+    "economy": 8.835443037974684
+  },
+  "MS Gony": {
+    "totalBalls": 888,
+    "totalRuns": 1287,
+    "economy": 8.695945945945946
+  },
+  "M Muralitharan": {
+    "totalBalls": 1524,
+    "totalRuns": 1696,
+    "economy": 6.677165354330709
+  },
+  "P Amarnath": {
+    "totalBalls": 132,
+    "totalRuns": 236,
+    "economy": 10.727272727272727
+  },
+  "Joginder Sharma": {
+    "totalBalls": 256,
+    "totalRuns": 419,
+    "economy": 9.8203125
+  },
+  "GD McGrath": {
+    "totalBalls": 324,
+    "totalRuns": 357,
+    "economy": 6.611111111111111
+  },
+  "B Geeves": {
+    "totalBalls": 48,
+    "totalRuns": 91,
+    "economy": 11.375
+  },
+  "MF Maharoof": {
+    "totalBalls": 420,
+    "totalRuns": 520,
+    "economy": 7.428571428571429
+  },
+  "R Bhatia": {
+    "totalBalls": 1636,
+    "totalRuns": 2020,
+    "economy": 7.408312958435207
+  },
+  "DL Vettori": {
+    "totalBalls": 777,
+    "totalRuns": 879,
+    "economy": 6.787644787644787
+  },
+  "MM Patel": {
+    "totalBalls": 1355,
+    "totalRuns": 1698,
+    "economy": 7.518819188191881
+  },
+  "SR Watson": {
+    "totalBalls": 2029,
+    "totalRuns": 2682,
+    "economy": 7.931000492853622
+  },
+  "SK Trivedi": {
+    "totalBalls": 1506,
+    "totalRuns": 1904,
+    "economy": 7.585657370517929
+  },
+  "SK Warne": {
+    "totalBalls": 1194,
+    "totalRuns": 1447,
+    "economy": 7.271356783919598
+  },
+  "YK Pathan": {
+    "totalBalls": 1147,
+    "totalRuns": 1415,
+    "economy": 7.401918047079337
+  },
+  "D Salunkhe": {
+    "totalBalls": 47,
+    "totalRuns": 78,
+    "economy": 9.957446808510639
+  },
+  "R Vinay Kumar": {
+    "totalBalls": 2121,
+    "totalRuns": 2966,
+    "economy": 8.39038189533239
+  },
+  "B Akhil": {
+    "totalBalls": 188,
+    "totalRuns": 242,
+    "economy": 7.723404255319148
+  },
+  "A Nehra": {
+    "totalBalls": 1908,
+    "totalRuns": 2495,
+    "economy": 7.845911949685535
+  },
+  "SM Pollock": {
+    "totalBalls": 276,
+    "totalRuns": 301,
+    "economy": 6.5434782608695645
+  },
+  "DS Kulkarni": {
+    "totalBalls": 1787,
+    "totalRuns": 2474,
+    "economy": 8.306659205372132
+  },
+  "ST Jayasuriya": {
+    "totalBalls": 294,
+    "totalRuns": 390,
+    "economy": 7.959183673469387
+  },
+  "Harbhajan Singh": {
+    "totalBalls": 3416,
+    "totalRuns": 4030,
+    "economy": 7.078454332552693
+  },
+  "AM Nayar": {
+    "totalBalls": 229,
+    "totalRuns": 322,
+    "economy": 8.436681222707424
+  },
+  "M Kartik": {
+    "totalBalls": 1149,
+    "totalRuns": 1388,
+    "economy": 7.248041775456919
+  },
+  "Mohammad Hafeez": {
+    "totalBalls": 60,
+    "totalRuns": 68,
+    "economy": 6.8
+  },
+  "DJ Hussey": {
+    "totalBalls": 317,
+    "totalRuns": 474,
+    "economy": 8.971608832807572
+  },
+  "WPUJC Vaas": {
+    "totalBalls": 282,
+    "totalRuns": 355,
+    "economy": 7.553191489361703
+  },
+  "RP Singh": {
+    "totalBalls": 1775,
+    "totalRuns": 2338,
+    "economy": 7.903098591549297
+  },
+  "SB Styris": {
+    "totalBalls": 216,
+    "totalRuns": 276,
+    "economy": 7.666666666666666
+  },
+  "SB Bangar": {
+    "totalBalls": 150,
+    "totalRuns": 219,
+    "economy": 8.76
+  },
+  "A Symonds": {
+    "totalBalls": 527,
+    "totalRuns": 674,
+    "economy": 7.673624288425048
+  },
+  "PP Ojha": {
+    "totalBalls": 1899,
+    "totalRuns": 2337,
+    "economy": 7.383886255924171
+  },
+  "Pankaj Singh": {
+    "totalBalls": 300,
+    "totalRuns": 468,
+    "economy": 9.36
+  },
+  "Mohammad Asif": {
+    "totalBalls": 192,
+    "totalRuns": 296,
+    "economy": 9.25
+  },
+  "VY Mahesh": {
+    "totalBalls": 339,
+    "totalRuns": 499,
+    "economy": 8.831858407079647
+  },
+  "Shahid Afridi": {
+    "totalBalls": 180,
+    "totalRuns": 225,
+    "economy": 7.5
+  },
+  "DJ Bravo": {
+    "totalBalls": 3120,
+    "totalRuns": 4360,
+    "economy": 8.384615384615383
+  },
+  "VS Yeligati": {
+    "totalBalls": 30,
+    "totalRuns": 59,
+    "economy": 11.799999999999999
+  },
+  "MA Khote": {
+    "totalBalls": 30,
+    "totalRuns": 51,
+    "economy": 10.2
+  },
+  "D Kalyankrishna": {
+    "totalBalls": 48,
+    "totalRuns": 87,
+    "economy": 10.875
+  },
+  "VRV Singh": {
+    "totalBalls": 360,
+    "totalRuns": 542,
+    "economy": 9.033333333333333
+  },
+  "Sohail Tanvir": {
+    "totalBalls": 247,
+    "totalRuns": 266,
+    "economy": 6.461538461538462
+  },
+  "A Kumble": {
+    "totalBalls": 965,
+    "totalRuns": 1058,
+    "economy": 6.5782383419689126
+  },
+  "DNT Zoysa": {
+    "totalBalls": 66,
+    "totalRuns": 99,
+    "economy": 9
+  },
+  "SD Chitnis": {
+    "totalBalls": 36,
+    "totalRuns": 60,
+    "economy": 10
+  },
+  "Yuvraj Singh": {
+    "totalBalls": 869,
+    "totalRuns": 1077,
+    "economy": 7.436133486766398
+  },
+  "Shoaib Malik": {
+    "totalBalls": 51,
+    "totalRuns": 85,
+    "economy": 10
+  },
+  "DW Steyn": {
+    "totalBalls": 2176,
+    "totalRuns": 2508,
+    "economy": 6.915441176470589
+  },
+  "JA Morkel": {
+    "totalBalls": 1723,
+    "totalRuns": 2359,
+    "economy": 8.214741729541498
+  },
+  "CRD Fernando": {
+    "totalBalls": 234,
+    "totalRuns": 298,
+    "economy": 7.6410256410256405
+  },
+  "V Kohli": {
+    "totalBalls": 251,
+    "totalRuns": 368,
+    "economy": 8.796812749003983
+  },
+  "V Sehwag": {
+    "totalBalls": 136,
+    "totalRuns": 235,
+    "economy": 10.367647058823529
+  },
+  "Gagandeep Singh": {
+    "totalBalls": 84,
+    "totalRuns": 141,
+    "economy": 10.071428571428571
+  },
+  "Y Venugopal Rao": {
+    "totalBalls": 216,
+    "totalRuns": 337,
+    "economy": 9.36111111111111
+  },
+  "Umar Gul": {
+    "totalBalls": 135,
+    "totalRuns": 184,
+    "economy": 8.177777777777777
+  },
+  "PJ Sangwan": {
+    "totalBalls": 856,
+    "totalRuns": 1240,
+    "economy": 8.69158878504673
+  },
+  "M Ntini": {
+    "totalBalls": 210,
+    "totalRuns": 242,
+    "economy": 6.914285714285714
+  },
+  "DP Vijaykumar": {
+    "totalBalls": 152,
+    "totalRuns": 199,
+    "economy": 7.855263157894736
+  },
+  "DB Ravi Teja": {
+    "totalBalls": 18,
+    "totalRuns": 28,
+    "economy": 9.333333333333334
+  },
+  "LPC Silva": {
+    "totalBalls": 6,
+    "totalRuns": 21,
+    "economy": 21
+  },
+  "DJ Thornely": {
+    "totalBalls": 42,
+    "totalRuns": 40,
+    "economy": 5.7142857142857135
+  },
+  "RR Raje": {
+    "totalBalls": 139,
+    "totalRuns": 209,
+    "economy": 9.021582733812949
+  },
+  "SK Raina": {
+    "totalBalls": 908,
+    "totalRuns": 1118,
+    "economy": 7.387665198237885
+  },
+  "S Vidyut": {
+    "totalBalls": 12,
+    "totalRuns": 22,
+    "economy": 11
+  },
+  "L Balaji": {
+    "totalBalls": 1512,
+    "totalRuns": 2028,
+    "economy": 8.047619047619047
+  },
+  "CK Kapugedera": {
+    "totalBalls": 17,
+    "totalRuns": 49,
+    "economy": 17.294117647058822
+  },
+  "DR Smith": {
+    "totalBalls": 539,
+    "totalRuns": 810,
+    "economy": 9.01669758812616
+  },
+  "AD Mascarenhas": {
+    "totalBalls": 308,
+    "totalRuns": 356,
+    "economy": 6.935064935064935
+  },
+  "A Mishra": {
+    "totalBalls": 3371,
+    "totalRuns": 4145,
+    "economy": 7.377632749925838
+  },
+  "Shoaib Akhtar": {
+    "totalBalls": 42,
+    "totalRuns": 54,
+    "economy": 7.714285714285715
+  },
+  "Iqbal Abdulla": {
+    "totalBalls": 920,
+    "totalRuns": 1109,
+    "economy": 7.232608695652175
+  },
+  "RR Powar": {
+    "totalBalls": 426,
+    "totalRuns": 527,
+    "economy": 7.422535211267606
+  },
+  "PM Sarvesh Kumar": {
+    "totalBalls": 30,
+    "totalRuns": 42,
+    "economy": 8.399999999999999
+  },
+  "Abdur Razzak": {
+    "totalBalls": 12,
+    "totalRuns": 29,
+    "economy": 14.5
+  },
+  "RA Jadeja": {
+    "totalBalls": 3829,
+    "totalRuns": 4864,
+    "economy": 7.621833376860799
+  },
+  "TM Dilshan": {
+    "totalBalls": 271,
+    "totalRuns": 366,
+    "economy": 8.103321033210332
+  },
+  "RG Sharma": {
+    "totalBalls": 339,
+    "totalRuns": 453,
+    "economy": 8.017699115044248
+  },
+  "A Nel": {
+    "totalBalls": 18,
+    "totalRuns": 31,
+    "economy": 10.333333333333334
+  },
+  "BAW Mendis": {
+    "totalBalls": 240,
+    "totalRuns": 285,
+    "economy": 7.125
+  },
+  "T Thushara": {
+    "totalBalls": 135,
+    "totalRuns": 161,
+    "economy": 7.155555555555556
+  },
+  "A Flintoff": {
+    "totalBalls": 66,
+    "totalRuns": 105,
+    "economy": 9.545454545454545
+  },
+  "SL Malinga": {
+    "totalBalls": 2828,
+    "totalRuns": 3371,
+    "economy": 7.152050919377652
+  },
+  "Kamran Khan": {
+    "totalBalls": 160,
+    "totalRuns": 224,
+    "economy": 8.399999999999999
+  },
+  "T Henderson": {
+    "totalBalls": 36,
+    "totalRuns": 40,
+    "economy": 6.666666666666667
+  },
+  "JD Ryder": {
+    "totalBalls": 236,
+    "totalRuns": 303,
+    "economy": 7.703389830508474
+  },
+  "DP Nannes": {
+    "totalBalls": 646,
+    "totalRuns": 785,
+    "economy": 7.291021671826625
+  },
+  "AM Salvi": {
+    "totalBalls": 150,
+    "totalRuns": 200,
+    "economy": 8
+  },
+  "YA Abdulla": {
+    "totalBalls": 209,
+    "totalRuns": 307,
+    "economy": 8.813397129186603
+  },
+  "VS Malik": {
+    "totalBalls": 205,
+    "totalRuns": 261,
+    "economy": 7.639024390243902
+  },
+  "FH Edwards": {
+    "totalBalls": 140,
+    "totalRuns": 154,
+    "economy": 6.6000000000000005
+  },
+  "Harmeet Singh": {
+    "totalBalls": 549,
+    "totalRuns": 731,
+    "economy": 7.989071038251366
+  },
+  "CH Gayle": {
+    "totalBalls": 554,
+    "totalRuns": 729,
+    "economy": 7.8953068592057765
+  },
+  "MC Henriques": {
+    "totalBalls": 950,
+    "totalRuns": 1289,
+    "economy": 8.141052631578948
+  },
+  "KP Pietersen": {
+    "totalBalls": 174,
+    "totalRuns": 215,
+    "economy": 7.413793103448276
+  },
+  "LRPL Taylor": {
+    "totalBalls": 12,
+    "totalRuns": 24,
+    "economy": 12
+  },
+  "RS Bopara": {
+    "totalBalls": 206,
+    "totalRuns": 292,
+    "economy": 8.504854368932039
+  },
+  "MK Tiwary": {
+    "totalBalls": 42,
+    "totalRuns": 83,
+    "economy": 11.857142857142858
+  },
+  "Anureet Singh": {
+    "totalBalls": 412,
+    "totalRuns": 623,
+    "economy": 9.072815533980583
+  },
+  "RR Bose": {
+    "totalBalls": 12,
+    "totalRuns": 24,
+    "economy": 12
+  },
+  "KP Appanna": {
+    "totalBalls": 216,
+    "totalRuns": 286,
+    "economy": 7.944444444444445
+  },
+  "Shoaib Ahmed": {
+    "totalBalls": 102,
+    "totalRuns": 152,
+    "economy": 8.941176470588236
+  },
+  "BJ Hodge": {
+    "totalBalls": 234,
+    "totalRuns": 303,
+    "economy": 7.76923076923077
+  },
+  "SR Tendulkar": {
+    "totalBalls": 36,
+    "totalRuns": 58,
+    "economy": 9.666666666666668
+  },
+  "RE van der Merwe": {
+    "totalBalls": 443,
+    "totalRuns": 498,
+    "economy": 6.744920993227991
+  },
+  "JP Duminy": {
+    "totalBalls": 678,
+    "totalRuns": 834,
+    "economy": 7.380530973451327
+  },
+  "S Tyagi": {
+    "totalBalls": 209,
+    "totalRuns": 295,
+    "economy": 8.4688995215311
+  },
+  "GR Napier": {
+    "totalBalls": 24,
+    "totalRuns": 27,
+    "economy": 6.75
+  },
+  "SM Harwood": {
+    "totalBalls": 60,
+    "totalRuns": 73,
+    "economy": 7.299999999999999
+  },
+  "AS Raut": {
+    "totalBalls": 30,
+    "totalRuns": 44,
+    "economy": 8.799999999999999
+  },
+  "SB Jakati": {
+    "totalBalls": 1085,
+    "totalRuns": 1451,
+    "economy": 8.023963133640553
+  },
+  "D du Preez": {
+    "totalBalls": 42,
+    "totalRuns": 56,
+    "economy": 8
+  },
+  "RJ Harris": {
+    "totalBalls": 832,
+    "totalRuns": 1047,
+    "economy": 7.550480769230768
+  },
+  "TL Suman": {
+    "totalBalls": 150,
+    "totalRuns": 197,
+    "economy": 7.879999999999999
+  },
+  "A Singh": {
+    "totalBalls": 473,
+    "totalRuns": 620,
+    "economy": 7.864693446088795
+  },
+  "M Morkel": {
+    "totalBalls": 1629,
+    "totalRuns": 2089,
+    "economy": 7.694290976058932
+  },
+  "LA Carseldine": {
+    "totalBalls": 6,
+    "totalRuns": 6,
+    "economy": 6
+  },
+  "A Mithun": {
+    "totalBalls": 288,
+    "totalRuns": 472,
+    "economy": 9.833333333333332
+  },
+  "C Nanda": {
+    "totalBalls": 48,
+    "totalRuns": 57,
+    "economy": 7.125
+  },
+  "SS Sarkar": {
+    "totalBalls": 25,
+    "totalRuns": 34,
+    "economy": 8.16
+  },
+  "AD Mathews": {
+    "totalBalls": 791,
+    "totalRuns": 1079,
+    "economy": 8.184576485461442
+  },
+  "AM Rahane": {
+    "totalBalls": 6,
+    "totalRuns": 5,
+    "economy": 5
+  },
+  "J Botha": {
+    "totalBalls": 694,
+    "totalRuns": 800,
+    "economy": 6.9164265129683
+  },
+  "Mashrafe Mortaza": {
+    "totalBalls": 24,
+    "totalRuns": 58,
+    "economy": 14.5
+  },
+  "AB McDonald": {
+    "totalBalls": 186,
+    "totalRuns": 261,
+    "economy": 8.419354838709678
+  },
+  "Y Nagar": {
+    "totalBalls": 66,
+    "totalRuns": 125,
+    "economy": 11.363636363636363
+  },
+  "CK Langeveldt": {
+    "totalBalls": 156,
+    "totalRuns": 187,
+    "economy": 7.192307692307692
+  },
+  "R Ashwin": {
+    "totalBalls": 4524,
+    "totalRuns": 5369,
+    "economy": 7.120689655172413
+  },
+  "RA Shaikh": {
+    "totalBalls": 6,
+    "totalRuns": 11,
+    "economy": 11
+  },
+  "Jaskaran Singh": {
+    "totalBalls": 102,
+    "totalRuns": 171,
+    "economy": 10.058823529411764
+  },
+  "SW Tait": {
+    "totalBalls": 473,
+    "totalRuns": 640,
+    "economy": 8.118393234672304
+  },
+  "A Uniyal": {
+    "totalBalls": 36,
+    "totalRuns": 66,
+    "economy": 11
+  },
+  "AA Jhunjhunwala": {
+    "totalBalls": 85,
+    "totalRuns": 129,
+    "economy": 9.105882352941176
+  },
+  "R McLaren": {
+    "totalBalls": 354,
+    "totalRuns": 542,
+    "economy": 9.186440677966102
+  },
+  "AG Murtaza": {
+    "totalBalls": 264,
+    "totalRuns": 313,
+    "economy": 7.113636363636363
+  },
+  "R Sathish": {
+    "totalBalls": 139,
+    "totalRuns": 232,
+    "economy": 10.014388489208633
+  },
+  "RS Gavaskar": {
+    "totalBalls": 6,
+    "totalRuns": 8,
+    "economy": 8
+  },
+  "JM Kemp": {
+    "totalBalls": 44,
+    "totalRuns": 54,
+    "economy": 7.363636363636363
+  },
+  "S Ladda": {
+    "totalBalls": 138,
+    "totalRuns": 224,
+    "economy": 9.73913043478261
+  },
+  "Bipul Sharma": {
+    "totalBalls": 426,
+    "totalRuns": 572,
+    "economy": 8.056338028169014
+  },
+  "SE Bond": {
+    "totalBalls": 186,
+    "totalRuns": 224,
+    "economy": 7.225806451612904
+  },
+  "KA Pollard": {
+    "totalBalls": 1488,
+    "totalRuns": 2180,
+    "economy": 8.790322580645162
+  },
+  "S Narwal": {
+    "totalBalls": 106,
+    "totalRuns": 202,
+    "economy": 11.433962264150944
+  },
+  "UT Yadav": {
+    "totalBalls": 3051,
+    "totalRuns": 4316,
+    "economy": 8.487708947885938
+  },
+  "SJ Srivastava": {
+    "totalBalls": 282,
+    "totalRuns": 441,
+    "economy": 9.382978723404255
+  },
+  "AC Voges": {
+    "totalBalls": 54,
+    "totalRuns": 76,
+    "economy": 8.444444444444445
+  },
+  "R Sharma": {
+    "totalBalls": 928,
+    "totalRuns": 1086,
+    "economy": 7.0215517241379315
+  },
+  "J Theron": {
+    "totalBalls": 216,
+    "totalRuns": 293,
+    "economy": 8.13888888888889
+  },
+  "NLTC Perera": {
+    "totalBalls": 698,
+    "totalRuns": 1016,
+    "economy": 8.73352435530086
+  },
+  "KAJ Roach": {
+    "totalBalls": 48,
+    "totalRuns": 80,
+    "economy": 10
+  },
+  "PD Collingwood": {
+    "totalBalls": 89,
+    "totalRuns": 101,
+    "economy": 6.808988764044944
+  },
+  "C Ganapathy": {
+    "totalBalls": 6,
+    "totalRuns": 13,
+    "economy": 13
+  },
+  "MB Parmar": {
+    "totalBalls": 18,
+    "totalRuns": 33,
+    "economy": 11
+  },
+  "SB Wagh": {
+    "totalBalls": 102,
+    "totalRuns": 137,
+    "economy": 8.058823529411764
+  },
+  "DE Bollinger": {
+    "totalBalls": 576,
+    "totalRuns": 693,
+    "economy": 7.21875
+  },
+  "JD Unadkat": {
+    "totalBalls": 2131,
+    "totalRuns": 3189,
+    "economy": 8.978883153449084
+  },
+  "AP Dole": {
+    "totalBalls": 66,
+    "totalRuns": 112,
+    "economy": 10.181818181818182
+  },
+  "AN Ahmed": {
+    "totalBalls": 344,
+    "totalRuns": 498,
+    "economy": 8.686046511627907
+  },
+  "FY Fazal": {
+    "totalBalls": 12,
+    "totalRuns": 20,
+    "economy": 10
+  },
+  "MR Marsh": {
+    "totalBalls": 560,
+    "totalRuns": 795,
+    "economy": 8.517857142857142
+  },
+  "L Ablish": {
+    "totalBalls": 42,
+    "totalRuns": 75,
+    "economy": 10.714285714285715
+  },
+  "S Sriram": {
+    "totalBalls": 18,
+    "totalRuns": 49,
+    "economy": 16.333333333333336
+  },
+  "AJ Finch": {
+    "totalBalls": 43,
+    "totalRuns": 67,
+    "economy": 9.348837209302326
+  },
+  "STR Binny": {
+    "totalBalls": 594,
+    "totalRuns": 758,
+    "economy": 7.6565656565656575
+  },
+  "ND Doshi": {
+    "totalBalls": 56,
+    "totalRuns": 79,
+    "economy": 8.464285714285715
+  },
+  "TG Southee": {
+    "totalBalls": 1206,
+    "totalRuns": 1742,
+    "economy": 8.666666666666666
+  },
+  "S Randiv": {
+    "totalBalls": 174,
+    "totalRuns": 223,
+    "economy": 7.689655172413793
+  },
+  "AL Menaria": {
+    "totalBalls": 110,
+    "totalRuns": 144,
+    "economy": 7.8545454545454545
+  },
+  "DT Christian": {
+    "totalBalls": 883,
+    "totalRuns": 1192,
+    "economy": 8.099660249150622
+  },
+  "AUK Pathan": {
+    "totalBalls": 39,
+    "totalRuns": 63,
+    "economy": 9.692307692307693
+  },
+  "RV Gomez": {
+    "totalBalls": 96,
+    "totalRuns": 129,
+    "economy": 8.0625
+  },
+  "JEC Franklin": {
+    "totalBalls": 151,
+    "totalRuns": 220,
+    "economy": 8.741721854304636
+  },
+  "AC Thomas": {
+    "totalBalls": 315,
+    "totalRuns": 406,
+    "economy": 7.733333333333334
+  },
+  "WD Parnell": {
+    "totalBalls": 723,
+    "totalRuns": 937,
+    "economy": 7.775933609958507
+  },
+  "M Manhas": {
+    "totalBalls": 42,
+    "totalRuns": 42,
+    "economy": 6
+  },
+  "NJ Rimmington": {
+    "totalBalls": 18,
+    "totalRuns": 19,
+    "economy": 6.333333333333334
+  },
+  "RN ten Doeschate": {
+    "totalBalls": 78,
+    "totalRuns": 94,
+    "economy": 7.23076923076923
+  },
+  "S Nadeem": {
+    "totalBalls": 1415,
+    "totalRuns": 1784,
+    "economy": 7.564664310954063
+  },
+  "BA Bhatt": {
+    "totalBalls": 296,
+    "totalRuns": 397,
+    "economy": 8.047297297297298
+  },
+  "JJ van der Wath": {
+    "totalBalls": 72,
+    "totalRuns": 129,
+    "economy": 10.75
+  },
+  "S Aravind": {
+    "totalBalls": 760,
+    "totalRuns": 1039,
+    "economy": 8.202631578947368
+  },
+  "R Ninan": {
+    "totalBalls": 36,
+    "totalRuns": 65,
+    "economy": 10.833333333333334
+  },
+  "Shakib Al Hasan": {
+    "totalBalls": 1484,
+    "totalRuns": 1839,
+    "economy": 7.435309973045822
+  },
+  "PC Valthaty": {
+    "totalBalls": 151,
+    "totalRuns": 205,
+    "economy": 8.14569536423841
+  },
+  "S Dhawan": {
+    "totalBalls": 48,
+    "totalRuns": 66,
+    "economy": 8.25
+  },
+  "J Syed Mohammad": {
+    "totalBalls": 192,
+    "totalRuns": 283,
+    "economy": 8.84375
+  },
+  "VR Aaron": {
+    "totalBalls": 994,
+    "totalRuns": 1481,
+    "economy": 8.939637826961771
+  },
+  "NL McCullum": {
+    "totalBalls": 30,
+    "totalRuns": 34,
+    "economy": 6.8
+  },
+  "JE Taylor": {
+    "totalBalls": 117,
+    "totalRuns": 157,
+    "economy": 8.051282051282051
+  },
+  "KMDN Kulasekara": {
+    "totalBalls": 102,
+    "totalRuns": 120,
+    "economy": 7.0588235294117645
+  },
+  "P Parameswaran": {
+    "totalBalls": 154,
+    "totalRuns": 224,
+    "economy": 8.727272727272727
+  },
+  "I Malhotra": {
+    "totalBalls": 6,
+    "totalRuns": 23,
+    "economy": 23
+  },
+  "B Chipli": {
+    "totalBalls": 6,
+    "totalRuns": 20,
+    "economy": 20
+  },
+  "B Kumar": {
+    "totalBalls": 3910,
+    "totalRuns": 4929,
+    "economy": 7.5636828644501275
+  },
+  "AA Kazi": {
+    "totalBalls": 12,
+    "totalRuns": 21,
+    "economy": 10.5
+  },
+  "Anand Rajan": {
+    "totalBalls": 149,
+    "totalRuns": 201,
+    "economy": 8.093959731543624
+  },
+  "P Prasanth": {
+    "totalBalls": 6,
+    "totalRuns": 18,
+    "economy": 18
+  },
+  "Y Gnaneswara Rao": {
+    "totalBalls": 6,
+    "totalRuns": 7,
+    "economy": 7
+  },
+  "AA Chavan": {
+    "totalBalls": 248,
+    "totalRuns": 326,
+    "economy": 7.887096774193548
+  },
+  "S Rana": {
+    "totalBalls": 16,
+    "totalRuns": 18,
+    "economy": 6.75
+  },
+  "JP Faulkner": {
+    "totalBalls": 1227,
+    "totalRuns": 1778,
+    "economy": 8.69437652811736
+  },
+  "SS Mundhe": {
+    "totalBalls": 6,
+    "totalRuns": 6,
+    "economy": 6
+  },
+  "RW Price": {
+    "totalBalls": 18,
+    "totalRuns": 33,
+    "economy": 11
+  },
+  "GJ Maxwell": {
+    "totalBalls": 944,
+    "totalRuns": 1303,
+    "economy": 8.28177966101695
+  },
+  "M de Lange": {
+    "totalBalls": 108,
+    "totalRuns": 169,
+    "economy": 9.38888888888889
+  },
+  "MN Samuels": {
+    "totalBalls": 214,
+    "totalRuns": 284,
+    "economy": 7.962616822429906
+  },
+  "KK Cooper": {
+    "totalBalls": 576,
+    "totalRuns": 757,
+    "economy": 7.885416666666667
+  },
+  "DAJ Bracewell": {
+    "totalBalls": 24,
+    "totalRuns": 32,
+    "economy": 8
+  },
+  "HV Patel": {
+    "totalBalls": 2162,
+    "totalRuns": 3148,
+    "economy": 8.736355226641999
+  },
+  "Ankit Sharma": {
+    "totalBalls": 367,
+    "totalRuns": 450,
+    "economy": 7.356948228882834
+  },
+  "DJ Harris": {
+    "totalBalls": 18,
+    "totalRuns": 26,
+    "economy": 8.666666666666666
+  },
+  "TP Sudhindra": {
+    "totalBalls": 70,
+    "totalRuns": 136,
+    "economy": 11.657142857142857
+  },
+  "F du Plessis": {
+    "totalBalls": 6,
+    "totalRuns": 16,
+    "economy": 16
+  },
+  "SP Narine": {
+    "totalBalls": 4075,
+    "totalRuns": 4571,
+    "economy": 6.730306748466258
+  },
+  "GB Hogg": {
+    "totalBalls": 458,
+    "totalRuns": 570,
+    "economy": 7.467248908296943
+  },
+  "RR Bhatkal": {
+    "totalBalls": 12,
+    "totalRuns": 35,
+    "economy": 17.5
+  },
+  "P Awana": {
+    "totalBalls": 747,
+    "totalRuns": 1029,
+    "economy": 8.265060240963855
+  },
+  "V Pratap Singh": {
+    "totalBalls": 204,
+    "totalRuns": 296,
+    "economy": 8.705882352941176
+  },
+  "CJ McKay": {
+    "totalBalls": 42,
+    "totalRuns": 60,
+    "economy": 8.571428571428571
+  },
+  "AD Russell": {
+    "totalBalls": 1697,
+    "totalRuns": 2646,
+    "economy": 9.355332940483205
+  },
+  "A Ashish Reddy": {
+    "totalBalls": 262,
+    "totalRuns": 396,
+    "economy": 9.068702290076336
+  },
+  "Azhar Mahmood": {
+    "totalBalls": 537,
+    "totalRuns": 700,
+    "economy": 7.82122905027933
+  },
+  "A Chandila": {
+    "totalBalls": 234,
+    "totalRuns": 242,
+    "economy": 6.205128205128206
+  },
+  "P Negi": {
+    "totalBalls": 716,
+    "totalRuns": 939,
+    "economy": 7.868715083798883
+  },
+  "LJ Wright": {
+    "totalBalls": 71,
+    "totalRuns": 124,
+    "economy": 10.47887323943662
+  },
+  "RJ Peterson": {
+    "totalBalls": 48,
+    "totalRuns": 70,
+    "economy": 8.75
+  },
+  "R Shukla": {
+    "totalBalls": 120,
+    "totalRuns": 208,
+    "economy": 10.4
+  },
+  "MJ Clarke": {
+    "totalBalls": 66,
+    "totalRuns": 67,
+    "economy": 6.090909090909091
+  },
+  "BW Hilfenhaus": {
+    "totalBalls": 372,
+    "totalRuns": 479,
+    "economy": 7.725806451612903
+  },
+  "SPD Smith": {
+    "totalBalls": 2,
+    "totalRuns": 5,
+    "economy": 15
+  },
+  "K Upadhyay": {
+    "totalBalls": 54,
+    "totalRuns": 81,
+    "economy": 9
+  },
+  "Sunny Gupta": {
+    "totalBalls": 18,
+    "totalRuns": 47,
+    "economy": 15.666666666666668
+  },
+  "MG Johnson": {
+    "totalBalls": 1232,
+    "totalRuns": 1702,
+    "economy": 8.28896103896104
+  },
+  "JJ Bumrah": {
+    "totalBalls": 3053,
+    "totalRuns": 3715,
+    "economy": 7.301015394693744
+  },
+  "S Badree": {
+    "totalBalls": 258,
+    "totalRuns": 319,
+    "economy": 7.4186046511627906
+  },
+  "AS Rajpoot": {
+    "totalBalls": 530,
+    "totalRuns": 813,
+    "economy": 9.20377358490566
+  },
+  "B Laughlin": {
+    "totalBalls": 168,
+    "totalRuns": 282,
+    "economy": 10.071428571428571
+  },
+  "GH Vihari": {
+    "totalBalls": 42,
+    "totalRuns": 47,
+    "economy": 6.714285714285714
+  },
+  "Mohammed Shami": {
+    "totalBalls": 2427,
+    "totalRuns": 3411,
+    "economy": 8.432632880098888
+  },
+  "BMAJ Mendis": {
+    "totalBalls": 30,
+    "totalRuns": 36,
+    "economy": 7.199999999999999
+  },
+  "CH Morris": {
+    "totalBalls": 1720,
+    "totalRuns": 2295,
+    "economy": 8.00581395348837
+  },
+  "S Kaul": {
+    "totalBalls": 1209,
+    "totalRuns": 1739,
+    "economy": 8.630272952853598
+  },
+  "R Dhawan": {
+    "totalBalls": 662,
+    "totalRuns": 891,
+    "economy": 8.075528700906345
+  },
+  "MM Sharma": {
+    "totalBalls": 2253,
+    "totalRuns": 3256,
+    "economy": 8.671105193075899
+  },
+  "R Rampaul": {
+    "totalBalls": 262,
+    "totalRuns": 298,
+    "economy": 6.824427480916031
+  },
+  "KV Sharma": {
+    "totalBalls": 1495,
+    "totalRuns": 2087,
+    "economy": 8.37591973244147
+  },
+  "SMSM Senanayake": {
+    "totalBalls": 192,
+    "totalRuns": 209,
+    "economy": 6.53125
+  },
+  "JO Holder": {
+    "totalBalls": 995,
+    "totalRuns": 1461,
+    "economy": 8.810050251256282
+  },
+  "IC Pandey": {
+    "totalBalls": 462,
+    "totalRuns": 591,
+    "economy": 7.675324675324676
+  },
+  "Sandeep Sharma": {
+    "totalBalls": 2822,
+    "totalRuns": 3709,
+    "economy": 7.885896527285613
+  },
+  "YS Chahal": {
+    "totalBalls": 3521,
+    "totalRuns": 4602,
+    "economy": 7.842090315251349
+  },
+  "DJG Sammy": {
+    "totalBalls": 236,
+    "totalRuns": 350,
+    "economy": 8.898305084745763
+  },
+  "KW Richardson": {
+    "totalBalls": 335,
+    "totalRuns": 472,
+    "economy": 8.453731343283582
+  },
+  "P Suyal": {
+    "totalBalls": 96,
+    "totalRuns": 151,
+    "economy": 9.4375
+  },
+  "PV Tambe": {
+    "totalBalls": 660,
+    "totalRuns": 853,
+    "economy": 7.754545454545455
+  },
+  "BJ Rohrer": {
+    "totalBalls": 6,
+    "totalRuns": 12,
+    "economy": 12
+  },
+  "Parvez Rasool": {
+    "totalBalls": 198,
+    "totalRuns": 271,
+    "economy": 8.212121212121213
+  },
+  "MG Neser": {
+    "totalBalls": 24,
+    "totalRuns": 62,
+    "economy": 15.5
+  },
+  "NM Coulter-Nile": {
+    "totalBalls": 857,
+    "totalRuns": 1100,
+    "economy": 7.7012835472578764
+  },
+  "AC Gilchrist": {
+    "totalBalls": 1,
+    "totalRuns": 0,
+    "economy": 0
+  },
+  "CJ Anderson": {
+    "totalBalls": 297,
+    "totalRuns": 518,
+    "economy": 10.464646464646465
+  },
+  "MA Starc": {
+    "totalBalls": 831,
+    "totalRuns": 1137,
+    "economy": 8.209386281588447
+  },
+  "JDS Neesham": {
+    "totalBalls": 216,
+    "totalRuns": 334,
+    "economy": 9.277777777777779
+  },
+  "AR Patel": {
+    "totalBalls": 3099,
+    "totalRuns": 3758,
+    "economy": 7.275895450145208
+  },
+  "M Vijay": {
+    "totalBalls": 36,
+    "totalRuns": 49,
+    "economy": 8.166666666666668
+  },
+  "R Tewatia": {
+    "totalBalls": 843,
+    "totalRuns": 1111,
+    "economy": 7.907473309608541
+  },
+  "SA Yadav": {
+    "totalBalls": 6,
+    "totalRuns": 8,
+    "economy": 8
+  },
+  "Shivam Sharma": {
+    "totalBalls": 114,
+    "totalRuns": 165,
+    "economy": 8.68421052631579
+  },
+  "Imran Tahir": {
+    "totalBalls": 1316,
+    "totalRuns": 1703,
+    "economy": 7.764437689969606
+  },
+  "V Shankar": {
+    "totalBalls": 238,
+    "totalRuns": 344,
+    "economy": 8.672268907563025
+  },
+  "LMP Simmons": {
+    "totalBalls": 18,
+    "totalRuns": 34,
+    "economy": 11.333333333333332
+  },
+  "BCJ Cutting": {
+    "totalBalls": 281,
+    "totalRuns": 429,
+    "economy": 9.160142348754448
+  },
+  "K Santokie": {
+    "totalBalls": 48,
+    "totalRuns": 90,
+    "economy": 11.25
+  },
+  "S Gopal": {
+    "totalBalls": 991,
+    "totalRuns": 1349,
+    "economy": 8.167507568113017
+  },
+  "BE Hendricks": {
+    "totalBalls": 150,
+    "totalRuns": 235,
+    "economy": 9.4
+  },
+  "PJ Cummins": {
+    "totalBalls": 1319,
+    "totalRuns": 1923,
+    "economy": 8.747536012130402
+  },
+  "JW Hastings": {
+    "totalBalls": 58,
+    "totalRuns": 66,
+    "economy": 6.827586206896552
+  },
+  "Karanveer Singh": {
+    "totalBalls": 204,
+    "totalRuns": 321,
+    "economy": 9.441176470588236
+  },
+  "DJ Muthuswami": {
+    "totalBalls": 84,
+    "totalRuns": 101,
+    "economy": 7.2142857142857135
+  },
+  "TA Boult": {
+    "totalBalls": 2337,
+    "totalRuns": 3230,
+    "economy": 8.292682926829269
+  },
+  "SA Abbott": {
+    "totalBalls": 54,
+    "totalRuns": 104,
+    "economy": 11.555555555555555
+  },
+  "KC Cariappa": {
+    "totalBalls": 216,
+    "totalRuns": 348,
+    "economy": 9.666666666666668
+  },
+  "DJ Hooda": {
+    "totalBalls": 373,
+    "totalRuns": 531,
+    "economy": 8.541554959785524
+  },
+  "J Suchith": {
+    "totalBalls": 420,
+    "totalRuns": 602,
+    "economy": 8.6
+  },
+  "RG More": {
+    "totalBalls": 35,
+    "totalRuns": 59,
+    "economy": 10.114285714285714
+  },
+  "D Wiese": {
+    "totalBalls": 296,
+    "totalRuns": 440,
+    "economy": 8.91891891891892
+  },
+  "MJ McClenaghan": {
+    "totalBalls": 1274,
+    "totalRuns": 1803,
+    "economy": 8.491365777080063
+  },
+  "HH Pandya": {
+    "totalBalls": 1418,
+    "totalRuns": 2150,
+    "economy": 9.09732016925247
+  },
+  "SN Thakur": {
+    "totalBalls": 1866,
+    "totalRuns": 2869,
+    "economy": 9.22508038585209
+  },
+  "GS Sandhu": {
+    "totalBalls": 48,
+    "totalRuns": 82,
+    "economy": 10.25
+  },
+  "Gurkeerat Singh": {
+    "totalBalls": 78,
+    "totalRuns": 97,
+    "economy": 7.461538461538462
+  },
+  "J Yadav": {
+    "totalBalls": 390,
+    "totalRuns": 445,
+    "economy": 6.846153846153846
+  },
+  "BB Sran": {
+    "totalBalls": 483,
+    "totalRuns": 757,
+    "economy": 9.403726708074535
+  },
+  "M Ashwin": {
+    "totalBalls": 870,
+    "totalRuns": 1162,
+    "economy": 8.013793103448275
+  },
+  "C Munro": {
+    "totalBalls": 12,
+    "totalRuns": 15,
+    "economy": 7.5
+  },
+  "CR Brathwaite": {
+    "totalBalls": 254,
+    "totalRuns": 379,
+    "economy": 8.952755905511811
+  },
+  "MP Stoinis": {
+    "totalBalls": 803,
+    "totalRuns": 1274,
+    "economy": 9.519302615193025
+  },
+  "P Sahu": {
+    "totalBalls": 105,
+    "totalRuns": 146,
+    "economy": 8.342857142857142
+  },
+  "Mustafizur Rahman": {
+    "totalBalls": 1299,
+    "totalRuns": 1761,
+    "economy": 8.133949191685913
+  },
+  "AF Milne": {
+    "totalBalls": 207,
+    "totalRuns": 327,
+    "economy": 9.478260869565217
+  },
+  "Kuldeep Yadav": {
+    "totalBalls": 1746,
+    "totalRuns": 2388,
+    "economy": 8.206185567010309
+  },
+  "KH Pandya": {
+    "totalBalls": 2122,
+    "totalRuns": 2606,
+    "economy": 7.36852026390198
+  },
+  "KJ Abbott": {
+    "totalBalls": 96,
+    "totalRuns": 177,
+    "economy": 11.0625
+  },
+  "T Shamsi": {
+    "totalBalls": 120,
+    "totalRuns": 181,
+    "economy": 9.05
+  },
+  "S Kaushik": {
+    "totalBalls": 204,
+    "totalRuns": 297,
+    "economy": 8.735294117647058
+  },
+  "SM Boland": {
+    "totalBalls": 42,
+    "totalRuns": 54,
+    "economy": 7.714285714285715
+  },
+  "Swapnil Singh": {
+    "totalBalls": 162,
+    "totalRuns": 241,
+    "economy": 8.925925925925926
+  },
+  "CJ Jordan": {
+    "totalBalls": 668,
+    "totalRuns": 1070,
+    "economy": 9.610778443113773
+  },
+  "A Zampa": {
+    "totalBalls": 419,
+    "totalRuns": 558,
+    "economy": 7.990453460620524
+  },
+  "Sachin Baby": {
+    "totalBalls": 10,
+    "totalRuns": 8,
+    "economy": 4.800000000000001
+  },
+  "N Rana": {
+    "totalBalls": 180,
+    "totalRuns": 252,
+    "economy": 8.399999999999999
+  },
+  "DL Chahar": {
+    "totalBalls": 1669,
+    "totalRuns": 2221,
+    "economy": 7.984421809466747
+  },
+  "KS Williamson": {
+    "totalBalls": 18,
+    "totalRuns": 31,
+    "economy": 10.333333333333334
+  },
+  "TS Mills": {
+    "totalBalls": 209,
+    "totalRuns": 343,
+    "economy": 9.84688995215311
+  },
+  "A Choudhary": {
+    "totalBalls": 101,
+    "totalRuns": 144,
+    "economy": 8.554455445544555
+  },
+  "TM Head": {
+    "totalBalls": 58,
+    "totalRuns": 113,
+    "economy": 11.689655172413794
+  },
+  "Rashid Khan": {
+    "totalBalls": 2859,
+    "totalRuns": 3252,
+    "economy": 6.82476390346275
+  },
+  "BA Stokes": {
+    "totalBalls": 689,
+    "totalRuns": 992,
+    "economy": 8.638606676342526
+  },
+  "CR Woakes": {
+    "totalBalls": 440,
+    "totalRuns": 658,
+    "economy": 8.972727272727273
+  },
+  "T Natarajan": {
+    "totalBalls": 1337,
+    "totalRuns": 1969,
+    "economy": 8.836200448765894
+  },
+  "RD Chahar": {
+    "totalBalls": 1664,
+    "totalRuns": 2141,
+    "economy": 7.7199519230769225
+  },
+  "B Stanlake": {
+    "totalBalls": 144,
+    "totalRuns": 200,
+    "economy": 8.333333333333332
+  },
+  "Tejas Baroka": {
+    "totalBalls": 21,
+    "totalRuns": 33,
+    "economy": 9.428571428571429
+  },
+  "Basil Thampi": {
+    "totalBalls": 521,
+    "totalRuns": 846,
+    "economy": 9.742802303262955
+  },
+  "C de Grandhomme": {
+    "totalBalls": 216,
+    "totalRuns": 319,
+    "economy": 8.86111111111111
+  },
+  "AJ Tye": {
+    "totalBalls": 685,
+    "totalRuns": 978,
+    "economy": 8.566423357664233
+  },
+  "LH Ferguson": {
+    "totalBalls": 955,
+    "totalRuns": 1426,
+    "economy": 8.959162303664922
+  },
+  "Mohammad Nabi": {
+    "totalBalls": 417,
+    "totalRuns": 517,
+    "economy": 7.438848920863309
+  },
+  "Mohammed Siraj": {
+    "totalBalls": 1958,
+    "totalRuns": 2822,
+    "economy": 8.647599591419816
+  },
+  "K Rabada": {
+    "totalBalls": 1820,
+    "totalRuns": 2568,
+    "economy": 8.465934065934066
+  },
+  "Washington Sundar": {
+    "totalBalls": 1054,
+    "totalRuns": 1325,
+    "economy": 7.5426944971537
+  },
+  "SS Agarwal": {
+    "totalBalls": 24,
+    "totalRuns": 42,
+    "economy": 10.5
+  },
+  "NB Singh": {
+    "totalBalls": 24,
+    "totalRuns": 15,
+    "economy": 3.75
+  },
+  "RA Tripathi": {
+    "totalBalls": 6,
+    "totalRuns": 12,
+    "economy": 12
+  },
+  "Ankit Soni": {
+    "totalBalls": 109,
+    "totalRuns": 144,
+    "economy": 7.926605504587156
+  },
+  "MJ Henry": {
+    "totalBalls": 102,
+    "totalRuns": 181,
+    "economy": 10.647058823529411
+  },
+  "Avesh Khan": {
+    "totalBalls": 1335,
+    "totalRuns": 1974,
+    "economy": 8.87191011235955
+  },
+  "MA Wood": {
+    "totalBalls": 120,
+    "totalRuns": 179,
+    "economy": 8.95
+  },
+  "M Markande": {
+    "totalBalls": 720,
+    "totalRuns": 1069,
+    "economy": 8.908333333333333
+  },
+  "Mujeeb Ur Rahman": {
+    "totalBalls": 434,
+    "totalRuns": 592,
+    "economy": 8.184331797235023
+  },
+  "K Khejroliya": {
+    "totalBalls": 121,
+    "totalRuns": 217,
+    "economy": 10.760330578512397
+  },
+  "K Gowtham": {
+    "totalBalls": 588,
+    "totalRuns": 808,
+    "economy": 8.244897959183673
+  },
+  "DJM Short": {
+    "totalBalls": 18,
+    "totalRuns": 19,
+    "economy": 6.333333333333334
+  },
+  "TK Curran": {
+    "totalBalls": 238,
+    "totalRuns": 430,
+    "economy": 10.840336134453782
+  },
+  "A Dananjaya": {
+    "totalBalls": 24,
+    "totalRuns": 47,
+    "economy": 11.75
+  },
+  "Shivam Mavi": {
+    "totalBalls": 649,
+    "totalRuns": 942,
+    "economy": 8.708782742681048
+  },
+  "JC Archer": {
+    "totalBalls": 947,
+    "totalRuns": 1169,
+    "economy": 7.406546990496304
+  },
+  "LE Plunkett": {
+    "totalBalls": 150,
+    "totalRuns": 225,
+    "economy": 9
+  },
+  "IS Sodhi": {
+    "totalBalls": 181,
+    "totalRuns": 202,
+    "economy": 6.696132596685083
+  },
+  "MK Lomror": {
+    "totalBalls": 90,
+    "totalRuns": 127,
+    "economy": 8.466666666666667
+  },
+  "L Ngidi": {
+    "totalBalls": 324,
+    "totalRuns": 448,
+    "economy": 8.296296296296296
+  },
+  "KM Asif": {
+    "totalBalls": 134,
+    "totalRuns": 230,
+    "economy": 10.298507462686567
+  },
+  "DJ Willey": {
+    "totalBalls": 216,
+    "totalRuns": 272,
+    "economy": 7.555555555555555
+  },
+  "M Prasidh Krishna": {
+    "totalBalls": 1146,
+    "totalRuns": 1702,
+    "economy": 8.910994764397905
+  },
+  "MM Ali": {
+    "totalBalls": 758,
+    "totalRuns": 893,
+    "economy": 7.068601583113455
+  },
+  "JPR Scantlebury-Searles": {
+    "totalBalls": 42,
+    "totalRuns": 89,
+    "economy": 12.714285714285715
+  },
+  "S Lamichhane": {
+    "totalBalls": 210,
+    "totalRuns": 292,
+    "economy": 8.342857142857142
+  },
+  "CJ Dala": {
+    "totalBalls": 18,
+    "totalRuns": 34,
+    "economy": 11.333333333333332
+  },
+  "KK Ahmed": {
+    "totalBalls": 1276,
+    "totalRuns": 1881,
+    "economy": 8.844827586206897
+  },
+  "Navdeep Saini": {
+    "totalBalls": 646,
+    "totalRuns": 940,
+    "economy": 8.730650154798761
+  },
+  "S Dube": {
+    "totalBalls": 112,
+    "totalRuns": 180,
+    "economy": 9.642857142857142
+  },
+  "Rasikh Salam": {
+    "totalBalls": 195,
+    "totalRuns": 339,
+    "economy": 10.430769230769231
+  },
+  "KMA Paul": {
+    "totalBalls": 163,
+    "totalRuns": 237,
+    "economy": 8.723926380368098
+  },
+  "SM Curran": {
+    "totalBalls": 1181,
+    "totalRuns": 1900,
+    "economy": 9.652836579170195
+  },
+  "CV Varun": {
+    "totalBalls": 1590,
+    "totalRuns": 2000,
+    "economy": 7.547169811320755
+  },
+  "GC Viljoen": {
+    "totalBalls": 138,
+    "totalRuns": 222,
+    "economy": 9.652173913043478
+  },
+  "Mandeep Singh": {
+    "totalBalls": 12,
+    "totalRuns": 26,
+    "economy": 13
+  },
+  "P Ray Barman": {
+    "totalBalls": 24,
+    "totalRuns": 56,
+    "economy": 14
+  },
+  "MJ Santner": {
+    "totalBalls": 366,
+    "totalRuns": 422,
+    "economy": 6.918032786885245
+  },
+  "JP Behrendorff": {
+    "totalBalls": 366,
+    "totalRuns": 552,
+    "economy": 9.049180327868852
+  },
+  "SC Kuggeleijn": {
+    "totalBalls": 48,
+    "totalRuns": 71,
+    "economy": 8.875
+  },
+  "AS Joseph": {
+    "totalBalls": 434,
+    "totalRuns": 691,
+    "economy": 9.55299539170507
+  },
+  "HF Gurney": {
+    "totalBalls": 162,
+    "totalRuns": 238,
+    "economy": 8.814814814814815
+  },
+  "S Midhun": {
+    "totalBalls": 12,
+    "totalRuns": 27,
+    "economy": 13.5
+  },
+  "R Parag": {
+    "totalBalls": 175,
+    "totalRuns": 307,
+    "economy": 10.525714285714285
+  },
+  "LS Livingstone": {
+    "totalBalls": 258,
+    "totalRuns": 393,
+    "economy": 9.13953488372093
+  },
+  "SN Khan": {
+    "totalBalls": 2,
+    "totalRuns": 6,
+    "economy": 18
+  },
+  "Abhishek Sharma": {
+    "totalBalls": 270,
+    "totalRuns": 389,
+    "economy": 8.644444444444444
+  },
+  "Arshdeep Singh": {
+    "totalBalls": 1364,
+    "totalRuns": 2052,
+    "economy": 9.026392961876834
+  },
+  "SE Rutherford": {
+    "totalBalls": 41,
+    "totalRuns": 59,
+    "economy": 8.634146341463413
+  },
+  "Harpreet Brar": {
+    "totalBalls": 679,
+    "totalRuns": 895,
+    "economy": 7.908689248895435
+  },
+  "Y Prithvi Raj": {
+    "totalBalls": 30,
+    "totalRuns": 57,
+    "economy": 11.399999999999999
+  },
+  "O Thomas": {
+    "totalBalls": 60,
+    "totalRuns": 79,
+    "economy": 7.9
+  },
+  "AS Roy": {
+    "totalBalls": 136,
+    "totalRuns": 191,
+    "economy": 8.426470588235293
+  },
+  "S Sandeep Warrier": {
+    "totalBalls": 168,
+    "totalRuns": 253,
+    "economy": 9.035714285714285
+  },
+  "JL Pattinson": {
+    "totalBalls": 213,
+    "totalRuns": 320,
+    "economy": 9.014084507042252
+  },
+  "SS Cottrell": {
+    "totalBalls": 120,
+    "totalRuns": 176,
+    "economy": 8.799999999999999
+  },
+  "Ravi Bishnoi": {
+    "totalBalls": 1411,
+    "totalRuns": 1836,
+    "economy": 7.80722891566265
+  },
+  "A Nortje": {
+    "totalBalls": 1054,
+    "totalRuns": 1574,
+    "economy": 8.960151802656547
+  },
+  "I Udana": {
+    "totalBalls": 174,
+    "totalRuns": 282,
+    "economy": 9.724137931034482
+  },
+  "TU Deshpande": {
+    "totalBalls": 774,
+    "totalRuns": 1242,
+    "economy": 9.627906976744185
+  },
+  "KL Nagarkoti": {
+    "totalBalls": 180,
+    "totalRuns": 285,
+    "economy": 9.5
+  },
+  "Kartik Tyagi": {
+    "totalBalls": 422,
+    "totalRuns": 713,
+    "economy": 10.137440758293838
+  },
+  "DR Sams": {
+    "totalBalls": 360,
+    "totalRuns": 523,
+    "economy": 8.716666666666667
+  },
+  "Shahbaz Ahmed": {
+    "totalBalls": 537,
+    "totalRuns": 837,
+    "economy": 9.351955307262571
+  },
+  "Abdul Samad": {
+    "totalBalls": 54,
+    "totalRuns": 113,
+    "economy": 12.555555555555555
+  },
+  "JR Hazlewood": {
+    "totalBalls": 603,
+    "totalRuns": 810,
+    "economy": 8.059701492537314
+  },
+  "DA Warner": {
+    "totalBalls": 1,
+    "totalRuns": 2,
+    "economy": 12
+  },
+  "CJ Green": {
+    "totalBalls": 17,
+    "totalRuns": 24,
+    "economy": 8.470588235294118
+  },
+  "P Dubey": {
+    "totalBalls": 66,
+    "totalRuns": 91,
+    "economy": 8.272727272727273
+  },
+  "Monu Kumar": {
+    "totalBalls": 12,
+    "totalRuns": 20,
+    "economy": 10
+  },
+  "KA Jamieson": {
+    "totalBalls": 168,
+    "totalRuns": 269,
+    "economy": 9.607142857142858
+  },
+  "M Jansen": {
+    "totalBalls": 451,
+    "totalRuns": 714,
+    "economy": 9.49889135254989
+  },
+  "C Sakariya": {
+    "totalBalls": 426,
+    "totalRuns": 599,
+    "economy": 8.43661971830986
+  },
+  "JA Richardson": {
+    "totalBalls": 90,
+    "totalRuns": 157,
+    "economy": 10.466666666666667
+  },
+  "RP Meredith": {
+    "totalBalls": 388,
+    "totalRuns": 612,
+    "economy": 9.463917525773196
+  },
+  "LI Meriwala": {
+    "totalBalls": 18,
+    "totalRuns": 32,
+    "economy": 10.666666666666666
+  },
+  "Lalit Yadav": {
+    "totalBalls": 288,
+    "totalRuns": 425,
+    "economy": 8.854166666666666
+  },
+  "Jalaj S Saxena": {
+    "totalBalls": 18,
+    "totalRuns": 27,
+    "economy": 9
+  },
+  "FA Allen": {
+    "totalBalls": 90,
+    "totalRuns": 136,
+    "economy": 9.066666666666666
+  },
+  "PWH de Silva": {
+    "totalBalls": 552,
+    "totalRuns": 748,
+    "economy": 8.130434782608695
+  },
+  "Umran Malik": {
+    "totalBalls": 494,
+    "totalRuns": 771,
+    "economy": 9.364372469635628
+  },
+  "Akash Singh": {
+    "totalBalls": 138,
+    "totalRuns": 227,
+    "economy": 9.869565217391305
+  },
+  "GD Phillips": {
+    "totalBalls": 30,
+    "totalRuns": 40,
+    "economy": 8
+  },
+  "AK Markram": {
+    "totalBalls": 121,
+    "totalRuns": 172,
+    "economy": 8.52892561983471
+  },
+  "GHS Garton": {
+    "totalBalls": 90,
+    "totalRuns": 135,
+    "economy": 9
+  },
+  "VR Iyer": {
+    "totalBalls": 81,
+    "totalRuns": 143,
+    "economy": 10.592592592592593
+  },
+  "K Yadav": {
+    "totalBalls": 54,
+    "totalRuns": 84,
+    "economy": 9.333333333333334
+  },
+  "NT Ellis": {
+    "totalBalls": 354,
+    "totalRuns": 508,
+    "economy": 8.610169491525424
+  },
+  "RV Patel": {
+    "totalBalls": 18,
+    "totalRuns": 22,
+    "economy": 7.333333333333334
+  },
+  "IC Porel": {
+    "totalBalls": 24,
+    "totalRuns": 39,
+    "economy": 9.75
+  },
+  "AU Rashid": {
+    "totalBalls": 60,
+    "totalRuns": 91,
+    "economy": 9.1
+  },
+  "OF Smith": {
+    "totalBalls": 90,
+    "totalRuns": 178,
+    "economy": 11.866666666666667
+  },
+  "Akash Deep": {
+    "totalBalls": 164,
+    "totalRuns": 319,
+    "economy": 11.670731707317072
+  },
+  "PVD Chameera": {
+    "totalBalls": 282,
+    "totalRuns": 432,
+    "economy": 9.191489361702128
+  },
+  "Mohsin Khan": {
+    "totalBalls": 486,
+    "totalRuns": 689,
+    "economy": 8.506172839506172
+  },
+  "R Shepherd": {
+    "totalBalls": 126,
+    "totalRuns": 257,
+    "economy": 12.238095238095237
+  },
+  "Mukesh Choudhary": {
+    "totalBalls": 279,
+    "totalRuns": 451,
+    "economy": 9.698924731182796
+  },
+  "D Pretorius": {
+    "totalBalls": 150,
+    "totalRuns": 238,
+    "economy": 9.52
+  },
+  "VG Arora": {
+    "totalBalls": 384,
+    "totalRuns": 585,
+    "economy": 9.140625
+  },
+  "YBK Jaiswal": {
+    "totalBalls": 1,
+    "totalRuns": 6,
+    "economy": 36
+  },
+  "Tilak Varma": {
+    "totalBalls": 22,
+    "totalRuns": 28,
+    "economy": 7.636363636363637
+  },
+  "DG Nalkande": {
+    "totalBalls": 84,
+    "totalRuns": 148,
+    "economy": 10.571428571428571
+  },
+  "M Theekshana": {
+    "totalBalls": 624,
+    "totalRuns": 797,
+    "economy": 7.663461538461538
+  },
+  "D Brevis": {
+    "totalBalls": 3,
+    "totalRuns": 8,
+    "economy": 16
+  },
+  "R Powell": {
+    "totalBalls": 18,
+    "totalRuns": 35,
+    "economy": 11.666666666666666
+  },
+  "KR Sen": {
+    "totalBalls": 241,
+    "totalRuns": 387,
+    "economy": 9.634854771784234
+  },
+  "Yash Dayal": {
+    "totalBalls": 578,
+    "totalRuns": 919,
+    "economy": 9.539792387543253
+  },
+  "Shashank Singh": {
+    "totalBalls": 18,
+    "totalRuns": 25,
+    "economy": 8.333333333333332
+  },
+  "Aman Hakim Khan": {
+    "totalBalls": 6,
+    "totalRuns": 13,
+    "economy": 13
+  },
+  "OC McCoy": {
+    "totalBalls": 162,
+    "totalRuns": 249,
+    "economy": 9.222222222222221
+  },
+  "HR Shokeen": {
+    "totalBalls": 204,
+    "totalRuns": 314,
+    "economy": 9.23529411764706
+  },
+  "A Badoni": {
+    "totalBalls": 25,
+    "totalRuns": 36,
+    "economy": 8.64
+  },
+  "DJ Mitchell": {
+    "totalBalls": 48,
+    "totalRuns": 97,
+    "economy": 12.125
+  },
+  "Harshit Rana": {
+    "totalBalls": 385,
+    "totalRuns": 581,
+    "economy": 9.054545454545455
+  },
+  "SS Iyer": {
+    "totalBalls": 6,
+    "totalRuns": 7,
+    "economy": 7
+  },
+  "K Kartikeya": {
+    "totalBalls": 234,
+    "totalRuns": 329,
+    "economy": 8.435897435897434
+  },
+  "Simarjeet Singh": {
+    "totalBalls": 180,
+    "totalRuns": 259,
+    "economy": 8.633333333333333
+  },
+  "Fazalhaq Farooqi": {
+    "totalBalls": 152,
+    "totalRuns": 227,
+    "economy": 8.960526315789474
+  },
+  "R Sai Kishore": {
+    "totalBalls": 186,
+    "totalRuns": 258,
+    "economy": 8.322580645161292
+  },
+  "Ramandeep Singh": {
+    "totalBalls": 40,
+    "totalRuns": 63,
+    "economy": 9.45
+  },
+  "PH Solanki": {
+    "totalBalls": 36,
+    "totalRuns": 38,
+    "economy": 6.333333333333334
+  },
+  "M Pathirana": {
+    "totalBalls": 451,
+    "totalRuns": 592,
+    "economy": 7.875831485587584
+  },
+  "R Sanjay Yadav": {
+    "totalBalls": 12,
+    "totalRuns": 23,
+    "economy": 11.5
+  },
+  "J Little": {
+    "totalBalls": 228,
+    "totalRuns": 339,
+    "economy": 8.921052631578949
+  },
+  "RS Hangargekar": {
+    "totalBalls": 36,
+    "totalRuns": 60,
+    "economy": 10
+  },
+  "Sikandar Raza": {
+    "totalBalls": 85,
+    "totalRuns": 140,
+    "economy": 9.882352941176471
+  },
+  "Mukesh Kumar": {
+    "totalBalls": 399,
+    "totalRuns": 694,
+    "economy": 10.436090225563909
+  },
+  "KR Mayers": {
+    "totalBalls": 42,
+    "totalRuns": 59,
+    "economy": 8.428571428571427
+  },
+  "NA Saini": {
+    "totalBalls": 12,
+    "totalRuns": 34,
+    "economy": 17
+  },
+  "RJW Topley": {
+    "totalBalls": 102,
+    "totalRuns": 182,
+    "economy": 10.705882352941178
+  },
+  "MG Bracewell": {
+    "totalBalls": 66,
+    "totalRuns": 95,
+    "economy": 8.636363636363637
+  },
+  "Arshad Khan": {
+    "totalBalls": 134,
+    "totalRuns": 280,
+    "economy": 12.53731343283582
+  },
+  "C Green": {
+    "totalBalls": 439,
+    "totalRuns": 664,
+    "economy": 9.075170842824601
+  },
+  "Yash Thakur": {
+    "totalBalls": 404,
+    "totalRuns": 691,
+    "economy": 10.262376237623762
+  },
+  "Suyash Sharma": {
+    "totalBalls": 258,
+    "totalRuns": 372,
+    "economy": 8.651162790697674
+  },
+  "SSB Magala": {
+    "totalBalls": 36,
+    "totalRuns": 51,
+    "economy": 8.5
+  },
+  "Mohit Rathee": {
+    "totalBalls": 12,
+    "totalRuns": 29,
+    "economy": 14.5
+  },
+  "MW Short": {
+    "totalBalls": 24,
+    "totalRuns": 25,
+    "economy": 6.25
+  },
+  "Vijaykumar Vyshak": {
+    "totalBalls": 231,
+    "totalRuns": 395,
+    "economy": 10.259740259740258
+  },
+  "Yudhvir Singh": {
+    "totalBalls": 72,
+    "totalRuns": 122,
+    "economy": 10.166666666666666
+  },
+  "Arjun Tendulkar": {
+    "totalBalls": 73,
+    "totalRuns": 114,
+    "economy": 9.36986301369863
+  },
+  "D Jansen": {
+    "totalBalls": 24,
+    "totalRuns": 53,
+    "economy": 13.25
+  },
+  "Noor Ahmad": {
+    "totalBalls": 492,
+    "totalRuns": 659,
+    "economy": 8.036585365853657
+  },
+  "Naveen-ul-Haq": {
+    "totalBalls": 388,
+    "totalRuns": 590,
+    "economy": 9.123711340206185
+  },
+  "Mayank Dagar": {
+    "totalBalls": 137,
+    "totalRuns": 203,
+    "economy": 8.89051094890511
+  },
+  "Gurnoor Brar": {
+    "totalBalls": 18,
+    "totalRuns": 42,
+    "economy": 14
+  },
+  "AJ Hosein": {
+    "totalBalls": 24,
+    "totalRuns": 40,
+    "economy": 10
+  },
+  "Akash Madhwal": {
+    "totalBalls": 262,
+    "totalRuns": 424,
+    "economy": 9.709923664122137
+  },
+  "R Goyal": {
+    "totalBalls": 24,
+    "totalRuns": 33,
+    "economy": 8.25
+  },
+  "T Stubbs": {
+    "totalBalls": 24,
+    "totalRuns": 29,
+    "economy": 7.25
+  },
+  "Vivrant Sharma": {
+    "totalBalls": 18,
+    "totalRuns": 37,
+    "economy": 12.333333333333332
+  },
+  "JE Root": {
+    "totalBalls": 12,
+    "totalRuns": 14,
+    "economy": 7
+  },
+  "Nithish Kumar Reddy": {
+    "totalBalls": 109,
+    "totalRuns": 207,
+    "economy": 11.394495412844037
+  },
+  "H Sharma": {
+    "totalBalls": 30,
+    "totalRuns": 57,
+    "economy": 11.399999999999999
+  },
+  "Sumit Kumar": {
+    "totalBalls": 20,
+    "totalRuns": 38,
+    "economy": 11.399999999999999
+  },
+  "N Burger": {
+    "totalBalls": 102,
+    "totalRuns": 145,
+    "economy": 8.529411764705882
+  },
+  "L Wood": {
+    "totalBalls": 36,
+    "totalRuns": 93,
+    "economy": 15.5
+  },
+  "SZ Mulani": {
+    "totalBalls": 30,
+    "totalRuns": 57,
+    "economy": 11.399999999999999
+  },
+  "Naman Dhir": {
+    "totalBalls": 28,
+    "totalRuns": 55,
+    "economy": 11.785714285714285
+  },
+  "G Coetzee": {
+    "totalBalls": 201,
+    "totalRuns": 341,
+    "economy": 10.17910447761194
+  },
+  "Azmatullah Omarzai": {
+    "totalBalls": 126,
+    "totalRuns": 186,
+    "economy": 8.857142857142858
+  },
+  "SH Johnson": {
+    "totalBalls": 96,
+    "totalRuns": 151,
+    "economy": 9.4375
+  },
+  "KT Maphaka": {
+    "totalBalls": 36,
+    "totalRuns": 89,
+    "economy": 14.833333333333334
+  },
+  "M Siddharth": {
+    "totalBalls": 55,
+    "totalRuns": 70,
+    "economy": 7.636363636363637
+  },
+  "MP Yadav": {
+    "totalBalls": 73,
+    "totalRuns": 85,
+    "economy": 6.986301369863014
+  },
+  "R Ravindra": {
+    "totalBalls": 12,
+    "totalRuns": 7,
+    "economy": 3.5
+  },
+  "KA Maharaj": {
+    "totalBalls": 36,
+    "totalRuns": 39,
+    "economy": 6.5
+  },
+  "WG Jacks": {
+    "totalBalls": 54,
+    "totalRuns": 100,
+    "economy": 11.11111111111111
+  },
+  "S Joseph": {
+    "totalBalls": 24,
+    "totalRuns": 47,
+    "economy": 11.75
+  },
+  "Arshad Khan (2)": {
+    "totalBalls": 12,
+    "totalRuns": 24,
+    "economy": 12
+  },
+  "M Shahrukh Khan": {
+    "totalBalls": 12,
+    "totalRuns": 15,
+    "economy": 7.5
+  },
+  "N Thushara": {
+    "totalBalls": 156,
+    "totalRuns": 257,
+    "economy": 9.884615384615383
+  },
+  "LB Williams": {
+    "totalBalls": 37,
+    "totalRuns": 71,
+    "economy": 11.513513513513512
+  },
+  "RJ Gleeson": {
+    "totalBalls": 47,
+    "totalRuns": 71,
+    "economy": 9.063829787234043
+  },
+  "MJ Suthar": {
+    "totalBalls": 12,
+    "totalRuns": 26,
+    "economy": 13
+  },
+  "A Kamboj": {
+    "totalBalls": 60,
+    "totalRuns": 114,
+    "economy": 11.399999999999999
+  },
+  "V Viyaskanth": {
+    "totalBalls": 60,
+    "totalRuns": 86,
+    "economy": 8.6
+  },
+  "V Kaverappa": {
+    "totalBalls": 24,
+    "totalRuns": 36,
+    "economy": 9
+  },
+  "Gulbadin Naib": {
+    "totalBalls": 6,
+    "totalRuns": 12,
+    "economy": 12
+  },
+  "N Wadhera": {
+    "totalBalls": 12,
+    "totalRuns": 13,
+    "economy": 6.5
+  },
+  "Atharva Taide": {
+    "totalBalls": 1,
+    "totalRuns": 4,
+    "economy": 24
+  }
+}

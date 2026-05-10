@@ -6,6 +6,7 @@ function totalBallsFacedByEachBatter() {
     let delivery = deliveries[i];
     let batter = delivery.batter;
     let extraType = delivery.extras_type;
+    let batsman_runs = delivery.batsman_runs;
     let wide = "wides";
     let inning = Number(delivery.inning);
     if (!result[batter]) {

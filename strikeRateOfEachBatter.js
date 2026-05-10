@@ -20,10 +20,10 @@ function strikeRateOfEachBatter() {
       //   console.log(result[batter].runs, batter);
     }
   }
-    for (let batter in result) {
-      let strike = (result[batter].runs / result[batter].balls) * 100;
-      result[batter].strike_rate = strike;
-    }
+  for (let batter in result) {
+    let strike = (result[batter].runs / result[batter].balls) * 100;
+    result[batter].strike_rate = strike;
+  }
   return result;
 }
 console.log(strikeRateOfEachBatter());

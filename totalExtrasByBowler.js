@@ -6,12 +6,15 @@ function totalExtrasByBowler() {
     let delivery = deliveries[i];
     let bowler = delivery.bowler;
     let inning = Number(delivery.inning);
-    let extraRuns = Number(delivery.extra_runs);
+    let extras_type = delivery.extras_type;
+    let total_runs = Number(delivery.total_runs);
     if (!result[bowler]) {
       result[bowler] = 0;
     }
     if (inning == 3 || inning == 2) {
-      result[bowler] = result[bowler] + extraRuns;
+      if (extras_type == "wides" || extras_type == "noballs") {
+        result[bowler] = result[bowler] + total_runs;
+      }
     }
   }
   return result;
