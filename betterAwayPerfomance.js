@@ -4,6 +4,10 @@ function betterAwayPerfomance() {
   let result = {};
   let final = {};
   for (let i = 0; i < matches.length; i++) {
+    //  Code Suggestions:: 
+    //dont take hardcoded values , take from the data itself
+    // for each team  find their home ground and  based on that calculate away and home wins 
+
     const homeGrounds = {
       "Mumbai Indians": ["Wankhede Stadium", "Dr DY Patil Sports Academy"],
 
@@ -56,6 +60,7 @@ function betterAwayPerfomance() {
     }
     // console.log(homeGrounds[winner]);
     let isHome = false;
+    // Code Suggestions: Implicit Data Dropping Warning. Teams not manually seeded in the hardcoded map are silently discarded from statistical analysis here. Consider a default handling strategy for unmapped teams.
     if (!homeGrounds[winner]) continue;
     for (let i = 0; i < homeGrounds[winner].length; i++) {
       if (venue == homeGrounds[winner][i]) {

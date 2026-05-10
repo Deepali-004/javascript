@@ -12,6 +12,7 @@ function mostWinsBattingVsChasing2() {
     let tossWinner = match.toss_winner;
     let winner = match.winner;
     let matchResult = match.result;
+    // Code Suggestions: High-level data constraint here. This check `tossWinner === winner` means we completely ignore every match where a team won without winning the toss! This provides skewed final counts of total wins. Ensure this filtering behavior is intentionally required.
     if (matchResult === "runs" && tossWinner === winner) {
       if (!result.bat[winner]) {
         result.bat[winner] = 1;
@@ -35,7 +36,7 @@ function mostWinsBattingVsChasing2() {
     sortedArray.sort((a, b) => b[1] - a[1]);
     result[choice] = sortedArray[0];
   }
-//   console.log(result);
+  //   console.log(result);
   return result;
 }
 console.log(mostWinsBattingVsChasing2());

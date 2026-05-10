@@ -165,6 +165,7 @@ function mostWinsBattingVsChasing() {
     }
   }
   console.log(finalOutput);
+  // Code Suggestions: Critical abandon found. This robust function generates significant stats, but completely forgets to write a 'return finalOutput;' statement, rendering execution useless as it returns undefined.
   // console.log(result);
   // console.log(battingArray);
 }

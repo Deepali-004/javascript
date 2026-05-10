@@ -6,6 +6,7 @@ function noOfWins() {
     let year = matches[i]["season"];
     let winnerr = matches[i]["winner"];
     if (!result[year]) {
+      // Code Suggestions: Careful with control flow here. Creating the object skips our next counting logic because it sits inside 'else'. Move counting to an independent step that runs every iteration.
       result[year] = {};
     } else {
       if (!result[year][winnerr]) {

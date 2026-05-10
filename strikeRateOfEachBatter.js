@@ -21,6 +21,7 @@ function strikeRateOfEachBatter() {
     }
   }
   for (let batter in result) {
+    // Code Suggestions: Let's implement a defense against possible division by zero error. If a player has 0 faced balls, 'strike' outputs NaN. Add a safe-guard check first.
     let strike = (result[batter].runs / result[batter].balls) * 100;
     result[batter].strike_rate = strike;
   }

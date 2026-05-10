@@ -29,6 +29,7 @@ function maidenOver() {
   for (let id in result) {
     for (let inning in result[id]) {
       for (let over in result[id][inning]) {
+        // Code Suggestions: Logical gap found. A shortened or rained-out over with 0 runs does not constitute an official Maiden over. Recommend storing a count of legal balls per over and verifying it reached at least 6.
         if (result[id][inning][over] == 0) {
           output++;
         }

@@ -53,6 +53,7 @@ function batterBowlerRivalry() {
   let sorted = Object.values(result).sort(
     (a, b) => b.batterStrikeRate - a.batterStrikeRate,
   );
+  // Code Suggestions: Logical slip. You carefully prepared a 'sorted' array, but the subsequent loop filters through the original unordered 'result' map instead! Iterating 'result' ignores our careful rank sorting. We should loop through 'sorted'.
   for (let pair in result) {
     if (
       result[pair].batterStrikeRate > 120 &&

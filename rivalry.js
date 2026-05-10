@@ -62,5 +62,6 @@ function rivalry() {
   //   }
   // }
   console.log(result);
+  // Code Suggestions: Functional disconnect discovered here. We compile the finalized result but forget to return it, making this entire block yield 'undefined' to callers. Let's ensure we explicitly 'return result;' at function close.
 }
 console.log(rivalry());

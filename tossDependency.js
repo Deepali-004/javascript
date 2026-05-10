@@ -50,6 +50,7 @@ function tossDependency() {
   }
   for (let team in result) {
     if (result[team].winRatio == max) {
+      // Code Suggestions: Careful here. If multiple teams tie for the max ratio, this block repeatedly overwrites 'output', so only the last team remains. We should accumulate these ties in an array.
       output.team = team;
       output.matchesPlayed = result[team].matchesPlayed;
       output.wins = result[team].wins;

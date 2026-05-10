@@ -23,6 +23,7 @@ function venueMaxMatch() {
         result[season][venue]++;
       }
     }
+    // Code Suggestions: Computational Bottleneck. This inner loop forces an O(N^2) penalty by re-processing all historical data on every single step. Move this whole block below the outer loop's closing brace.
     for (let season in result) {
       result2[season] = Object.entries(result[season]);
     }

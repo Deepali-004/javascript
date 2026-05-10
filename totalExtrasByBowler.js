@@ -11,6 +11,7 @@ function totalExtrasByBowler() {
     if (!result[bowler]) {
       result[bowler] = 0;
     }
+    // Code Suggestions: Critical logic bug discovered. We're querying 'inning == 3' but standard cricket limits regular playtime to innings 1 & 2. This accidentally omits data from the very first half of every match!
     if (inning == 3 || inning == 2) {
       if (extras_type == "wides" || extras_type == "noballs") {
         result[bowler] = result[bowler] + total_runs;

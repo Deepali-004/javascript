@@ -34,6 +34,7 @@ function mostFrequentWinner() {
     let topTeams = [];
     for (let i = 0; i < arr.length; i++) {
       if (arr[i][1] == max) {
+        // Code Suggestions: Data Type Suggestion. By pushing multiple loose items together, this becomes a flat array like ['csk', 7]. Consider using keyed objects e.g. `{ team: arr[i][0], count: arr[i][1] }` to keep the record structure semantic and clear.
         topTeams.push(arr[i][0], arr[i][1]);
       }
     }

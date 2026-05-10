@@ -25,6 +25,7 @@ function dominantSeason() {
     for (let team in result[season]) {
       if (result[season][team] == max) {
         // console.log(team, season);
+        // Code Suggestions: Note that this assignment happens inside the season loop without checking against past winners. The current values overwrite previous highs, resulting in output only holding the final season processed. We need a global variable comparison.
         output.team = team;
         output.season = season;
         output.matchesWon = max;

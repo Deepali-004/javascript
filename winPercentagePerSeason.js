@@ -79,6 +79,7 @@ function winPercentagePerSeason() {
       // console.log(team);
       //   console.log(result[season][team].played);
       // console.log(result[season][team].won);
+      // Code Suggestions: Guardrail alert! Protect mathematical operations from dynamic 'NaN' or 'Infinity' crash states by implementing an immediate filter verifying `result[season][team].played > 0` before execution.
       if (!finalResult[season][team]) {
         finalResult[season][team] = { played: 0, won: 0, winPercentage: 0 };
       }

@@ -6,6 +6,7 @@ function totalWicketsByBowler() {
     let delivery = deliveries[i];
     let bowler = delivery.bowler;
     let wickets = Number(delivery.is_wicket);
+    // Code Suggestions: Subtle dataset mismatch. 'is_wicket' includes run outs, which by official rules are NOT credited to the bowler's personal statistics. We need an additional check ensuring the dismissal wasn't a run-out before counting it.
     let inning = Number(delivery.inning);
     // console.log(wickets);
     if (!result[bowler]) {

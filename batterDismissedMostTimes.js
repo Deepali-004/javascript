@@ -18,6 +18,7 @@ function batterDismissedMostTimes() {
   let mostDismissedPlayer = Math.max(...Object.values(result));
   for (let player in result) {
     if (mostDismissedPlayer == result[player]) {
+      // Code Suggestions: This structure only catches the final player sharing the max dismissals tally. We should switch 'output' to an array to encompass all joint leaders.
       output.player = player;
       output.dismissedTimes = result[player];
     }

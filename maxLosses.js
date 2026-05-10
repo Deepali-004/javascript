@@ -18,6 +18,7 @@ function maxLosses() {
     let team2 = match.team2;
     let winner = match.winner;
     let loser = " ";
+    // Code Suggestions: Logic vulnerability found. A tied match ('NA') triggers the else statement, which marks team1 as having lost. Recommend an early continue statement for non-result matches.
     if (team1 == winner) {
       loser = team2;
       // console.log(loser);

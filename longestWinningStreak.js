@@ -3,6 +3,7 @@ const matches = require("./matches.json");
 function longestWinningStreak() {
   let result = {};
   let final = {};
+  // Code Suggestions: Sequential counting relies directly on internal dataset ordering. To ensure streak reliability, we should pre-sort 'matches' by date before running our linear scan.
   for (let i = 0; i < matches.length; i++) {
     let match = matches[i];
     let team1 = match.team1;

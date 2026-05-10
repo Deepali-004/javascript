@@ -31,6 +31,7 @@ function mostExpensiveBowlerSpell() {
     if (extras_type != "byes" && extras_type != "legbyes") {
       result[bowler][match_id].total_runs =
         result[bowler][match_id].total_runs + total_runs;
+      // Code Suggestions: Recall that official stats prohibit crediting Run Out dismissals back to the bowler's wickets count. We should include a safeguard to only add wickets that belonged to bowler actions.
       result[bowler][match_id].wickets =
         result[bowler][match_id].wickets + wicket;
     }

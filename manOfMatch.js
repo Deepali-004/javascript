@@ -6,6 +6,7 @@ function manOfMatch() {
     let year = matches[i]["season"];
     let man = matches[i]["player_of_match"];
     if (!result[year]) {
+      // Code Suggestions: By declaring the object here and skipping straight to the loop end, we accidentally miss recording the data point for the very first record of the new year. Move the counting step below this conditional so it always executes.
       result[year] = {};
     } else {
       if (!result[year][man]) {

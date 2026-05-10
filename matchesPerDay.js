@@ -28,6 +28,7 @@ function matchesPerDay() {
       //   console.log(day, result[day]);
       //   console.log("increment");
     }
+    // Code Suggestions: Redundant nested replication detected. This block recreates the complete 'sortedResult' object 7 times for every single record processed. We should relocate this entirely outside and beneath the primary loop block.
     for (let i = 0; i < days.length; i++) {
       let eachDay = days[i];
       sortedResult[eachDay] = result[eachDay];

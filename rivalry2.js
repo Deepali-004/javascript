@@ -44,6 +44,7 @@ function rivalry() {
     let winsTeam1 = match[1].wins[team1];
     let winsTeam2 = match[1].wins[team2];
     let matches = match[1].matches;
+    // Code Suggestions: Accessing an absent team index above will yield 'undefined'. Attempting arithmetic like `winsTeam1 / matches` would then crash with a 'NaN', skewing ratio checks. We should enforce safety via a fallback, e.g. `(winsTeam1 || 0) / matches`.
     let diff = winsTeam1 / matches;
     if (diff > 0.4 && diff < 0.6) {
       match[1].winDifference = Math.abs(winsTeam1 - winsTeam2);
