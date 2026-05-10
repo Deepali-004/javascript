@@ -7,6 +7,9 @@ function manOfMatch() {
     let man = matches[i]["player_of_match"];
     if (!result[year]) {
       result[year] = {};
+      if (!result[year][man]) {
+        result[year][man] = 1;
+      }
     } else {
       if (!result[year][man]) {
         result[year][man] = 1;
