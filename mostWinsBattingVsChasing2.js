@@ -10,25 +10,65 @@ function mostWinsBattingVsChasing2() {
   for (let i = 0; i < matches.length; i++) {
     let match = matches[i];
     let tossWinner = match.toss_winner;
+    let toss_decision = match.toss_decision;
     let winner = match.winner;
     let matchResult = match.result;
-    // Code Suggestions: High-level data constraint here. This check `tossWinner === winner` means we completely ignore every match where a team won without winning the toss! This provides skewed final counts of total wins. Ensure this filtering behavior is intentionally required.
-    if (matchResult === "runs" && tossWinner === winner) {
-      if (!result.bat[winner]) {
-        result.bat[winner] = 1;
-        // console.log("initialize");
-        // console.log(result.bat[winner]);
-      } else {
-        result.bat[winner]++;
-        // console.log("incrememnt");
-      }
+    let team1 = match.team1;
+    let team2 = match.team2;
+    let tossLoser = "";
+    let battingTeam = "";
+    let chasingTeam = "";
+    if (winner == "NA") continue;
+    if (tossWinner == team1) {
+      tossLoser = team2;
     }
-    if (matchResult === "wickets" && tossWinner === winner) {
-      if (!result.field[winner]) {
-        result.field[winner] = 1;
-      } else {
-        result.field[winner]++;
+    if (tossWinner == team2) {
+      tossLoser = team1;
+    }
+    if (toss_decision === "bat") {
+      battingTeam = tossWinner;
+      chasingTeam = tossLoser;
+      if (battingTeam == winner) {
+        if (!result.bat[battingTeam]) {
+          result.bat[battingTeam] = 0;
+        }
+        result.bat[battingTeam]++;
       }
+      if (chasingTeam == winner) {
+        if (!result.field[chasingTeam]) {
+          result.field[chasingTeam] = 0;
+        }
+        result.field[chasingTeam]++;
+      }
+      // if (!result.bat[winner]) {
+      //   result.bat[winner] = 1;
+      //   // console.log("initialize");
+      //   // console.log(result.bat[winner]);
+      // } else {
+      //   result.bat[winner]++;
+      //   // console.log("incrememnt");
+      // }
+    }
+    if (toss_decision === "field") {
+      chasingTeam = tossWinner;
+      battingTeam = tossLoser;
+      if (chasingTeam == winner) {
+        if (!result.field[chasingTeam]) {
+          result.field[chasingTeam] = 0;
+        }
+        result.field[chasingTeam]++;
+      }
+      if (battingTeam == winner) {
+        if (!result.bat[battingTeam]) {
+          result.bat[battingTeam] = 0;
+        }
+        result.bat[battingTeam]++;
+      }
+      // if (!result.field[winner]) {
+      //   result.field[winner] = 1;
+      // } else {
+      //   result.field[winner]++;
+      // }
     }
   }
   for (let choice in result) {

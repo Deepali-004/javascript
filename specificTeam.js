@@ -10,8 +10,7 @@ function specificTeam(teamname) {
       result[index] = matches[i];
       index++;
     }
-    // Code Suggestions: Major I/O bottleneck warning. Sending an expanding Object dump into `console.log` repeatedly inside an intensive loop locks up the Node execution event loop. Relocate printing commands exclusively AFTER the primary logic wraps.
-    console.log(result);
+    // console.log(result);
   }
   return result;
 }

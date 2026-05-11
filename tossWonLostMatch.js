@@ -42,8 +42,8 @@ function tossWonLostMatch() {
   }
   //   console.log(count);
   //   console.log(result);
-  // Code Suggestions: Heads up, using commas in a return evaluates only to the final item. 'count' gets dropped. Wrap these in an Object to return both values together.
-  return (count, result);
+  let final = { count: count, matches: result };
+  return final;
 }
 console.log(tossWonLostMatch());
 const tossWonLostMatchOutput = tossWonLostMatch();

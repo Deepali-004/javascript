@@ -2,7 +2,7 @@
 const matches = require("./matches.json");
 function tossDependency() {
   let result = {};
-  let output = {};
+  let output = [];
   for (let i = 0; i < matches.length; i++) {
     let match = matches[i];
     let team1 = match.team1;
@@ -50,11 +50,13 @@ function tossDependency() {
   }
   for (let team in result) {
     if (result[team].winRatio == max) {
-      // Code Suggestions: Careful here. If multiple teams tie for the max ratio, this block repeatedly overwrites 'output', so only the last team remains. We should accumulate these ties in an array.
-      output.team = team;
-      output.matchesPlayed = result[team].matchesPlayed;
-      output.wins = result[team].wins;
-      output.winsWhereTossWon = result[team].winsWhereTossWon;
+      let obj = {
+        team: team,
+        matchesPlayed: result[team].matchesPlayed,
+        wins: result[team].wins,
+        winsWhereTossWon: result[team].winsWhereTossWon,
+      };
+      output.push(obj);
     }
   }
   //   console.log(output);

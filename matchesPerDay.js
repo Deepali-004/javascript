@@ -3,36 +3,34 @@ const matches = require("./matches.json");
 function matchesPerDay() {
   let result = {};
   let sortedResult = {};
+  const days = [
+    "Sunday", //0
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+  ];
   //   console.log("Start", result);
   for (let i = 0; i < matches.length; i++) {
-    let days = [
-      "Sunday", //0
-      "Monday",
-      "Tuesday",
-      "Wednesday",
-      "Thursday",
-      "Friday",
-      "Saturday",
-    ];
     let dayIndex = new Date(matches[i]["date"]).getDay();
     let day = days[dayIndex];
     // console.log(day);
     // console.log(dayIndex, day);
     // console.log(result[day]);
     if (!result[day]) {
-      result[day] = 1;
+      result[day] = 0;
       //   console.log(day, result[day]);
       //   console.log("Init");
-    } else {
-      result[day]++;
-      //   console.log(day, result[day]);
-      //   console.log("increment");
     }
-    // Code Suggestions: Redundant nested replication detected. This block recreates the complete 'sortedResult' object 7 times for every single record processed. We should relocate this entirely outside and beneath the primary loop block.
-    for (let i = 0; i < days.length; i++) {
-      let eachDay = days[i];
-      sortedResult[eachDay] = result[eachDay];
-    }
+    result[day]++;
+    //   console.log(day, result[day]);
+    //   console.log("increment");
+  }
+  for (let i = 0; i < days.length; i++) {
+    let eachDay = days[i];
+    sortedResult[eachDay] = result[eachDay];
   }
   return sortedResult;
 }

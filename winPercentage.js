@@ -14,7 +14,7 @@ function winPercentage() {
     }
     newObject[team1].played += 1;
     newObject[team2].played += 1;
-    // Code Suggestions: If a match ends in no result ('NA'), this else branch will incorrectly award a win to team2. Add an explicit check for `winner !== 'NA'` before evaluating winners.
+    if (winner == "NA") continue;
     if (winner == team1) {
       newObject[team1].wins += 1;
     } else {

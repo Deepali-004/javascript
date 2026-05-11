@@ -1,15 +1,16 @@
 {
   "2009": {
+    "Chennai Super Kings": 7,
     "Royal Challengers Bangalore": 8,
     "Delhi Daredevils": 9,
     "Kolkata Knight Riders": 7,
-    "Chennai Super Kings": 6,
     "Deccan Chargers": 10,
     "Kings XI Punjab": 6,
     "Mumbai Indians": 6,
     "Rajasthan Royals": 4
   },
   "2011": {
+    "Chennai Super Kings": 9,
     "Rajasthan Royals": 7,
     "Kochi Tuskers Kerala": 8,
     "Delhi Daredevils": 9,
@@ -17,13 +18,12 @@
     "Kolkata Knight Riders": 7,
     "Mumbai Indians": 6,
     "Royal Challengers Bangalore": 6,
-    "Chennai Super Kings": 8,
     "Deccan Chargers": 6,
     "Pune Warriors": 5
   },
   "2012": {
+    "Mumbai Indians": 11,
     "Delhi Daredevils": 10,
-    "Mumbai Indians": 10,
     "Kings XI Punjab": 8,
     "Deccan Chargers": 9,
     "Kolkata Knight Riders": 7,
@@ -33,147 +33,149 @@
     "Chennai Super Kings": 7
   },
   "2013": {
+    "Kolkata Knight Riders": 12,
     "Mumbai Indians": 12,
     "Pune Warriors": 9,
     "Rajasthan Royals": 11,
     "Royal Challengers Bangalore": 5,
-    "Kolkata Knight Riders": 11,
     "Sunrisers Hyderabad": 7,
     "Chennai Super Kings": 7,
     "Delhi Daredevils": 5,
     "Kings XI Punjab": 7
   },
   "2014": {
+    "Kolkata Knight Riders": 9,
     "Royal Challengers Bangalore": 9,
     "Chennai Super Kings": 10,
     "Rajasthan Royals": 8,
-    "Kolkata Knight Riders": 8,
     "Kings XI Punjab": 7,
     "Sunrisers Hyderabad": 7,
     "Mumbai Indians": 6,
     "Delhi Daredevils": 4
   },
   "2015": {
+    "Kolkata Knight Riders": 8,
     "Delhi Daredevils": 5,
     "Kings XI Punjab": 7,
     "Chennai Super Kings": 10,
     "Royal Challengers Bangalore": 10,
     "Rajasthan Royals": 6,
     "Mumbai Indians": 7,
-    "Sunrisers Hyderabad": 6,
-    "Kolkata Knight Riders": 7
+    "Sunrisers Hyderabad": 6
   },
   "2016": {
+    "Mumbai Indians": 9,
     "Kolkata Knight Riders": 6,
     "Gujarat Lions": 8,
     "Sunrisers Hyderabad": 10,
-    "Mumbai Indians": 8,
     "Rising Pune Supergiants": 7,
     "Delhi Daredevils": 8,
     "Royal Challengers Bangalore": 6,
     "Kings XI Punjab": 6
   },
   "2017": {
+    "Royal Challengers Bangalore": 9,
     "Rising Pune Supergiant": 6,
     "Kolkata Knight Riders": 9,
     "Kings XI Punjab": 4,
-    "Royal Challengers Bangalore": 8,
     "Sunrisers Hyderabad": 5,
     "Mumbai Indians": 11,
     "Gujarat Lions": 7,
     "Delhi Daredevils": 8
   },
   "2018": {
+    "Chennai Super Kings": 11,
     "Kings XI Punjab": 7,
     "Kolkata Knight Riders": 9,
     "Sunrisers Hyderabad": 7,
-    "Chennai Super Kings": 10,
     "Delhi Daredevils": 8,
     "Royal Challengers Bangalore": 7,
     "Rajasthan Royals": 6,
     "Mumbai Indians": 5
   },
   "2019": {
+    "Chennai Super Kings": 12,
     "Kolkata Knight Riders": 5,
     "Mumbai Indians": 8,
     "Rajasthan Royals": 11,
     "Delhi Capitals": 10,
     "Kings XI Punjab": 6,
     "Royal Challengers Bangalore": 4,
-    "Chennai Super Kings": 11,
     "Sunrisers Hyderabad": 4
   },
   "2021": {
+    "Royal Challengers Bangalore": 10,
     "Delhi Capitals": 8,
     "Sunrisers Hyderabad": 7,
     "Rajasthan Royals": 8,
     "Kolkata Knight Riders": 8,
     "Chennai Super Kings": 6,
     "Mumbai Indians": 8,
-    "Royal Challengers Bangalore": 9,
     "Punjab Kings": 5
   },
   "2022": {
+    "Kolkata Knight Riders": 8,
     "Delhi Capitals": 8,
     "Punjab Kings": 4,
     "Gujarat Titans": 10,
     "Sunrisers Hyderabad": 10,
     "Royal Challengers Bangalore": 8,
     "Lucknow Super Giants": 7,
-    "Kolkata Knight Riders": 7,
     "Mumbai Indians": 9,
     "Chennai Super Kings": 6,
     "Rajasthan Royals": 4
   },
   "2023": {
+    "Gujarat Titans": 9,
     "Kolkata Knight Riders": 5,
     "Delhi Capitals": 7,
     "Sunrisers Hyderabad": 7,
     "Royal Challengers Bangalore": 8,
     "Lucknow Super Giants": 3,
-    "Gujarat Titans": 8,
     "Rajasthan Royals": 10,
     "Chennai Super Kings": 10,
     "Mumbai Indians": 10,
     "Punjab Kings": 5
   },
   "2024": {
+    "Royal Challengers Bengaluru": 8,
     "Punjab Kings": 10,
     "Sunrisers Hyderabad": 7,
     "Rajasthan Royals": 11,
     "Mumbai Indians": 10,
-    "Royal Challengers Bengaluru": 7,
     "Gujarat Titans": 3,
     "Delhi Capitals": 7,
     "Kolkata Knight Riders": 3,
     "Lucknow Super Giants": 9,
     "Chennai Super Kings": 3
   },
-  "2026": {},
+  "2026": {
+    "Chennai Super Kings": 1
+  },
   "2007/08": {
+    "Royal Challengers Bangalore": 5,
     "Chennai Super Kings": 5,
     "Rajasthan Royals": 11,
     "Mumbai Indians": 8,
     "Deccan Chargers": 9,
     "Kings XI Punjab": 8,
     "Kolkata Knight Riders": 6,
-    "Delhi Daredevils": 6,
-    "Royal Challengers Bangalore": 4
+    "Delhi Daredevils": 6
   },
   "2009/10": {
+    "Deccan Chargers": 9,
     "Mumbai Indians": 9,
     "Delhi Daredevils": 8,
     "Kolkata Knight Riders": 7,
-    "Deccan Chargers": 8,
     "Kings XI Punjab": 5,
     "Chennai Super Kings": 10,
     "Royal Challengers Bangalore": 6,
     "Rajasthan Royals": 6
   },
   "2020/21": {
+    "Chennai Super Kings": 8,
     "Kings XI Punjab": 4,
     "Sunrisers Hyderabad": 11,
-    "Chennai Super Kings": 7,
     "Kolkata Knight Riders": 6,
     "Royal Challengers Bangalore": 6,
     "Rajasthan Royals": 7,

@@ -1,98 +1,156 @@
 {
   "Royal Challengers Bangalore": [
-    "Chennai Super Kings",
-    20
+    {
+      "team": "Chennai Super Kings",
+      "count": 20
+    }
   ],
   "Kings XI Punjab": [
-    "Kolkata Knight Riders",
-    18
+    {
+      "team": "Kolkata Knight Riders",
+      "count": 18
+    }
   ],
   "Rajasthan Royals": [
-    "Chennai Super Kings",
-    16
+    {
+      "team": "Chennai Super Kings",
+      "count": 16
+    }
   ],
   "Mumbai Indians": [
-    "Chennai Super Kings",
-    17
+    {
+      "team": "Chennai Super Kings",
+      "count": 17
+    }
   ],
   "Deccan Chargers": [
-    "Kolkata Knight Riders",
-    7,
-    "Delhi Daredevils",
-    7,
-    "Rajasthan Royals",
-    7,
-    "Kings XI Punjab",
-    7
+    {
+      "team": "Kolkata Knight Riders",
+      "count": 7
+    },
+    {
+      "team": "Delhi Daredevils",
+      "count": 7
+    },
+    {
+      "team": "Rajasthan Royals",
+      "count": 7
+    },
+    {
+      "team": "Kings XI Punjab",
+      "count": 7
+    }
   ],
   "Kolkata Knight Riders": [
-    "Mumbai Indians",
-    23
+    {
+      "team": "Mumbai Indians",
+      "count": 23
+    }
   ],
   "Delhi Daredevils": [
-    "Royal Challengers Bangalore",
-    14
+    {
+      "team": "Royal Challengers Bangalore",
+      "count": 14
+    }
   ],
   "Chennai Super Kings": [
-    "Mumbai Indians",
-    20
+    {
+      "team": "Mumbai Indians",
+      "count": 20
+    }
   ],
   "Kochi Tuskers Kerala": [
-    "Royal Challengers Bangalore",
-    2
+    {
+      "team": "Royal Challengers Bangalore",
+      "count": 2
+    }
   ],
   "Pune Warriors": [
-    "Mumbai Indians",
-    5,
-    "Royal Challengers Bangalore",
-    5
+    {
+      "team": "Mumbai Indians",
+      "count": 5
+    },
+    {
+      "team": "Royal Challengers Bangalore",
+      "count": 5
+    }
   ],
   "Sunrisers Hyderabad": [
-    "Kolkata Knight Riders",
-    19
+    {
+      "team": "Kolkata Knight Riders",
+      "count": 19
+    }
   ],
   "Rising Pune Supergiants": [
-    "Gujarat Lions",
-    2,
-    "Royal Challengers Bangalore",
-    2,
-    "Kolkata Knight Riders",
-    2
+    {
+      "team": "Gujarat Lions",
+      "count": 2
+    },
+    {
+      "team": "Royal Challengers Bangalore",
+      "count": 2
+    },
+    {
+      "team": "Kolkata Knight Riders",
+      "count": 2
+    }
   ],
   "Gujarat Lions": [
-    "Sunrisers Hyderabad",
-    5
+    {
+      "team": "Sunrisers Hyderabad",
+      "count": 5
+    }
   ],
   "Rising Pune Supergiant": [
-    "Delhi Daredevils",
-    2
+    {
+      "team": "Delhi Daredevils",
+      "count": 2
+    }
   ],
   "Delhi Capitals": [
-    "Mumbai Indians",
-    8
+    {
+      "team": "Mumbai Indians",
+      "count": 8
+    }
   ],
   "Punjab Kings": [
-    "Delhi Capitals",
-    5,
-    "Sunrisers Hyderabad",
-    5
+    {
+      "team": "Delhi Capitals",
+      "count": 5
+    },
+    {
+      "team": "Sunrisers Hyderabad",
+      "count": 5
+    }
   ],
   "Lucknow Super Giants": [
-    "Gujarat Titans",
-    4,
-    "Rajasthan Royals",
-    4
+    {
+      "team": "Gujarat Titans",
+      "count": 4
+    },
+    {
+      "team": "Rajasthan Royals",
+      "count": 4
+    }
   ],
   "Gujarat Titans": [
-    "Delhi Capitals",
-    3,
-    "Chennai Super Kings",
-    3
+    {
+      "team": "Delhi Capitals",
+      "count": 3
+    },
+    {
+      "team": "Chennai Super Kings",
+      "count": 3
+    }
   ],
   "Royal Challengers Bengaluru": [
-    "Kolkata Knight Riders",
-    2,
-    "Rajasthan Royals",
-    2
+    {
+      "team": "Kolkata Knight Riders",
+      "count": 2
+    },
+    {
+      "team": "Rajasthan Royals",
+      "count": 2
+    }
   ]
 }

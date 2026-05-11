@@ -48,17 +48,12 @@ function mostWins() {
       team: maxTeam,
       wins: max,
     };
-    console.log(maxTeam, season, max);
+    // console.log(maxTeam, season, max);
     finalOutput[season] = { maxTeam: maxTeam, max: max };
     // console.log(max);
     // for (let team in winnerArray[season]) {
     //   console.log(team, winnerArray[season][team]);
     // }
-  }
-  let mostWins = 1;
-  // Code Suggestions: Common Javascript pitfall—generic Objects '{}' don't inherit a `.length` property, so this loop fails before running. Consider iterating via Object.keys(winnerArray) or a `for...in` iterator instead.
-  for (let i = 0; i < winnerArray.length; i++) {
-    console.log(winnerArray[i]);
   }
   return finalOutput;
 }

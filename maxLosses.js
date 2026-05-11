@@ -13,12 +13,10 @@ const matches = require("./matches.json");
 function maxLosses() {
   let result = {};
   for (let i = 0; i < matches.length; i++) {
-    let match = matches[i];
-    let team1 = match.team1;
-    let team2 = match.team2;
-    let winner = match.winner;
+    const match = matches[i];
+    const { team1, team2, winner } = match;
     let loser = " ";
-    // Code Suggestions: Logic vulnerability found. A tied match ('NA') triggers the else statement, which marks team1 as having lost. Recommend an early continue statement for non-result matches.
+    if (winner == "NA") continue;
     if (team1 == winner) {
       loser = team2;
       // console.log(loser);
