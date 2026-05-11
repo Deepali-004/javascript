@@ -4,14 +4,15 @@ function batterWithMostDots() {
   let result = {};
   let output = {};
   for (let i = 0; i < deliveries.length; i++) {
-    let delivery = deliveries[i];
-    let batter = delivery.batter;
-    let totalRuns = delivery.total_runs;
-    let inning = Number(delivery.inning);
+    const delivery = deliveries[i];
+    const { batter, total_runs, inning } = delivery;
     if (!result[batter]) {
       result[batter] = 0;
     }
-    if (totalRuns == 0 && (inning == 1 || inning == 2)) {
+    if (
+      Number(total_runs) == 0 &&
+      (Number(inning) == 1 || Number(inning) == 2)
+    ) {
       result[batter]++;
     }
   }

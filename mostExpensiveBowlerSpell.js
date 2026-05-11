@@ -5,9 +5,7 @@ function mostExpensiveBowlerSpell() {
   let output = [];
   for (let i = 0; i < deliveries.length; i++) {
     let delivery = deliveries[i];
-    let match_id = delivery.match_id;
-    let bowler = delivery.bowler;
-    let extras_type = delivery.extras_type;
+    let { match_id, bowler, extras_type, dismissal_kind } = delivery;
     let wicket = Number(delivery.is_wicket);
     let total_runs = Number(delivery.total_runs);
     let over = Number(delivery.over);
@@ -31,8 +29,14 @@ function mostExpensiveBowlerSpell() {
     if (extras_type != "byes" && extras_type != "legbyes") {
       result[bowler][match_id].total_runs =
         result[bowler][match_id].total_runs + total_runs;
-      result[bowler][match_id].wickets =
-        result[bowler][match_id].wickets + wicket;
+      if (
+        dismissal_kind != "run out" &&
+        dismissal_kind != "retired hurt" &&
+        dismissal_kind != "obstructing the field"
+      ) {
+        result[bowler][match_id].wickets =
+          result[bowler][match_id].wickets + wicket;
+      }
     }
   }
   let max = 0;
@@ -50,7 +54,7 @@ function mostExpensiveBowlerSpell() {
     let obj = {};
     for (let match in result[bowler]) {
       if (result[bowler][match].total_runs == max) {
-        console.log(bowler);
+        // console.log(bowler);
         obj = {
           bowler: bowler,
           total_runs: max,

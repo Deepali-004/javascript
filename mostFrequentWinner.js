@@ -5,10 +5,7 @@ function mostFrequentWinner() {
   let result = {};
   for (let i = 0; i < matches.length; i++) {
     let match = matches[i];
-    let winner = match.winner;
-    let team1 = match.team1;
-    let team2 = match.team2;
-    let id = match.id;
+    let { winner, team1, team2, id } = match;
     let loser;
     if (winner === "NA") continue;
     if (winner == team1) {
@@ -34,7 +31,8 @@ function mostFrequentWinner() {
     let topTeams = [];
     for (let i = 0; i < arr.length; i++) {
       if (arr[i][1] == max) {
-        topTeams.push(arr[i][0], arr[i][1]);
+        topTeams.push({ team: arr[i][0], count: arr[i][1] });
+        // topTeams.push(arr[i][0], arr[i][1]);
       }
     }
     result[loser] = topTeams;

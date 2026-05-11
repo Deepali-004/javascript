@@ -7,12 +7,11 @@ function noOfWins() {
     let winnerr = matches[i]["winner"];
     if (!result[year]) {
       result[year] = {};
+    }
+    if (!result[year][winnerr]) {
+      result[year][winnerr] = 1;
     } else {
-      if (!result[year][winnerr]) {
-        result[year][winnerr] = 1;
-      } else {
-        result[year][winnerr]++;
-      }
+      result[year][winnerr]++;
     }
   }
   return result;

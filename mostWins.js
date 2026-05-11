@@ -48,16 +48,12 @@ function mostWins() {
       team: maxTeam,
       wins: max,
     };
-    console.log(maxTeam, season, max);
-    finalOutput[season] = { maxTeam: maxTeam, max:max };
+    // console.log(maxTeam, season, max);
+    finalOutput[season] = { maxTeam: maxTeam, max: max };
     // console.log(max);
     // for (let team in winnerArray[season]) {
     //   console.log(team, winnerArray[season][team]);
     // }
-  }
-  let mostWins = 1;
-  for (let i = 0; i < winnerArray.length; i++) {
-    console.log(winnerArray[i]);
   }
   return finalOutput;
 }

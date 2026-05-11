@@ -46,9 +46,8 @@ function betterAwayPerfomance() {
 
       "Gujarat Titans": ["Narendra Modi Stadium"],
     };
-    let match = matches[i];
-    let venue = match.venue;
-    let winner = match.winner;
+    const match = matches[i];
+    const { venue, winner } = match;
     if (winner == "NA") continue;
     if (!result[winner]) {
       result[winner] = { awayWins: 0, homeWins: 0 };

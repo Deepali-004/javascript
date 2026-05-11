@@ -21,8 +21,12 @@ function strikeRateOfEachBatter() {
     }
   }
   for (let batter in result) {
-    let strike = (result[batter].runs / result[batter].balls) * 100;
-    result[batter].strike_rate = strike;
+    if (result[batter].balls > 0) {
+      let strike = (result[batter].runs / result[batter].balls) * 100;
+      result[batter].strike_rate = strike;
+    } else {
+      result[batter].strike_rate = 0;
+    }
   }
   return result;
 }

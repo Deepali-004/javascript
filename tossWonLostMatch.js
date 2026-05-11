@@ -42,7 +42,8 @@ function tossWonLostMatch() {
   }
   //   console.log(count);
   //   console.log(result);
-  return (count, result);
+  let final = { count: count, matches: result };
+  return final;
 }
 console.log(tossWonLostMatch());
 const tossWonLostMatchOutput = tossWonLostMatch();

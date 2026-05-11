@@ -57,7 +57,7 @@ function firstMatch() {
     result[season] = firstMatchValue;
   }
   console.log(result);
-  return seasonGroup;
+  return result;
 }
 console.log(firstMatch());
 let firstMatchOutput = firstMatch();

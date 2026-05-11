@@ -7,13 +7,11 @@ function tossWonCount() {
     let team = matches[i]["toss_winner"];
     if (!result[year]) {
       result[year] = {};
-    } else {
-      if (!result[year][team]) {
-        result[year][team] = 1;
-      } else {
-        result[year][team]++;
-      }
     }
+    if (!result[year][team]) {
+      result[year][team] = 0;
+    }
+    result[year][team]++;
   }
   return result;
 }

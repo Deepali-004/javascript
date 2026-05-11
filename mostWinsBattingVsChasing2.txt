@@ -1,10 +1,10 @@
 {
   "bat": [
-    "Chennai Super Kings",
-    35
+    "Mumbai Indians",
+    72
   ],
   "field": [
-    "Mumbai Indians",
-    48
+    "Kolkata Knight Riders",
+    78
   ]
 }

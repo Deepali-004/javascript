@@ -23,9 +23,9 @@ function venueMaxMatch() {
         result[season][venue]++;
       }
     }
-    for (let season in result) {
-      result2[season] = Object.entries(result[season]);
-    }
+  }
+  for (let season in result) {
+    result2[season] = Object.entries(result[season]);
   }
   for (let season in result2) {
     // console.log(result2[season]);
@@ -34,7 +34,7 @@ function venueMaxMatch() {
     // result2[season] = result2[season][0];
     // console.log(result2[season][0]);
     // console.log(result2[season]);
-    max = arr[0][1];
+    let max = arr[0][1];
     maxVenues = arr.filter((item) => item[1] === max);
     // console.log(season, max);
     finalOutput[season] = maxVenues;

@@ -44,7 +44,12 @@ function rivalry() {
     let winsTeam1 = match[1].wins[team1];
     let winsTeam2 = match[1].wins[team2];
     let matches = match[1].matches;
-    let diff = winsTeam1 / matches;
+    let diff = 0;
+    if (matches > 0) {
+      diff = winsTeam1 / matches;
+    } else {
+      diff = 0;
+    }
     if (diff > 0.4 && diff < 0.6) {
       match[1].winDifference = Math.abs(winsTeam1 - winsTeam2);
       answer = match[1];

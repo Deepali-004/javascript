@@ -10,7 +10,7 @@ function specificTeam(teamname) {
       result[index] = matches[i];
       index++;
     }
-    console.log(result);
+    // console.log(result);
   }
   return result;
 }

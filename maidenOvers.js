@@ -18,24 +18,29 @@ function maidenOver() {
         result[match_id][inning] = {};
       }
       if (!result[match_id][inning][over]) {
-        result[match_id][inning][over] = 0;
+        result[match_id][inning][over] = { balls: 0, total_runs: 0 };
+      }
+      if (extras_type != "wides" && extras_type != "noballs") {
+        result[match_id][inning][over].balls++;
       }
       if (extras_type != "byes" && extras_type != "legbyes") {
-        result[match_id][inning][over] =
-          result[match_id][inning][over] + total_runs;
+        result[match_id][inning][over].total_runs =
+          result[match_id][inning][over].total_runs + total_runs;
       }
     }
   }
   for (let id in result) {
     for (let inning in result[id]) {
       for (let over in result[id][inning]) {
-        if (result[id][inning][over] == 0) {
-          output++;
+        if (result[id][inning][over].balls == 6) {
+          if (result[id][inning][over].total_runs == 0) {
+            output++;
+          }
         }
       }
     }
   }
-  return output;
+  return result;
 }
 console.log(maidenOver());
 const maidenOverOutput = maidenOver();

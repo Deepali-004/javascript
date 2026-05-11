@@ -1,5 +1,6 @@
 //longest winning streak
 const matches = require("./matches.json");
+matches.sort((a, b) => new Date(a.date) - new Date(b.date));
 function longestWinningStreak() {
   let result = {};
   let final = {};

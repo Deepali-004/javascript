@@ -7,12 +7,15 @@ function totalWicketsByBowler() {
     let bowler = delivery.bowler;
     let wickets = Number(delivery.is_wicket);
     let inning = Number(delivery.inning);
+    let dismissal_kind = delivery.dismissal_kind;
     // console.log(wickets);
     if (!result[bowler]) {
       result[bowler] = 0;
     }
     if (inning == 1 || inning == 2) {
       result[bowler] = result[bowler] + wickets;
+      if (dismissal_kind != "run out") {
+      }
     }
   }
   //   console.log(result);

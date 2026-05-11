@@ -14,6 +14,7 @@ function winPercentage() {
     }
     newObject[team1].played += 1;
     newObject[team2].played += 1;
+    if (winner == "NA") continue;
     if (winner == team1) {
       newObject[team1].wins += 1;
     } else {

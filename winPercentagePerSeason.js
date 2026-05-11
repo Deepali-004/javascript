@@ -82,9 +82,13 @@ function winPercentagePerSeason() {
       if (!finalResult[season][team]) {
         finalResult[season][team] = { played: 0, won: 0, winPercentage: 0 };
       }
-      let winPercentage =
-        (result[season][team].won / result[season][team].played) * 100;
-      //
+      let winPercentage = 0;
+      if (result[season][team].played > 0) {
+        winPercentage =
+          (result[season][team].won / result[season][team].played) * 100;
+      } else {
+        winPercentage = 0;
+      }
       //  console.log(winPercentage);
       finalResult[season][team].played = result[season][team].played;
       finalResult[season][team].won = result[season][team].won;

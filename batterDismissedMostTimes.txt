@@ -1,4 +1,6 @@
-{
-  "player": "RG Sharma",
-  "dismissedTimes": 223
-}
+[
+  {
+    "player": "RG Sharma",
+    "dismissedTimes": 223
+  }
+]
