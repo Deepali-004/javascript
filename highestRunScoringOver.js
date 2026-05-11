@@ -43,20 +43,33 @@ function highestRunScoringOver() {
     for (let inning in result[matchId]) {
       for (let over in result[matchId][inning]) {
         if (result[matchId][inning][over] == max) {
-          for (let i = 0; i < matches.length; i++) {
-            let match = matches[i];
-            if (match.id == matchId) {
-              obj = {
-                matchId: match.id,
-                season: match.season,
-                team1: match.team1,
-                team2: match.team2,
-                inning: inning,
-                over: over,
-                maxRuns: max,
-              };
-              output.push(obj);
-            }
+          // for (let i = 0; i < matches.length; i++) {
+          //   let match = matches[i];
+          //   if (match.id == matchId) {
+          //     obj = {
+          //       matchId: match.id,
+          //       season: match.season,
+          //       team1: match.team1,
+          //       team2: match.team2,
+          //       inning: inning,
+          //       over: over,
+          //       maxRuns: max,
+          //     };
+          //     output.push(obj);
+          //   }
+          // }
+          let match = matches.find((m) => m.id == matchId);
+          if (match) {
+            obj = {
+              matchId: match.id,
+              season: match.season,
+              team1: match.team1,
+              team2: match.team2,
+              inning: inning,
+              over: over,
+              maxRuns: max,
+            };
+            output.push(obj);
           }
         }
       }
