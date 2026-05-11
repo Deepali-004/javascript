@@ -3,15 +3,18 @@ const deliveries = require("./deliveries.json");
 function batterBowlerRivalry() {
   let result = {};
   for (let i = 0; i < deliveries.length; i++) {
-    let delivery = deliveries[i];
-    let inning = Number(delivery.inning);
-    let batter = delivery.batter;
-    let bowler = delivery.bowler;
-    let batsman_runs = Number(delivery.batsman_runs);
-    let total_runs = Number(delivery.total_runs);
-    let extras_type = delivery.extras_type;
-    let wicket = Number(delivery.is_wicket);
-    let player_dismissed = delivery.player_dismissed;
+    const delivery = deliveries[i];
+    const {
+      inning,
+      batter,
+      bowler,
+      batsman_runs,
+      total_runs,
+      extras_type,
+      is_wicket,
+      player_dismissed,
+    } = delivery;
+
     let pair = [batter, bowler].sort().join("-");
     if (!result[pair]) {
       result[pair] = {
@@ -26,16 +29,16 @@ function batterBowlerRivalry() {
         batterStrikeRate: 0,
       };
     }
-    if (inning == 1 || inning == 2) {
+    if (Number(inning) == 1 || Number(inning) == 2) {
       if (extras_type != "wides") {
         result[pair].batterBalls++;
       }
       if (extras_type != "wides" && extras_type != "noballs") {
         result[pair].legalBalls++;
       }
-      result[pair].batterRuns = result[pair].batterRuns + batsman_runs;
+      result[pair].batterRuns = result[pair].batterRuns + Number(batsman_runs);
       if (extras_type != "byes" && extras_type != "legbyes") {
-        result[pair].bowlerRuns = result[pair].bowlerRuns + total_runs;
+        result[pair].bowlerRuns = result[pair].bowlerRuns + Number(total_runs);
       }
       if (result[pair].batter == player_dismissed) {
         result[pair].batterWickets++;
@@ -47,19 +50,17 @@ function batterBowlerRivalry() {
   }
   for (let pair in result) {
     result[pair].batterStrikeRate =
-      (result[pair].batterRuns / result[pair].legalBalls) * 100;
+      (result[pair].batterRuns / result[pair].batterBalls) * 100;
   }
   let output = [];
   let sorted = Object.values(result).sort(
     (a, b) => b.batterStrikeRate - a.batterStrikeRate,
   );
-  // Code Suggestions: Logical slip. You carefully prepared a 'sorted' array, but the subsequent loop filters through the original unordered 'result' map instead! Iterating 'result' ignores our careful rank sorting. We should loop through 'sorted'.
-  for (let pair in result) {
-    if (
-      result[pair].batterStrikeRate > 120 &&
-      result[pair].batterWickets >= 4
-    ) {
-      output.push(result[pair]);
+  //   console.log(sorted);
+  for (let i = 0; i < sorted.length; i++) {
+    let pair = sorted[i];
+    if (pair.batterStrikeRate > 120 && pair.batterWickets >= 4) {
+      output.push(pair);
     }
   }
   return output.slice(0, 10);
