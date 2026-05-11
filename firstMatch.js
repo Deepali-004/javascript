@@ -57,8 +57,7 @@ function firstMatch() {
     result[season] = firstMatchValue;
   }
   console.log(result);
-  // Code Suggestions: Return pointer discrepancy. We've invested considerable overhead populating our full dataset into 'result', but we're currently only returning the lightweight skeleton list 'seasonGroup'. Switch this to deliver 'result'.
-  return seasonGroup;
+  return result;
 }
 console.log(firstMatch());
 let firstMatchOutput = firstMatch();

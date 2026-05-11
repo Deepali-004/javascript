@@ -45,7 +45,6 @@ function highestRunScoringOver() {
         if (result[matchId][inning][over] == max) {
           for (let i = 0; i < matches.length; i++) {
             let match = matches[i];
-            // Code Suggestions: Catastrophic O(N) Nested Search. Running a linear scan through 'matches' inside multiple nested loops creates extreme latency. We should Index the match data by ID first so lookups here become instant.
             if (match.id == matchId) {
               obj = {
                 matchId: match.id,
@@ -67,7 +66,6 @@ function highestRunScoringOver() {
   return output;
 }
 highestRunScoringOver();
-// Code Suggestions: Operational Redundancy. Calling this massive heavy-parsing function twice consecutive effectively doubles our IO and processing time without any gain. Just call it once and store it.
 const highestRunScoringOverOutput = highestRunScoringOver();
 const formattedData = JSON.stringify(highestRunScoringOverOutput, null, 2);
 const fs = require("fs");

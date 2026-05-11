@@ -17,22 +17,26 @@ function dominantSeason() {
     }
     result[season][winner]++;
   }
-  let output = {};
+  let output = [];
+  let max = 0;
   //   console.log(Object.values(result));
   for (let season in result) {
-    // console.log(Object.values(result));
-    let max = Math.max(...Object.values(result[season]));
+    for (let team in result[season]) {
+      if (result[season][team] > max) {
+        max = result[season][team];
+      }
+      // console.log(team, season);
+    }
+  }
+  for (let season in result) {
     for (let team in result[season]) {
       if (result[season][team] == max) {
-        // console.log(team, season);
-        // Code Suggestions: Note that this assignment happens inside the season loop without checking against past winners. The current values overwrite previous highs, resulting in output only holding the final season processed. We need a global variable comparison.
-        output.team = team;
-        output.season = season;
-        output.matchesWon = max;
+        let obj = { team: team, season: season, matchesWon: max };
+        output.push(obj);
       }
     }
-    // console.log(season);
   }
+  // console.log(season);
   //   console.log(output);
   return output;
 }
