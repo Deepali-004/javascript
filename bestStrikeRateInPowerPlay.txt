@@ -1,0 +1,6 @@
+{
+  "batter": "TM Head",
+  "powerplay_strike_rate": 179.19254658385094,
+  "powerlay_runs": 577,
+  "powerplay_balls": 322
+}

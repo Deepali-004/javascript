@@ -1,0 +1,7 @@
+{
+  "batter": "V Kohli",
+  "total_runs": 8014,
+  "boundaries": 981,
+  "boundary_runs": 4470,
+  "non_boundary_runs": 3544
+}

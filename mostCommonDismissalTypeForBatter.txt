@@ -1,0 +1,2518 @@
+{
+  "SC Ganguly": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 37
+  },
+  "RT Ponting": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 5
+  },
+  "DJ Hussey": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 32
+  },
+  "R Dravid": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 47
+  },
+  "V Kohli": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 138
+  },
+  "JH Kallis": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 60
+  },
+  "W Jaffer": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 7
+  },
+  "MV Boucher": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 8
+  },
+  "B Akhil": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 3
+  },
+  "CL White": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 22
+  },
+  "AA Noffke": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 1
+  },
+  "Z Khan": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 6
+  },
+  "SB Joshi": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 1
+  },
+  "PA Patel": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 71
+  },
+  "ML Hayden": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 17
+  },
+  "MS Dhoni": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 92
+  },
+  "SK Raina": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 116
+  },
+  "JDP Oram": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 5
+  },
+  "K Goel": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 7
+  },
+  "JR Hopes": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 13
+  },
+  "Yuvraj Singh": {
+    "dismissalKind": "hit wicket",
+    "dismissedTimes": 84
+  },
+  "KC Sangakkara": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 40
+  },
+  "T Kohli": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 2
+  },
+  "YK Pathan": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 76
+  },
+  "SR Watson": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 70
+  },
+  "DS Lehmann": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 2
+  },
+  "M Kaif": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 9
+  },
+  "M Rawat": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 3
+  },
+  "RA Jadeja": {
+    "dismissalKind": "obstructing the field",
+    "dismissedTimes": 70
+  },
+  "SK Warne": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 6
+  },
+  "V Sehwag": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 70
+  },
+  "L Ronchi": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 3
+  },
+  "DJ Thornely": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 1
+  },
+  "ST Jayasuriya": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 19
+  },
+  "PR Shah": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 6
+  },
+  "RV Uthappa": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 124
+  },
+  "AM Nayar": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 21
+  },
+  "SM Pollock": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 4
+  },
+  "S Chanderpaul": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 3
+  },
+  "LRPL Taylor": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 24
+  },
+  "Y Venugopal Rao": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 24
+  },
+  "VVS Laxman": {
+    "dismissalKind": "retired hurt",
+    "dismissedTimes": 9
+  },
+  "AC Gilchrist": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 53
+  },
+  "RG Sharma": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 157
+  },
+  "SB Styris": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 4
+  },
+  "AS Yadav": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 4
+  },
+  "A Symonds": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 14
+  },
+  "WPUJC Vaas": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 4
+  },
+  "SB Bangar": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 5
+  },
+  "PP Ojha": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 5
+  },
+  "BB McCullum": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 62
+  },
+  "WP Saha": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 73
+  },
+  "Mohammad Hafeez": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 6
+  },
+  "DPMD Jayawardene": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 39
+  },
+  "IK Pathan": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 31
+  },
+  "B Lee": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 6
+  },
+  "S Sohal": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 12
+  },
+  "Kamran Akmal": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 3
+  },
+  "Shahid Afridi": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 7
+  },
+  "G Gambhir": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 80
+  },
+  "MEK Hussey": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 29
+  },
+  "DJ Bravo": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 44
+  },
+  "MA Khote": {
+    "dismissalKind": "hit wicket",
+    "dismissedTimes": 1
+  },
+  "Harbhajan Singh": {
+    "dismissalKind": "retired hurt",
+    "dismissedTimes": 33
+  },
+  "GC Smith": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 20
+  },
+  "D Salunkhe": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 1
+  },
+  "RR Sarwan": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 2
+  },
+  "PP Chawla": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 32
+  },
+  "S Sreesanth": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 1
+  },
+  "VRV Singh": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "SS Tiwary": {
+    "dismissalKind": "hit wicket",
+    "dismissedTimes": 36
+  },
+  "P Kumar": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 15
+  },
+  "AB Agarkar": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 6
+  },
+  "M Kartik": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 2
+  },
+  "LR Shukla": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 16
+  },
+  "AM Rahane": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 96
+  },
+  "S Dhawan": {
+    "dismissalKind": "retired hurt",
+    "dismissedTimes": 112
+  },
+  "Shoaib Malik": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 3
+  },
+  "KD Karthik": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 118
+  },
+  "R Bhatia": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 17
+  },
+  "MK Tiwary": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 30
+  },
+  "MF Maharoof": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 4
+  },
+  "SM Katich": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 6
+  },
+  "TM Srivastava": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "B Chipli": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 10
+  },
+  "DW Steyn": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 8
+  },
+  "DB Das": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 4
+  },
+  "MK Pandey": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 78
+  },
+  "HH Gibbs": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 16
+  },
+  "DNT Zoysa": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "D Kalyankrishna": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "SA Asnodkar": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 11
+  },
+  "Salman Butt": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 4
+  },
+  "BJ Hodge": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 23
+  },
+  "Umar Gul": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "AB Dinda": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 4
+  },
+  "SP Fleming": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 5
+  },
+  "S Vidyut": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 8
+  },
+  "JA Morkel": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 25
+  },
+  "LPC Silva": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "DB Ravi Teja": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 9
+  },
+  "RP Singh": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 5
+  },
+  "Misbah-ul-Haq": {
+    "dismissalKind": "hit wicket",
+    "dismissedTimes": 4
+  },
+  "SE Marsh": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 35
+  },
+  "YV Takawale": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 4
+  },
+  "AB de Villiers": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 78
+  },
+  "PJ Sangwan": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 3
+  },
+  "Mohammad Asif": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 1
+  },
+  "GD McGrath": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "S Badrinath": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 31
+  },
+  "Joginder Sharma": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 1
+  },
+  "M Muralitharan": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "M Ntini": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "DT Patil": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "A Kumble": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "S Anirudha": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 4
+  },
+  "Sohail Tanvir": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "SK Trivedi": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 4
+  },
+  "CK Kapugedera": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 3
+  },
+  "A Chopra": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 2
+  },
+  "T Taibu": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 2
+  },
+  "J Arunkumar": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "SP Goswami": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 15
+  },
+  "R Vinay Kumar": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 13
+  },
+  "A Mishra": {
+    "dismissalKind": "obstructing the field",
+    "dismissedTimes": 10
+  },
+  "AD Mascarenhas": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 4
+  },
+  "TM Dilshan": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 24
+  },
+  "VY Mahesh": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "SR Tendulkar": {
+    "dismissalKind": "retired hurt",
+    "dismissedTimes": 36
+  },
+  "Younis Khan": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "NK Patel": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "I Sharma": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "Shoaib Akhtar": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "H Das": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 1
+  },
+  "DR Smith": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 48
+  },
+  "SD Chitnis": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 6
+  },
+  "A Nehra": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 5
+  },
+  "VS Yeligati": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 1
+  },
+  "MS Gony": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 4
+  },
+  "L Balaji": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 3
+  },
+  "LA Pomersbach": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 5
+  },
+  "A Nel": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 1
+  },
+  "A Mukund": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 2
+  },
+  "WA Mota": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 3
+  },
+  "JP Duminy": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 30
+  },
+  "A Flintoff": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "JD Ryder": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 17
+  },
+  "KP Pietersen": {
+    "dismissalKind": "retired hurt",
+    "dismissedTimes": 12
+  },
+  "T Henderson": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 1
+  },
+  "MM Patel": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 2
+  },
+  "Kamran Khan": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "RS Bopara": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 13
+  },
+  "CH Gayle": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 82
+  },
+  "MC Henriques": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 20
+  },
+  "R Bishnoi": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 2
+  },
+  "KV Sharma": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 18
+  },
+  "PC Valthaty": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 18
+  },
+  "RJ Quiney": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 4
+  },
+  "Yashpal Singh": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 4
+  },
+  "Pankaj Singh": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "FH Edwards": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "AS Raut": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 3
+  },
+  "AN Ghosh": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "BAW Mendis": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 1
+  },
+  "DL Vettori": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 4
+  },
+  "RE van der Merwe": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 5
+  },
+  "RR Powar": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 2
+  },
+  "AA Bilakhia": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 2
+  },
+  "TL Suman": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 22
+  },
+  "Shoaib Ahmed": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "GR Napier": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "MN van Wyk": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 2
+  },
+  "NV Ojha": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 54
+  },
+  "LA Carseldine": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 2
+  },
+  "M Vijay": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 52
+  },
+  "SB Jakati": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "DA Warner": {
+    "dismissalKind": "hit wicket",
+    "dismissedTimes": 105
+  },
+  "M Manhas": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 14
+  },
+  "RJ Harris": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 9
+  },
+  "D du Preez": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "RR Raje": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "DS Kulkarni": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 4
+  },
+  "M Morkel": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 6
+  },
+  "AD Mathews": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 20
+  },
+  "S Tyagi": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 1
+  },
+  "C Nanda": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 1
+  },
+  "SL Malinga": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 6
+  },
+  "J Botha": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 9
+  },
+  "A Singh": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 2
+  },
+  "GJ Bailey": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 16
+  },
+  "AB McDonald": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 3
+  },
+  "Y Nagar": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 8
+  },
+  "SS Shaikh": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 1
+  },
+  "R Ashwin": {
+    "dismissalKind": "retired out",
+    "dismissedTimes": 39
+  },
+  "T Thushara": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "Mohammad Ashraful": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "CA Pujara": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 12
+  },
+  "Anirudh Singh": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 2
+  },
+  "AP Tare": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 17
+  },
+  "AT Rayudu": {
+    "dismissalKind": "retired hurt",
+    "dismissedTimes": 92
+  },
+  "R Sathish": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 9
+  },
+  "AA Jhunjhunwala": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 8
+  },
+  "P Dogra": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 4
+  },
+  "A Uniyal": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "MS Bisla": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 18
+  },
+  "EJG Morgan": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 42
+  },
+  "JM Kemp": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "OA Shah": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 5
+  },
+  "RS Gavaskar": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "SE Bond": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "KA Pollard": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 86
+  },
+  "DP Nannes": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "MJ Lumb": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 6
+  },
+  "DR Martyn": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "S Narwal": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 3
+  },
+  "AB Barath": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 1
+  },
+  "FY Fazal": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 4
+  },
+  "MD Mishra": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 7
+  },
+  "S Ladda": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 1
+  },
+  "J Theron": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "SJ Srivastava": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "R Sharma": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 6
+  },
+  "Mandeep Singh": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 52
+  },
+  "AC Voges": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 4
+  },
+  "Jaskaran Singh": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "KAJ Roach": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "PD Collingwood": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 2
+  },
+  "CK Langeveldt": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 2
+  },
+  "VS Malik": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "KM Jadhav": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 30
+  },
+  "SW Tait": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 2
+  },
+  "A Mithun": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 4
+  },
+  "AP Dole": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "Harmeet Singh": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "R McLaren": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 2
+  },
+  "S Sriram": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "KP Appanna": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 1
+  },
+  "C Madan": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "AG Paunikar": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 3
+  },
+  "MR Marsh": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 20
+  },
+  "AJ Finch": {
+    "dismissalKind": "retired hurt",
+    "dismissedTimes": 44
+  },
+  "STR Binny": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 27
+  },
+  "B Sumanth": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "IR Jaggi": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 4
+  },
+  "DT Christian": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 17
+  },
+  "RV Gomez": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 3
+  },
+  "MA Agarwal": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 81
+  },
+  "UBT Chand": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 13
+  },
+  "UT Yadav": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 9
+  },
+  "DJ Jacobs": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 6
+  },
+  "Sunny Singh": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 3
+  },
+  "AL Menaria": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 15
+  },
+  "AUK Pathan": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "WD Parnell": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 5
+  },
+  "JJ van der Wath": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 1
+  },
+  "R Ninan": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "MS Wade": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 6
+  },
+  "TD Paine": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "SB Wagh": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 1
+  },
+  "JEC Franklin": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 10
+  },
+  "Shakib Al Hasan": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 23
+  },
+  "S Randiv": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "BJ Haddin": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "NLTC Perera": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 17
+  },
+  "JE Taylor": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 1
+  },
+  "NL McCullum": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "RN ten Doeschate": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 6
+  },
+  "TR Birt": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 4
+  },
+  "M Klinger": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 2
+  },
+  "Harpreet Singh": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 2
+  },
+  "Bipul Sharma": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 4
+  },
+  "AC Blizzard": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 6
+  },
+  "CA Ingram": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 7
+  },
+  "S Nadeem": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 6
+  },
+  "DH Yagnik": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 4
+  },
+  "KB Arun Karthik": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 2
+  },
+  "AA Chavan": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "ND Doshi": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "CJ Ferguson": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "Y Gnaneswara Rao": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 1
+  },
+  "S Rana": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 3
+  },
+  "BA Bhatt": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 1
+  },
+  "F du Plessis": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 88
+  },
+  "DE Bollinger": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "RE Levi": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 4
+  },
+  "MN Samuels": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 5
+  },
+  "B Kumar": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 17
+  },
+  "SPD Smith": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 45
+  },
+  "SA Yadav": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 86
+  },
+  "HV Patel": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 14
+  },
+  "GJ Maxwell": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 75
+  },
+  "DJ Harris": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 3
+  },
+  "Ankit Sharma": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 7
+  },
+  "SP Narine": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 59
+  },
+  "JP Faulkner": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 18
+  },
+  "KK Cooper": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 7
+  },
+  "GB Hogg": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 2
+  },
+  "RR Bhatkal": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "CJ McKay": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "N Saini": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 5
+  },
+  "DA Miller": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 50
+  },
+  "P Negi": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 15
+  },
+  "Azhar Mahmood": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 9
+  },
+  "AC Thomas": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "RJ Peterson": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "A Ashish Reddy": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 8
+  },
+  "V Pratap Singh": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "MJ Clarke": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 2
+  },
+  "Gurkeerat Singh": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 12
+  },
+  "VR Aaron": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "AP Majumdar": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 1
+  },
+  "PA Reddy": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 6
+  },
+  "AD Russell": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 57
+  },
+  "CA Lynn": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 21
+  },
+  "Sunny Gupta": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 1
+  },
+  "MC Juneja": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 5
+  },
+  "KK Nair": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 39
+  },
+  "GH Vihari": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 17
+  },
+  "MDKJ Perera": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 1
+  },
+  "B Laughlin": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "Mohammed Shami": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 8
+  },
+  "BMAJ Mendis": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "M Vohra": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 26
+  },
+  "R Rampaul": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 4
+  },
+  "P Awana": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "SMSM Senanayake": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 1
+  },
+  "BJ Rohrer": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 4
+  },
+  "KL Rahul": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 75
+  },
+  "J Syed Mohammad": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "Q de Kock": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 73
+  },
+  "BB Samantray": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 2
+  },
+  "R Dhawan": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 3
+  },
+  "MG Johnson": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 6
+  },
+  "LJ Wright": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 4
+  },
+  "AG Murtaza": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 1
+  },
+  "IC Pandey": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "X Thalaivan Sargunam": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 1
+  },
+  "DJG Sammy": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 10
+  },
+  "SV Samson": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 99
+  },
+  "KW Richardson": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 2
+  },
+  "CH Morris": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 15
+  },
+  "MM Sharma": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 10
+  },
+  "CM Gautam": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 7
+  },
+  "UA Birla": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "Parvez Rasool": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "Sachin Baby": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 6
+  },
+  "NM Coulter-Nile": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 6
+  },
+  "CJ Anderson": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 11
+  },
+  "NJ Maddinson": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 2
+  },
+  "AR Patel": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 46
+  },
+  "JDS Neesham": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 7
+  },
+  "TG Southee": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 7
+  },
+  "PV Tambe": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "MA Starc": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 5
+  },
+  "BR Dunk": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "RR Rossouw": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 11
+  },
+  "Shivam Sharma": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "LMP Simmons": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 16
+  },
+  "VH Zol": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "BCJ Cutting": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 6
+  },
+  "Imran Tahir": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 2
+  },
+  "R Shukla": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "BE Hendricks": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "M de Lange": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "S Gopal": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 10
+  },
+  "R Tewatia": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 28
+  },
+  "JO Holder": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 18
+  },
+  "JD Unadkat": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 8
+  },
+  "SS Iyer": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 69
+  },
+  "DJ Hooda": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 47
+  },
+  "SA Abbott": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "AN Ahmed": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "KS Williamson": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 40
+  },
+  "Iqbal Abdulla": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "SN Khan": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 21
+  },
+  "D Wiese": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 4
+  },
+  "HH Pandya": {
+    "dismissalKind": "hit wicket",
+    "dismissedTimes": 70
+  },
+  "MJ McClenaghan": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 6
+  },
+  "Anureet Singh": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 3
+  },
+  "DJ Muthuswami": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 1
+  },
+  "PJ Cummins": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 19
+  },
+  "Karanveer Singh": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "Sandeep Sharma": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 3
+  },
+  "J Suchith": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 2
+  },
+  "JC Buttler": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 54
+  },
+  "CR Brathwaite": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 9
+  },
+  "MP Stoinis": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 46
+  },
+  "Ishan Kishan": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 70
+  },
+  "C Munro": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 5
+  },
+  "AD Nath": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 8
+  },
+  "MJ Guptill": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 10
+  },
+  "P Sahu": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 1
+  },
+  "TM Head": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 14
+  },
+  "M Ashwin": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 5
+  },
+  "KH Pandya": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 52
+  },
+  "NS Naik": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 2
+  },
+  "RR Pant": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 65
+  },
+  "SW Billings": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 19
+  },
+  "KC Cariappa": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 3
+  },
+  "PSP Handscomb": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "Swapnil Singh": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 3
+  },
+  "J Yadav": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "UT Khawaja": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 3
+  },
+  "HM Amla": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 8
+  },
+  "JJ Bumrah": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 4
+  },
+  "A Zampa": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 2
+  },
+  "N Rana": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 74
+  },
+  "S Kaushik": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "F Behardien": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "KJ Abbott": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "ER Dwivedi": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "CJ Jordan": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 6
+  },
+  "S Aravind": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 1
+  },
+  "TS Mills": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 3
+  },
+  "YS Chahal": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 4
+  },
+  "BA Stokes": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 21
+  },
+  "JJ Roy": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 12
+  },
+  "Vishnu Vinod": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 4
+  },
+  "CR Woakes": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 4
+  },
+  "RA Tripathi": {
+    "dismissalKind": "retired hurt",
+    "dismissedTimes": 60
+  },
+  "DL Chahar": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 5
+  },
+  "V Shankar": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 33
+  },
+  "Rashid Khan": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 21
+  },
+  "SN Thakur": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 16
+  },
+  "C de Grandhomme": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 9
+  },
+  "S Badree": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 3
+  },
+  "AF Milne": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "Mohammad Nabi": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 10
+  },
+  "K Rabada": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 8
+  },
+  "AJ Tye": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 5
+  },
+  "Kuldeep Yadav": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 5
+  },
+  "SP Jackson": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 4
+  },
+  "Ankit Soni": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 2
+  },
+  "A Choudhary": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "AS Rajpoot": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "Washington Sundar": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 19
+  },
+  "E Lewis": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 17
+  },
+  "MA Wood": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "RK Singh": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 24
+  },
+  "DJM Short": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 4
+  },
+  "K Gowtham": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 14
+  },
+  "S Kaul": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "Mujeeb Ur Rahman": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 2
+  },
+  "Shubman Gill": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 55
+  },
+  "Shivam Mavi": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 5
+  },
+  "TK Curran": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 4
+  },
+  "TA Boult": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 3
+  },
+  "H Klaasen": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 17
+  },
+  "RK Bhui": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 4
+  },
+  "JC Archer": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 9
+  },
+  "PP Shaw": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 54
+  },
+  "LE Plunkett": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "Basil Thampi": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "M Markande": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "Mustafizur Rahman": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "BB Sran": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 1
+  },
+  "AD Hales": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 3
+  },
+  "MK Lomror": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 21
+  },
+  "Mohammed Siraj": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 6
+  },
+  "DR Shorey": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "MM Ali": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 33
+  },
+  "P Chopra": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "IS Sodhi": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "Abhishek Sharma": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 44
+  },
+  "JPR Scantlebury-Searles": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "SO Hetmyer": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 28
+  },
+  "S Dube": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 35
+  },
+  "Navdeep Saini": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 3
+  },
+  "JM Bairstow": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 27
+  },
+  "KMA Paul": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 2
+  },
+  "N Pooran": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 44
+  },
+  "P Ray Barman": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "SM Curran": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 20
+  },
+  "GC Viljoen": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "S Lamichhane": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "RD Chahar": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 10
+  },
+  "M Prasidh Krishna": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 2
+  },
+  "SD Lad": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "R Parag": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 35
+  },
+  "JL Denly": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "LS Livingstone": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 19
+  },
+  "KK Ahmed": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 3
+  },
+  "AJ Turner": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 2
+  },
+  "SE Rutherford": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 7
+  },
+  "MJ Santner": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 4
+  },
+  "P Simran Singh": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 24
+  },
+  "JL Pattinson": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "T Banton": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "D Padikkal": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 37
+  },
+  "YBK Jaiswal": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 36
+  },
+  "RD Gaikwad": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 45
+  },
+  "TU Deshpande": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "Abdul Samad": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 22
+  },
+  "PK Garg": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 11
+  },
+  "JR Philippe": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 2
+  },
+  "KL Nagarkoti": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 2
+  },
+  "CV Varun": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 3
+  },
+  "I Udana": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 3
+  },
+  "Ravi Bishnoi": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 4
+  },
+  "AT Carey": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "N Jagadeesan": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 7
+  },
+  "A Nortje": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 3
+  },
+  "Kartik Tyagi": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "SS Cottrell": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "Arshdeep Singh": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 3
+  },
+  "DR Sams": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 6
+  },
+  "M Jansen": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 5
+  },
+  "RM Patidar": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 19
+  },
+  "Shahbaz Ahmed": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 18
+  },
+  "KA Jamieson": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 3
+  },
+  "JA Richardson": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 2
+  },
+  "Lalit Yadav": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 7
+  },
+  "M Shahrukh Khan": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 14
+  },
+  "Virat Singh": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "FA Allen": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "C Sakariya": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 3
+  },
+  "DJ Malan": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "KS Bharat": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 7
+  },
+  "PWH de Silva": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 5
+  },
+  "GHS Garton": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "AK Markram": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 22
+  },
+  "Avesh Khan": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "VR Iyer": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 30
+  },
+  "GD Phillips": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 4
+  },
+  "TL Seifert": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "Anmolpreet Singh": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 6
+  },
+  "Anuj Rawat": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 9
+  },
+  "NT Ellis": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 3
+  },
+  "RV Patel": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 3
+  },
+  "TH David": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 16
+  },
+  "DP Conway": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 12
+  },
+  "Tilak Varma": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 17
+  },
+  "R Powell": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 10
+  },
+  "PBB Rajapaksa": {
+    "dismissalKind": "retired hurt",
+    "dismissedTimes": 9
+  },
+  "RA Bawa": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "A Badoni": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 18
+  },
+  "R Shepherd": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 2
+  },
+  "DJ Willey": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "D Pretorius": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "Harpreet Brar": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 5
+  },
+  "A Manohar": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 9
+  },
+  "JM Sharma": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 22
+  },
+  "OF Smith": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 2
+  },
+  "D Brevis": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 6
+  },
+  "VG Arora": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 2
+  },
+  "B Sai Sudharsan": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 15
+  },
+  "Ramandeep Singh": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 5
+  },
+  "Rasikh Salam": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 4
+  },
+  "HE van der Dussen": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "PVD Chameera": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "SS Prabhudessai": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 6
+  },
+  "Akash Deep": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 1
+  },
+  "Aman Hakim Khan": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 7
+  },
+  "AS Joseph": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "HR Shokeen": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 2
+  },
+  "LH Ferguson": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 2
+  },
+  "Yash Dayal": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 1
+  },
+  "DJ Mitchell": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 9
+  },
+  "B Indrajith": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 3
+  },
+  "Shashank Singh": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 8
+  },
+  "AS Roy": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 2
+  },
+  "Harshit Rana": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 2
+  },
+  "Umran Malik": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 1
+  },
+  "K Kartikeya": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "KS Sharma": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 2
+  },
+  "Mohsin Khan": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 1
+  },
+  "Simarjeet Singh": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 1
+  },
+  "M Theekshana": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "Mukesh Choudhary": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 1
+  },
+  "T Stubbs": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 6
+  },
+  "R Sanjay Yadav": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "A Tomar": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "OC McCoy": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 1
+  },
+  "Sikandar Raza": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 6
+  },
+  "Rahmanullah Gurbaz": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 10
+  },
+  "KR Mayers": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 9
+  },
+  "HC Brook": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 4
+  },
+  "AU Rashid": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "C Green": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 8
+  },
+  "N Wadhera": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 9
+  },
+  "Abishek Porel": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 10
+  },
+  "MG Bracewell": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 1
+  },
+  "Arshad Khan": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "MW Short": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 3
+  },
+  "YV Dhull": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 2
+  },
+  "Dhruv Jurel": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 10
+  },
+  "Yudhvir Singh": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 3
+  },
+  "Atharva Taide": {
+    "dismissalKind": "retired out",
+    "dismissedTimes": 4
+  },
+  "Liton Das": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "PD Salt": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 12
+  },
+  "Vijaykumar Vyshak": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "Arjun Tendulkar": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "Naveen-ul-Haq": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "Noor Ahmad": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "P Dubey": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "JE Root": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 1
+  },
+  "KM Asif": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "Sanvir Singh": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "PN Mankad": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 3
+  },
+  "Vivrant Sharma": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "MD Shanaka": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "DG Nalkande": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "R Ravindra": {
+    "dismissalKind": "caught and bowled",
+    "dismissedTimes": 5
+  },
+  "SD Hope": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 6
+  },
+  "Sumit Kumar": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "Azmatullah Omarzai": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 4
+  },
+  "Naman Dhir": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 3
+  },
+  "G Coetzee": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 2
+  },
+  "Sameer Rizvi": {
+    "dismissalKind": "stumped",
+    "dismissedTimes": 3
+  },
+  "Mayank Dagar": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 1
+  },
+  "A Raghuvanshi": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 6
+  },
+  "Ashutosh Sharma": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 6
+  },
+  "Saurav Chauhan": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 2
+  },
+  "Kumar Kushagra": {
+    "dismissalKind": "lbw",
+    "dismissedTimes": 2
+  },
+  "BR Sharath": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "Nithish Kumar Reddy": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 8
+  },
+  "WG Jacks": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 5
+  },
+  "J Fraser-McGurk": {
+    "dismissalKind": "run out",
+    "dismissedTimes": 8
+  },
+  "Tanush Kotian": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "KA Maharaj": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "Arshad Khan (2)": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "R Sai Kishore": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 1
+  },
+  "AA Kulkarni": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "MJ Suthar": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "Gulbadin Naib": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "SB Dubey": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 2
+  },
+  "D Ferreira": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "Mukesh Kumar": {
+    "dismissalKind": "caught",
+    "dismissedTimes": 1
+  },
+  "T Kohler-Cadmore": {
+    "dismissalKind": "bowled",
+    "dismissedTimes": 2
+  }
+}

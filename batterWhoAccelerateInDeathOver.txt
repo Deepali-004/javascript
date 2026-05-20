@@ -1,0 +1,3712 @@
+{
+  "SC Ganguly": [
+    {
+      "death_over_strike_rate": 180.3921568627451,
+      "death_over_runs": 184,
+      "death_over_balls": 102,
+      "non_death_over_strike_rate": 100.34632034632034,
+      "non_death_over_runs": 1159,
+      "non_death_over_balls": 1155
+    }
+  ],
+  "BB McCullum": [
+    {
+      "death_over_strike_rate": 186.31578947368422,
+      "death_over_runs": 177,
+      "death_over_balls": 95,
+      "non_death_over_strike_rate": 128.93596533461724,
+      "non_death_over_runs": 2678,
+      "non_death_over_balls": 2077
+    }
+  ],
+  "DJ Hussey": [
+    {
+      "death_over_strike_rate": 176.41921397379912,
+      "death_over_runs": 404,
+      "death_over_balls": 229,
+      "non_death_over_strike_rate": 108.4423305588585,
+      "non_death_over_runs": 912,
+      "non_death_over_balls": 841
+    }
+  ],
+  "Mohammad Hafeez": [
+    {
+      "death_over_strike_rate": 111.11111111111111,
+      "death_over_runs": 10,
+      "death_over_balls": 9,
+      "non_death_over_strike_rate": 72.97297297297297,
+      "non_death_over_runs": 54,
+      "non_death_over_balls": 74
+    }
+  ],
+  "R Dravid": [
+    {
+      "death_over_strike_rate": 168.0672268907563,
+      "death_over_runs": 200,
+      "death_over_balls": 119,
+      "non_death_over_strike_rate": 112.16600341102901,
+      "non_death_over_runs": 1973,
+      "non_death_over_balls": 1759
+    }
+  ],
+  "V Kohli": [
+    {
+      "death_over_strike_rate": 187.93324775353017,
+      "death_over_runs": 1464,
+      "death_over_balls": 779,
+      "non_death_over_strike_rate": 123.78511769172363,
+      "non_death_over_runs": 6521,
+      "non_death_over_balls": 5268
+    }
+  ],
+  "JH Kallis": [
+    {
+      "death_over_strike_rate": 172.80701754385964,
+      "death_over_runs": 394,
+      "death_over_balls": 228,
+      "non_death_over_strike_rate": 102.01511335012594,
+      "non_death_over_runs": 2025,
+      "non_death_over_balls": 1985
+    }
+  ],
+  "CL White": [
+    {
+      "death_over_strike_rate": 186.97916666666669,
+      "death_over_runs": 359,
+      "death_over_balls": 192,
+      "non_death_over_strike_rate": 104.64285714285715,
+      "non_death_over_runs": 586,
+      "non_death_over_balls": 560
+    }
+  ],
+  "MV Boucher": [
+    {
+      "death_over_strike_rate": 157.24137931034483,
+      "death_over_runs": 228,
+      "death_over_balls": 145,
+      "non_death_over_strike_rate": 98.14814814814815,
+      "non_death_over_runs": 159,
+      "non_death_over_balls": 162
+    }
+  ],
+  "B Akhil": [
+    {
+      "death_over_strike_rate": 144.11764705882354,
+      "death_over_runs": 49,
+      "death_over_balls": 34,
+      "non_death_over_strike_rate": 128.57142857142858,
+      "non_death_over_runs": 27,
+      "non_death_over_balls": 21
+    }
+  ],
+  "P Kumar": [
+    {
+      "death_over_strike_rate": 112.74131274131274,
+      "death_over_runs": 292,
+      "death_over_balls": 259,
+      "non_death_over_strike_rate": 86.79245283018868,
+      "non_death_over_runs": 46,
+      "non_death_over_balls": 53
+    }
+  ],
+  "Z Khan": [
+    {
+      "death_over_strike_rate": 99.07407407407408,
+      "death_over_runs": 107,
+      "death_over_balls": 108,
+      "non_death_over_strike_rate": 28.125,
+      "non_death_over_runs": 9,
+      "non_death_over_balls": 32
+    }
+  ],
+  "PA Patel": [
+    {
+      "death_over_strike_rate": 133.80281690140845,
+      "death_over_runs": 95,
+      "death_over_balls": 71,
+      "non_death_over_strike_rate": 120.4914436156209,
+      "non_death_over_runs": 2746,
+      "non_death_over_balls": 2279
+    }
+  ],
+  "ML Hayden": [
+    {
+      "death_over_strike_rate": 187.75510204081633,
+      "death_over_runs": 92,
+      "death_over_balls": 49,
+      "non_death_over_strike_rate": 134.04539385847798,
+      "non_death_over_runs": 1004,
+      "non_death_over_balls": 749
+    }
+  ],
+  "MEK Hussey": [
+    {
+      "death_over_strike_rate": 191.91176470588235,
+      "death_over_runs": 261,
+      "death_over_balls": 136,
+      "non_death_over_strike_rate": 116.35006784260516,
+      "non_death_over_runs": 1715,
+      "non_death_over_balls": 1474
+    }
+  ],
+  "MS Dhoni": [
+    {
+      "death_over_strike_rate": 176.63601946998378,
+      "death_over_runs": 3266,
+      "death_over_balls": 1849,
+      "non_death_over_strike_rate": 100.30911901081916,
+      "non_death_over_runs": 1947,
+      "non_death_over_balls": 1941
+    }
+  ],
+  "SK Raina": [
+    {
+      "death_over_strike_rate": 170.44145873320537,
+      "death_over_runs": 888,
+      "death_over_balls": 521,
+      "non_death_over_strike_rate": 131.87660668380462,
+      "non_death_over_runs": 4617,
+      "non_death_over_balls": 3501
+    }
+  ],
+  "JDP Oram": [
+    {
+      "death_over_strike_rate": 126.53061224489797,
+      "death_over_runs": 62,
+      "death_over_balls": 49,
+      "non_death_over_strike_rate": 75.86206896551724,
+      "non_death_over_runs": 44,
+      "non_death_over_balls": 58
+    }
+  ],
+  "S Badrinath": [
+    {
+      "death_over_strike_rate": 152.36363636363637,
+      "death_over_runs": 419,
+      "death_over_balls": 275,
+      "non_death_over_strike_rate": 109.21757770632368,
+      "non_death_over_runs": 1019,
+      "non_death_over_balls": 933
+    }
+  ],
+  "K Goel": [
+    {
+      "death_over_strike_rate": 107.14285714285714,
+      "death_over_runs": 30,
+      "death_over_balls": 28,
+      "non_death_over_strike_rate": 92.61083743842364,
+      "non_death_over_runs": 188,
+      "non_death_over_balls": 203
+    }
+  ],
+  "JR Hopes": [
+    {
+      "death_over_strike_rate": 140,
+      "death_over_runs": 63,
+      "death_over_balls": 45,
+      "non_death_over_strike_rate": 136.15384615384616,
+      "non_death_over_runs": 354,
+      "non_death_over_balls": 260
+    }
+  ],
+  "KC Sangakkara": [
+    {
+      "death_over_strike_rate": 152.34375,
+      "death_over_runs": 195,
+      "death_over_balls": 128,
+      "non_death_over_strike_rate": 118.13842482100239,
+      "non_death_over_runs": 1485,
+      "non_death_over_balls": 1257
+    }
+  ],
+  "Yuvraj Singh": [
+    {
+      "death_over_strike_rate": 180.97165991902835,
+      "death_over_runs": 894,
+      "death_over_balls": 494,
+      "non_death_over_strike_rate": 113.89746757257566,
+      "non_death_over_runs": 1844,
+      "non_death_over_balls": 1619
+    }
+  ],
+  "IK Pathan": [
+    {
+      "death_over_strike_rate": 150.11337868480726,
+      "death_over_runs": 662,
+      "death_over_balls": 441,
+      "non_death_over_strike_rate": 94.82071713147411,
+      "non_death_over_runs": 476,
+      "non_death_over_balls": 502
+    }
+  ],
+  "YK Pathan": [
+    {
+      "death_over_strike_rate": 161.0632183908046,
+      "death_over_runs": 1121,
+      "death_over_balls": 696,
+      "non_death_over_strike_rate": 135.0945857795173,
+      "non_death_over_runs": 2071,
+      "non_death_over_balls": 1533
+    }
+  ],
+  "SR Watson": [
+    {
+      "death_over_strike_rate": 185.12396694214877,
+      "death_over_runs": 448,
+      "death_over_balls": 242,
+      "non_death_over_strike_rate": 133.46379647749512,
+      "non_death_over_runs": 3410,
+      "non_death_over_balls": 2555
+    }
+  ],
+  "M Kaif": [
+    {
+      "death_over_strike_rate": 120,
+      "death_over_runs": 54,
+      "death_over_balls": 45,
+      "non_death_over_strike_rate": 100.49019607843137,
+      "non_death_over_runs": 205,
+      "non_death_over_balls": 204
+    }
+  ],
+  "RA Jadeja": [
+    {
+      "death_over_strike_rate": 150.18050541516246,
+      "death_over_runs": 1664,
+      "death_over_balls": 1108,
+      "non_death_over_strike_rate": 110.26747195858499,
+      "non_death_over_runs": 1278,
+      "non_death_over_balls": 1159
+    }
+  ],
+  "M Rawat": [
+    {
+      "death_over_strike_rate": 88.88888888888889,
+      "death_over_runs": 40,
+      "death_over_balls": 45,
+      "non_death_over_strike_rate": 62.5,
+      "non_death_over_runs": 15,
+      "non_death_over_balls": 24
+    }
+  ],
+  "D Salunkhe": [
+    {
+      "death_over_strike_rate": 147.05882352941177,
+      "death_over_runs": 25,
+      "death_over_balls": 17,
+      "non_death_over_strike_rate": 114.28571428571428,
+      "non_death_over_runs": 8,
+      "non_death_over_balls": 7
+    }
+  ],
+  "SK Warne": [
+    {
+      "death_over_strike_rate": 103.81679389312977,
+      "death_over_runs": 136,
+      "death_over_balls": 131,
+      "non_death_over_strike_rate": 74.39024390243902,
+      "non_death_over_runs": 61,
+      "non_death_over_balls": 82
+    }
+  ],
+  "G Gambhir": [
+    {
+      "death_over_strike_rate": 144.86486486486487,
+      "death_over_runs": 268,
+      "death_over_balls": 185,
+      "non_death_over_strike_rate": 122.43689622935494,
+      "non_death_over_runs": 3929,
+      "non_death_over_balls": 3209
+    }
+  ],
+  "V Sehwag": [
+    {
+      "death_over_strike_rate": 221.2121212121212,
+      "death_over_runs": 73,
+      "death_over_balls": 33,
+      "non_death_over_strike_rate": 154.65729349736378,
+      "non_death_over_runs": 2640,
+      "non_death_over_balls": 1707
+    }
+  ],
+  "S Dhawan": [
+    {
+      "death_over_strike_rate": 158.37320574162678,
+      "death_over_runs": 662,
+      "death_over_balls": 418,
+      "non_death_over_strike_rate": 124.36527436527436,
+      "non_death_over_runs": 6074,
+      "non_death_over_balls": 4884
+    }
+  ],
+  "RV Uthappa": [
+    {
+      "death_over_strike_rate": 174.92260061919504,
+      "death_over_runs": 565,
+      "death_over_balls": 323,
+      "non_death_over_strike_rate": 126.4816420930905,
+      "non_death_over_runs": 4375,
+      "non_death_over_balls": 3459
+    }
+  ],
+  "PR Shah": [
+    {
+      "death_over_strike_rate": 130,
+      "death_over_runs": 26,
+      "death_over_balls": 20,
+      "non_death_over_strike_rate": 92.85714285714286,
+      "non_death_over_runs": 65,
+      "non_death_over_balls": 70
+    }
+  ],
+  "AM Nayar": [
+    {
+      "death_over_strike_rate": 157.43589743589743,
+      "death_over_runs": 307,
+      "death_over_balls": 195,
+      "non_death_over_strike_rate": 94.44444444444444,
+      "non_death_over_runs": 357,
+      "non_death_over_balls": 378
+    }
+  ],
+  "SM Pollock": [
+    {
+      "death_over_strike_rate": 190.47619047619045,
+      "death_over_runs": 80,
+      "death_over_balls": 42,
+      "non_death_over_strike_rate": 97.10144927536231,
+      "non_death_over_runs": 67,
+      "non_death_over_balls": 69
+    }
+  ],
+  "Harbhajan Singh": [
+    {
+      "death_over_strike_rate": 150.61124694376528,
+      "death_over_runs": 616,
+      "death_over_balls": 409,
+      "non_death_over_strike_rate": 109.47368421052633,
+      "non_death_over_runs": 208,
+      "non_death_over_balls": 190
+    }
+  ],
+  "LRPL Taylor": [
+    {
+      "death_over_strike_rate": 155.6122448979592,
+      "death_over_runs": 305,
+      "death_over_balls": 196,
+      "non_death_over_strike_rate": 113.34405144694534,
+      "non_death_over_runs": 705,
+      "non_death_over_balls": 622
+    }
+  ],
+  "AC Gilchrist": [
+    {
+      "death_over_strike_rate": 196.875,
+      "death_over_runs": 63,
+      "death_over_balls": 32,
+      "non_death_over_strike_rate": 136.6643694004135,
+      "non_death_over_runs": 1983,
+      "non_death_over_balls": 1451
+    }
+  ],
+  "Y Venugopal Rao": [
+    {
+      "death_over_strike_rate": 153.41365461847388,
+      "death_over_runs": 382,
+      "death_over_balls": 249,
+      "non_death_over_strike_rate": 102.57289879931389,
+      "non_death_over_runs": 598,
+      "non_death_over_balls": 583
+    }
+  ],
+  "A Symonds": [
+    {
+      "death_over_strike_rate": 160.43956043956044,
+      "death_over_runs": 292,
+      "death_over_balls": 182,
+      "non_death_over_strike_rate": 120.95914742451154,
+      "non_death_over_runs": 681,
+      "non_death_over_balls": 563
+    }
+  ],
+  "RG Sharma": [
+    {
+      "death_over_strike_rate": 180.36144578313252,
+      "death_over_runs": 1497,
+      "death_over_balls": 830,
+      "non_death_over_strike_rate": 120.99381835473133,
+      "non_death_over_runs": 5089,
+      "non_death_over_balls": 4206
+    }
+  ],
+  "SB Styris": [
+    {
+      "death_over_strike_rate": 148.14814814814815,
+      "death_over_runs": 40,
+      "death_over_balls": 27,
+      "non_death_over_strike_rate": 86.66666666666667,
+      "non_death_over_runs": 91,
+      "non_death_over_balls": 105
+    }
+  ],
+  "AS Yadav": [
+    {
+      "death_over_strike_rate": 134.48275862068965,
+      "death_over_runs": 39,
+      "death_over_balls": 29,
+      "non_death_over_strike_rate": 100,
+      "non_death_over_runs": 10,
+      "non_death_over_balls": 10
+    }
+  ],
+  "SB Bangar": [
+    {
+      "death_over_strike_rate": 139.1304347826087,
+      "death_over_runs": 32,
+      "death_over_balls": 23,
+      "non_death_over_strike_rate": 48.57142857142857,
+      "non_death_over_runs": 17,
+      "non_death_over_balls": 35
+    }
+  ],
+  "RP Singh": [
+    {
+      "death_over_strike_rate": 71.42857142857143,
+      "death_over_runs": 50,
+      "death_over_balls": 70,
+      "non_death_over_strike_rate": 33.33333333333333,
+      "non_death_over_runs": 2,
+      "non_death_over_balls": 6
+    }
+  ],
+  "WP Saha": [
+    {
+      "death_over_strike_rate": 157.79036827195466,
+      "death_over_runs": 557,
+      "death_over_balls": 353,
+      "non_death_over_strike_rate": 122.07925887802367,
+      "non_death_over_runs": 2372,
+      "non_death_over_balls": 1943
+    }
+  ],
+  "LR Shukla": [
+    {
+      "death_over_strike_rate": 133.53658536585365,
+      "death_over_runs": 219,
+      "death_over_balls": 164,
+      "non_death_over_strike_rate": 100,
+      "non_death_over_runs": 186,
+      "non_death_over_balls": 186
+    }
+  ],
+  "DPMD Jayawardene": [
+    {
+      "death_over_strike_rate": 158.97435897435898,
+      "death_over_runs": 372,
+      "death_over_balls": 234,
+      "non_death_over_strike_rate": 116.4763458401305,
+      "non_death_over_runs": 1428,
+      "non_death_over_balls": 1226
+    }
+  ],
+  "B Lee": [
+    {
+      "death_over_strike_rate": 130.2325581395349,
+      "death_over_runs": 112,
+      "death_over_balls": 86,
+      "non_death_over_strike_rate": 120,
+      "non_death_over_runs": 12,
+      "non_death_over_balls": 10
+    }
+  ],
+  "PP Chawla": [
+    {
+      "death_over_strike_rate": 121.83288409703503,
+      "death_over_runs": 452,
+      "death_over_balls": 371,
+      "non_death_over_strike_rate": 90,
+      "non_death_over_runs": 171,
+      "non_death_over_balls": 190
+    }
+  ],
+  "WA Mota": [
+    {
+      "death_over_strike_rate": 85.18518518518519,
+      "death_over_runs": 23,
+      "death_over_balls": 27,
+      "non_death_over_strike_rate": 68.75,
+      "non_death_over_runs": 33,
+      "non_death_over_balls": 48
+    }
+  ],
+  "Shahid Afridi": [
+    {
+      "death_over_strike_rate": 220.00000000000003,
+      "death_over_runs": 22,
+      "death_over_balls": 10,
+      "non_death_over_strike_rate": 163.88888888888889,
+      "non_death_over_runs": 59,
+      "non_death_over_balls": 36
+    }
+  ],
+  "DJ Bravo": [
+    {
+      "death_over_strike_rate": 173.64341085271317,
+      "death_over_runs": 896,
+      "death_over_balls": 516,
+      "non_death_over_strike_rate": 95.58823529411765,
+      "non_death_over_runs": 650,
+      "non_death_over_balls": 680
+    }
+  ],
+  "MA Khote": [
+    {
+      "death_over_strike_rate": 120,
+      "death_over_runs": 18,
+      "death_over_balls": 15,
+      "non_death_over_strike_rate": 85.71428571428571,
+      "non_death_over_runs": 6,
+      "non_death_over_balls": 7
+    }
+  ],
+  "GC Smith": [
+    {
+      "death_over_strike_rate": 169.23076923076923,
+      "death_over_runs": 66,
+      "death_over_balls": 39,
+      "non_death_over_strike_rate": 106.4,
+      "non_death_over_runs": 665,
+      "non_death_over_balls": 625
+    }
+  ],
+  "SS Tiwary": [
+    {
+      "death_over_strike_rate": 144.87179487179486,
+      "death_over_runs": 452,
+      "death_over_balls": 312,
+      "non_death_over_strike_rate": 112.3510292524377,
+      "non_death_over_runs": 1037,
+      "non_death_over_balls": 923
+    }
+  ],
+  "DS Kulkarni": [
+    {
+      "death_over_strike_rate": 101.0204081632653,
+      "death_over_runs": 99,
+      "death_over_balls": 98,
+      "non_death_over_strike_rate": 50,
+      "non_death_over_runs": 5,
+      "non_death_over_balls": 10
+    }
+  ],
+  "R Vinay Kumar": [
+    {
+      "death_over_strike_rate": 115.929203539823,
+      "death_over_runs": 262,
+      "death_over_balls": 226,
+      "non_death_over_strike_rate": 100,
+      "non_death_over_runs": 48,
+      "non_death_over_balls": 48
+    }
+  ],
+  "AB Agarkar": [
+    {
+      "death_over_strike_rate": 135.16483516483518,
+      "death_over_runs": 123,
+      "death_over_balls": 91,
+      "non_death_over_strike_rate": 90,
+      "non_death_over_runs": 54,
+      "non_death_over_balls": 60
+    }
+  ],
+  "AM Rahane": [
+    {
+      "death_over_strike_rate": 158.25545171339564,
+      "death_over_runs": 508,
+      "death_over_balls": 321,
+      "non_death_over_strike_rate": 120.25611175785798,
+      "non_death_over_runs": 4132,
+      "non_death_over_balls": 3436
+    }
+  ],
+  "Shoaib Malik": [
+    {
+      "death_over_strike_rate": 114.28571428571428,
+      "death_over_runs": 8,
+      "death_over_balls": 7,
+      "non_death_over_strike_rate": 110.25641025641026,
+      "non_death_over_runs": 43,
+      "non_death_over_balls": 39
+    }
+  ],
+  "MK Tiwary": [
+    {
+      "death_over_strike_rate": 144.74327628361857,
+      "death_over_runs": 592,
+      "death_over_balls": 409,
+      "non_death_over_strike_rate": 105.60386473429952,
+      "non_death_over_runs": 1093,
+      "non_death_over_balls": 1035
+    }
+  ],
+  "KD Karthik": [
+    {
+      "death_over_strike_rate": 173.32722273143906,
+      "death_over_runs": 1891,
+      "death_over_balls": 1091,
+      "non_death_over_strike_rate": 118.4168012924071,
+      "non_death_over_runs": 2932,
+      "non_death_over_balls": 2476
+    }
+  ],
+  "R Bhatia": [
+    {
+      "death_over_strike_rate": 145.93023255813952,
+      "death_over_runs": 251,
+      "death_over_balls": 172,
+      "non_death_over_strike_rate": 81.25,
+      "non_death_over_runs": 91,
+      "non_death_over_balls": 112
+    }
+  ],
+  "MF Maharoof": [
+    {
+      "death_over_strike_rate": 151.68539325842696,
+      "death_over_runs": 135,
+      "death_over_balls": 89,
+      "non_death_over_strike_rate": 123.52941176470588,
+      "non_death_over_runs": 42,
+      "non_death_over_balls": 34
+    }
+  ],
+  "VY Mahesh": [
+    {
+      "death_over_strike_rate": 63.1578947368421,
+      "death_over_runs": 12,
+      "death_over_balls": 19,
+      "non_death_over_strike_rate": 37.5,
+      "non_death_over_runs": 3,
+      "non_death_over_balls": 8
+    }
+  ],
+  "TM Srivastava": [
+    {
+      "death_over_strike_rate": 85.71428571428571,
+      "death_over_runs": 6,
+      "death_over_balls": 7,
+      "non_death_over_strike_rate": 50,
+      "non_death_over_runs": 2,
+      "non_death_over_balls": 4
+    }
+  ],
+  "B Chipli": [
+    {
+      "death_over_strike_rate": 178.57142857142858,
+      "death_over_runs": 100,
+      "death_over_balls": 56,
+      "non_death_over_strike_rate": 92.78350515463917,
+      "non_death_over_runs": 180,
+      "non_death_over_balls": 194
+    }
+  ],
+  "DW Steyn": [
+    {
+      "death_over_strike_rate": 107.94701986754967,
+      "death_over_runs": 163,
+      "death_over_balls": 151,
+      "non_death_over_strike_rate": 44.44444444444444,
+      "non_death_over_runs": 4,
+      "non_death_over_balls": 9
+    }
+  ],
+  "DB Das": [
+    {
+      "death_over_strike_rate": 121.875,
+      "death_over_runs": 117,
+      "death_over_balls": 96,
+      "non_death_over_strike_rate": 114.02439024390243,
+      "non_death_over_runs": 187,
+      "non_death_over_balls": 164
+    }
+  ],
+  "MK Pandey": [
+    {
+      "death_over_strike_rate": 147.99107142857142,
+      "death_over_runs": 663,
+      "death_over_balls": 448,
+      "non_death_over_strike_rate": 116.38501102130788,
+      "non_death_over_runs": 3168,
+      "non_death_over_balls": 2722
+    }
+  ],
+  "HH Gibbs": [
+    {
+      "death_over_strike_rate": 160,
+      "death_over_runs": 72,
+      "death_over_balls": 45,
+      "non_death_over_strike_rate": 107.10526315789475,
+      "non_death_over_runs": 814,
+      "non_death_over_balls": 760
+    }
+  ],
+  "DNT Zoysa": [
+    {
+      "death_over_strike_rate": 125,
+      "death_over_runs": 10,
+      "death_over_balls": 8,
+      "non_death_over_strike_rate": 100,
+      "non_death_over_runs": 1,
+      "non_death_over_balls": 1
+    }
+  ],
+  "SE Marsh": [
+    {
+      "death_over_strike_rate": 156.79012345679013,
+      "death_over_runs": 254,
+      "death_over_balls": 162,
+      "non_death_over_strike_rate": 130.05882352941177,
+      "non_death_over_runs": 2211,
+      "non_death_over_balls": 1700
+    }
+  ],
+  "Salman Butt": [
+    {
+      "death_over_strike_rate": 266.66666666666663,
+      "death_over_runs": 16,
+      "death_over_balls": 6,
+      "non_death_over_strike_rate": 114.28571428571428,
+      "non_death_over_runs": 176,
+      "non_death_over_balls": 154
+    }
+  ],
+  "BJ Hodge": [
+    {
+      "death_over_strike_rate": 164.40217391304347,
+      "death_over_runs": 605,
+      "death_over_balls": 368,
+      "non_death_over_strike_rate": 106.72043010752688,
+      "non_death_over_runs": 794,
+      "non_death_over_balls": 744
+    }
+  ],
+  "JA Morkel": [
+    {
+      "death_over_strike_rate": 155.6930693069307,
+      "death_over_runs": 629,
+      "death_over_balls": 404,
+      "non_death_over_strike_rate": 121.22302158273382,
+      "non_death_over_runs": 337,
+      "non_death_over_balls": 278
+    }
+  ],
+  "AB de Villiers": [
+    {
+      "death_over_strike_rate": 221.59227985524728,
+      "death_over_runs": 1837,
+      "death_over_balls": 829,
+      "non_death_over_strike_rate": 128.44323058915336,
+      "non_death_over_runs": 3292,
+      "non_death_over_balls": 2563
+    }
+  ],
+  "LPC Silva": [
+    {
+      "death_over_strike_rate": 229.99999999999997,
+      "death_over_runs": 23,
+      "death_over_balls": 10,
+      "non_death_over_strike_rate": 106.25,
+      "non_death_over_runs": 17,
+      "non_death_over_balls": 16
+    }
+  ],
+  "DB Ravi Teja": [
+    {
+      "death_over_strike_rate": 139.16666666666666,
+      "death_over_runs": 167,
+      "death_over_balls": 120,
+      "non_death_over_strike_rate": 105.64102564102565,
+      "non_death_over_runs": 206,
+      "non_death_over_balls": 195
+    }
+  ],
+  "Misbah-ul-Haq": [
+    {
+      "death_over_strike_rate": 210,
+      "death_over_runs": 42,
+      "death_over_balls": 20,
+      "non_death_over_strike_rate": 122.95081967213115,
+      "non_death_over_runs": 75,
+      "non_death_over_balls": 61
+    }
+  ],
+  "YV Takawale": [
+    {
+      "death_over_strike_rate": 233.33333333333334,
+      "death_over_runs": 28,
+      "death_over_balls": 12,
+      "non_death_over_strike_rate": 98.7878787878788,
+      "non_death_over_runs": 163,
+      "non_death_over_balls": 165
+    }
+  ],
+  "PJ Sangwan": [
+    {
+      "death_over_strike_rate": 62.857142857142854,
+      "death_over_runs": 22,
+      "death_over_balls": 35,
+      "non_death_over_strike_rate": 44.44444444444444,
+      "non_death_over_runs": 4,
+      "non_death_over_balls": 9
+    }
+  ],
+  "MS Gony": [
+    {
+      "death_over_strike_rate": 166.03773584905662,
+      "death_over_runs": 88,
+      "death_over_balls": 53,
+      "non_death_over_strike_rate": 64.70588235294117,
+      "non_death_over_runs": 11,
+      "non_death_over_balls": 17
+    }
+  ],
+  "DT Patil": [
+    {
+      "death_over_strike_rate": 400,
+      "death_over_runs": 4,
+      "death_over_balls": 1,
+      "non_death_over_strike_rate": 75,
+      "non_death_over_runs": 9,
+      "non_death_over_balls": 12
+    }
+  ],
+  "A Kumble": [
+    {
+      "death_over_strike_rate": 80.95238095238095,
+      "death_over_runs": 34,
+      "death_over_balls": 42,
+      "non_death_over_strike_rate": 20,
+      "non_death_over_runs": 1,
+      "non_death_over_balls": 5
+    }
+  ],
+  "S Anirudha": [
+    {
+      "death_over_strike_rate": 149.01960784313727,
+      "death_over_runs": 76,
+      "death_over_balls": 51,
+      "non_death_over_strike_rate": 98.36065573770492,
+      "non_death_over_runs": 60,
+      "non_death_over_balls": 61
+    }
+  ],
+  "CK Kapugedera": [
+    {
+      "death_over_strike_rate": 78.94736842105263,
+      "death_over_runs": 15,
+      "death_over_balls": 19,
+      "non_death_over_strike_rate": 33.33333333333333,
+      "non_death_over_runs": 1,
+      "non_death_over_balls": 3
+    }
+  ],
+  "T Taibu": [
+    {
+      "death_over_strike_rate": 150,
+      "death_over_runs": 12,
+      "death_over_balls": 8,
+      "non_death_over_strike_rate": 105.55555555555556,
+      "non_death_over_runs": 19,
+      "non_death_over_balls": 18
+    }
+  ],
+  "SP Goswami": [
+    {
+      "death_over_strike_rate": 118.18181818181819,
+      "death_over_runs": 26,
+      "death_over_balls": 22,
+      "non_death_over_strike_rate": 98.1549815498155,
+      "non_death_over_runs": 266,
+      "non_death_over_balls": 271
+    }
+  ],
+  "SR Tendulkar": [
+    {
+      "death_over_strike_rate": 164.70588235294116,
+      "death_over_runs": 224,
+      "death_over_balls": 136,
+      "non_death_over_strike_rate": 116.73130193905817,
+      "non_death_over_runs": 2107,
+      "non_death_over_balls": 1805
+    }
+  ],
+  "TM Dilshan": [
+    {
+      "death_over_strike_rate": 167.54385964912282,
+      "death_over_runs": 191,
+      "death_over_balls": 114,
+      "non_death_over_strike_rate": 106.76437429537768,
+      "non_death_over_runs": 947,
+      "non_death_over_balls": 887
+    }
+  ],
+  "A Mishra": [
+    {
+      "death_over_strike_rate": 104.43548387096774,
+      "death_over_runs": 259,
+      "death_over_balls": 248,
+      "non_death_over_strike_rate": 71.59763313609467,
+      "non_death_over_runs": 121,
+      "non_death_over_balls": 169
+    }
+  ],
+  "AD Mascarenhas": [
+    {
+      "death_over_strike_rate": 122.50000000000001,
+      "death_over_runs": 49,
+      "death_over_balls": 40,
+      "non_death_over_strike_rate": 78.94736842105263,
+      "non_death_over_runs": 30,
+      "non_death_over_balls": 38
+    }
+  ],
+  "NK Patel": [
+    {
+      "death_over_strike_rate": 168.1818181818182,
+      "death_over_runs": 37,
+      "death_over_balls": 22,
+      "non_death_over_strike_rate": 86.5979381443299,
+      "non_death_over_runs": 84,
+      "non_death_over_balls": 97
+    }
+  ],
+  "LA Pomersbach": [
+    {
+      "death_over_strike_rate": 136.73469387755102,
+      "death_over_runs": 67,
+      "death_over_balls": 49,
+      "non_death_over_strike_rate": 120.61855670103093,
+      "non_death_over_runs": 234,
+      "non_death_over_balls": 194
+    }
+  ],
+  "Iqbal Abdulla": [
+    {
+      "death_over_strike_rate": 120.6896551724138,
+      "death_over_runs": 70,
+      "death_over_balls": 58,
+      "non_death_over_strike_rate": 70.83333333333334,
+      "non_death_over_runs": 17,
+      "non_death_over_balls": 24
+    }
+  ],
+  "DR Smith": [
+    {
+      "death_over_strike_rate": 151.8181818181818,
+      "death_over_runs": 167,
+      "death_over_balls": 110,
+      "non_death_over_strike_rate": 134.46808510638297,
+      "non_death_over_runs": 2212,
+      "non_death_over_balls": 1645
+    }
+  ],
+  "L Balaji": [
+    {
+      "death_over_strike_rate": 77.77777777777779,
+      "death_over_runs": 35,
+      "death_over_balls": 45,
+      "non_death_over_strike_rate": 25,
+      "non_death_over_runs": 1,
+      "non_death_over_balls": 4
+    }
+  ],
+  "JP Duminy": [
+    {
+      "death_over_strike_rate": 170.54263565891472,
+      "death_over_runs": 880,
+      "death_over_balls": 516,
+      "non_death_over_strike_rate": 102.78026905829596,
+      "non_death_over_runs": 1146,
+      "non_death_over_balls": 1115
+    }
+  ],
+  "A Flintoff": [
+    {
+      "death_over_strike_rate": 147.05882352941177,
+      "death_over_runs": 25,
+      "death_over_balls": 17,
+      "non_death_over_strike_rate": 102.77777777777777,
+      "non_death_over_runs": 37,
+      "non_death_over_balls": 36
+    }
+  ],
+  "JD Ryder": [
+    {
+      "death_over_strike_rate": 160.71428571428572,
+      "death_over_runs": 45,
+      "death_over_balls": 28,
+      "non_death_over_strike_rate": 129.03981264637002,
+      "non_death_over_runs": 551,
+      "non_death_over_balls": 427
+    }
+  ],
+  "KP Pietersen": [
+    {
+      "death_over_strike_rate": 178.26086956521738,
+      "death_over_runs": 123,
+      "death_over_balls": 69,
+      "non_death_over_strike_rate": 130.31203566121843,
+      "non_death_over_runs": 877,
+      "non_death_over_balls": 673
+    }
+  ],
+  "RS Bopara": [
+    {
+      "death_over_strike_rate": 172.1153846153846,
+      "death_over_runs": 179,
+      "death_over_balls": 104,
+      "non_death_over_strike_rate": 100.85959885386819,
+      "non_death_over_runs": 352,
+      "non_death_over_balls": 349
+    }
+  ],
+  "CH Gayle": [
+    {
+      "death_over_strike_rate": 201.07142857142856,
+      "death_over_runs": 563,
+      "death_over_balls": 280,
+      "non_death_over_strike_rate": 143.5483870967742,
+      "non_death_over_runs": 4361,
+      "non_death_over_balls": 3038
+    }
+  ],
+  "MC Henriques": [
+    {
+      "death_over_strike_rate": 165.84158415841583,
+      "death_over_runs": 335,
+      "death_over_balls": 202,
+      "non_death_over_strike_rate": 113.37907375643223,
+      "non_death_over_runs": 661,
+      "non_death_over_balls": 583
+    }
+  ],
+  "KV Sharma": [
+    {
+      "death_over_strike_rate": 137.22222222222223,
+      "death_over_runs": 247,
+      "death_over_balls": 180,
+      "non_death_over_strike_rate": 91.22807017543859,
+      "non_death_over_runs": 104,
+      "non_death_over_balls": 114
+    }
+  ],
+  "PC Valthaty": [
+    {
+      "death_over_strike_rate": 209.0909090909091,
+      "death_over_runs": 46,
+      "death_over_balls": 22,
+      "non_death_over_strike_rate": 115.5612244897959,
+      "non_death_over_runs": 453,
+      "non_death_over_balls": 392
+    }
+  ],
+  "AS Raut": [
+    {
+      "death_over_strike_rate": 116.50485436893203,
+      "death_over_runs": 120,
+      "death_over_balls": 103,
+      "non_death_over_strike_rate": 115.625,
+      "non_death_over_runs": 74,
+      "non_death_over_balls": 64
+    }
+  ],
+  "Yashpal Singh": [
+    {
+      "death_over_strike_rate": 130.76923076923077,
+      "death_over_runs": 17,
+      "death_over_balls": 13,
+      "non_death_over_strike_rate": 57.692307692307686,
+      "non_death_over_runs": 30,
+      "non_death_over_balls": 52
+    }
+  ],
+  "M Manhas": [
+    {
+      "death_over_strike_rate": 131.8918918918919,
+      "death_over_runs": 244,
+      "death_over_balls": 185,
+      "non_death_over_strike_rate": 94.73684210526315,
+      "non_death_over_runs": 270,
+      "non_death_over_balls": 285
+    }
+  ],
+  "AA Bilakhia": [
+    {
+      "death_over_strike_rate": 109.09090909090908,
+      "death_over_runs": 36,
+      "death_over_balls": 33,
+      "non_death_over_strike_rate": 64.70588235294117,
+      "non_death_over_runs": 33,
+      "non_death_over_balls": 51
+    }
+  ],
+  "DL Vettori": [
+    {
+      "death_over_strike_rate": 125.42372881355932,
+      "death_over_runs": 74,
+      "death_over_balls": 59,
+      "non_death_over_strike_rate": 88.67924528301887,
+      "non_death_over_runs": 47,
+      "non_death_over_balls": 53
+    }
+  ],
+  "MN van Wyk": [
+    {
+      "death_over_strike_rate": 153.48837209302326,
+      "death_over_runs": 66,
+      "death_over_balls": 43,
+      "non_death_over_strike_rate": 110.22727272727273,
+      "non_death_over_runs": 97,
+      "non_death_over_balls": 88
+    }
+  ],
+  "RE van der Merwe": [
+    {
+      "death_over_strike_rate": 115.21739130434783,
+      "death_over_runs": 53,
+      "death_over_balls": 46,
+      "non_death_over_strike_rate": 111.57894736842104,
+      "non_death_over_runs": 106,
+      "non_death_over_balls": 95
+    }
+  ],
+  "TL Suman": [
+    {
+      "death_over_strike_rate": 135.8490566037736,
+      "death_over_runs": 144,
+      "death_over_balls": 106,
+      "non_death_over_strike_rate": 113.9186295503212,
+      "non_death_over_runs": 532,
+      "non_death_over_balls": 467
+    }
+  ],
+  "GR Napier": [
+    {
+      "death_over_strike_rate": 125,
+      "death_over_runs": 5,
+      "death_over_balls": 4,
+      "non_death_over_strike_rate": 83.33333333333334,
+      "non_death_over_runs": 10,
+      "non_death_over_balls": 12
+    }
+  ],
+  "LA Carseldine": [
+    {
+      "death_over_strike_rate": 158.33333333333331,
+      "death_over_runs": 19,
+      "death_over_balls": 12,
+      "non_death_over_strike_rate": 112.96296296296295,
+      "non_death_over_runs": 61,
+      "non_death_over_balls": 54
+    }
+  ],
+  "NV Ojha": [
+    {
+      "death_over_strike_rate": 138.35616438356163,
+      "death_over_runs": 404,
+      "death_over_balls": 292,
+      "non_death_over_strike_rate": 112.10629921259843,
+      "non_death_over_runs": 1139,
+      "non_death_over_balls": 1016
+    }
+  ],
+  "M Vijay": [
+    {
+      "death_over_strike_rate": 176.05633802816902,
+      "death_over_runs": 125,
+      "death_over_balls": 71,
+      "non_death_over_strike_rate": 120.07703418391911,
+      "non_death_over_runs": 2494,
+      "non_death_over_balls": 2077
+    }
+  ],
+  "DA Warner": [
+    {
+      "death_over_strike_rate": 178.4090909090909,
+      "death_over_runs": 628,
+      "death_over_balls": 352,
+      "non_death_over_strike_rate": 136.57803468208093,
+      "non_death_over_runs": 5907,
+      "non_death_over_balls": 4325
+    }
+  ],
+  "RJ Harris": [
+    {
+      "death_over_strike_rate": 111.62790697674419,
+      "death_over_runs": 96,
+      "death_over_balls": 86,
+      "non_death_over_strike_rate": 80,
+      "non_death_over_runs": 20,
+      "non_death_over_balls": 25
+    }
+  ],
+  "D du Preez": [
+    {
+      "death_over_strike_rate": 77.77777777777779,
+      "death_over_runs": 7,
+      "death_over_balls": 9,
+      "non_death_over_strike_rate": 75,
+      "non_death_over_runs": 3,
+      "non_death_over_balls": 4
+    }
+  ],
+  "M Morkel": [
+    {
+      "death_over_strike_rate": 140,
+      "death_over_runs": 112,
+      "death_over_balls": 80,
+      "non_death_over_strike_rate": 111.11111111111111,
+      "non_death_over_runs": 10,
+      "non_death_over_balls": 9
+    }
+  ],
+  "AD Mathews": [
+    {
+      "death_over_strike_rate": 154.3795620437956,
+      "death_over_runs": 423,
+      "death_over_balls": 274,
+      "non_death_over_strike_rate": 100,
+      "non_death_over_runs": 299,
+      "non_death_over_balls": 299
+    }
+  ],
+  "J Botha": [
+    {
+      "death_over_strike_rate": 129.26829268292684,
+      "death_over_runs": 159,
+      "death_over_balls": 123,
+      "non_death_over_strike_rate": 105.95744680851065,
+      "non_death_over_runs": 249,
+      "non_death_over_balls": 235
+    }
+  ],
+  "SL Malinga": [
+    {
+      "death_over_strike_rate": 89.58333333333334,
+      "death_over_runs": 86,
+      "death_over_balls": 96,
+      "non_death_over_strike_rate": 66.66666666666666,
+      "non_death_over_runs": 2,
+      "non_death_over_balls": 3
+    }
+  ],
+  "GJ Bailey": [
+    {
+      "death_over_strike_rate": 175.13513513513516,
+      "death_over_runs": 324,
+      "death_over_balls": 185,
+      "non_death_over_strike_rate": 94.3820224719101,
+      "non_death_over_runs": 336,
+      "non_death_over_balls": 356
+    }
+  ],
+  "AB McDonald": [
+    {
+      "death_over_strike_rate": 123.07692307692308,
+      "death_over_runs": 80,
+      "death_over_balls": 65,
+      "non_death_over_strike_rate": 122.85714285714286,
+      "non_death_over_runs": 43,
+      "non_death_over_balls": 35
+    }
+  ],
+  "Y Nagar": [
+    {
+      "death_over_strike_rate": 140.94488188976376,
+      "death_over_runs": 179,
+      "death_over_balls": 127,
+      "non_death_over_strike_rate": 80.3030303030303,
+      "non_death_over_runs": 106,
+      "non_death_over_balls": 132
+    }
+  ],
+  "R Ashwin": [
+    {
+      "death_over_strike_rate": 134.18079096045196,
+      "death_over_runs": 475,
+      "death_over_balls": 354,
+      "non_death_over_strike_rate": 101.25,
+      "non_death_over_runs": 324,
+      "non_death_over_balls": 320
+    }
+  ],
+  "CA Pujara": [
+    {
+      "death_over_strike_rate": 114.6341463414634,
+      "death_over_runs": 47,
+      "death_over_balls": 41,
+      "non_death_over_strike_rate": 98.28080229226362,
+      "non_death_over_runs": 343,
+      "non_death_over_balls": 349
+    }
+  ],
+  "OA Shah": [
+    {
+      "death_over_strike_rate": 157.30994152046785,
+      "death_over_runs": 269,
+      "death_over_balls": 171,
+      "non_death_over_strike_rate": 108.75576036866359,
+      "non_death_over_runs": 236,
+      "non_death_over_balls": 217
+    }
+  ],
+  "Jaskaran Singh": [
+    {
+      "death_over_strike_rate": 77.77777777777779,
+      "death_over_runs": 7,
+      "death_over_balls": 9,
+      "non_death_over_strike_rate": 50,
+      "non_death_over_runs": 1,
+      "non_death_over_balls": 2
+    }
+  ],
+  "AP Tare": [
+    {
+      "death_over_strike_rate": 153.84615384615387,
+      "death_over_runs": 40,
+      "death_over_balls": 26,
+      "non_death_over_strike_rate": 121.54471544715446,
+      "non_death_over_runs": 299,
+      "non_death_over_balls": 246
+    }
+  ],
+  "AT Rayudu": [
+    {
+      "death_over_strike_rate": 169.07514450867052,
+      "death_over_runs": 1170,
+      "death_over_balls": 692,
+      "non_death_over_strike_rate": 116.89514635050018,
+      "non_death_over_runs": 3155,
+      "non_death_over_balls": 2699
+    }
+  ],
+  "R Sathish": [
+    {
+      "death_over_strike_rate": 138.98305084745763,
+      "death_over_runs": 164,
+      "death_over_balls": 118,
+      "non_death_over_strike_rate": 93.75,
+      "non_death_over_runs": 105,
+      "non_death_over_balls": 112
+    }
+  ],
+  "R McLaren": [
+    {
+      "death_over_strike_rate": 118.96551724137932,
+      "death_over_runs": 69,
+      "death_over_balls": 58,
+      "non_death_over_strike_rate": 79.64601769911505,
+      "non_death_over_runs": 90,
+      "non_death_over_balls": 113
+    }
+  ],
+  "AA Jhunjhunwala": [
+    {
+      "death_over_strike_rate": 138,
+      "death_over_runs": 69,
+      "death_over_balls": 50,
+      "non_death_over_strike_rate": 93.08176100628931,
+      "non_death_over_runs": 148,
+      "non_death_over_balls": 159
+    }
+  ],
+  "P Dogra": [
+    {
+      "death_over_strike_rate": 117.74193548387098,
+      "death_over_runs": 73,
+      "death_over_balls": 62,
+      "non_death_over_strike_rate": 71.05263157894737,
+      "non_death_over_runs": 54,
+      "non_death_over_balls": 76
+    }
+  ],
+  "MS Bisla": [
+    {
+      "death_over_strike_rate": 157.57575757575756,
+      "death_over_runs": 52,
+      "death_over_balls": 33,
+      "non_death_over_strike_rate": 111.24437781109447,
+      "non_death_over_runs": 742,
+      "non_death_over_balls": 667
+    }
+  ],
+  "EJG Morgan": [
+    {
+      "death_over_strike_rate": 164.33121019108282,
+      "death_over_runs": 516,
+      "death_over_balls": 314,
+      "non_death_over_strike_rate": 106.97954271961491,
+      "non_death_over_runs": 889,
+      "non_death_over_balls": 831
+    }
+  ],
+  "KA Pollard": [
+    {
+      "death_over_strike_rate": 170,
+      "death_over_runs": 2006,
+      "death_over_balls": 1180,
+      "non_death_over_strike_rate": 122.99465240641712,
+      "non_death_over_runs": 1380,
+      "non_death_over_balls": 1122
+    }
+  ],
+  "DR Martyn": [
+    {
+      "death_over_strike_rate": 166.66666666666669,
+      "death_over_runs": 5,
+      "death_over_balls": 3,
+      "non_death_over_strike_rate": 66.66666666666666,
+      "non_death_over_runs": 14,
+      "non_death_over_balls": 21
+    }
+  ],
+  "S Narwal": [
+    {
+      "death_over_strike_rate": 138.88888888888889,
+      "death_over_runs": 25,
+      "death_over_balls": 18,
+      "non_death_over_strike_rate": 133.33333333333331,
+      "non_death_over_runs": 12,
+      "non_death_over_balls": 9
+    }
+  ],
+  "Bipul Sharma": [
+    {
+      "death_over_strike_rate": 157.7981651376147,
+      "death_over_runs": 172,
+      "death_over_balls": 109,
+      "non_death_over_strike_rate": 107.14285714285714,
+      "non_death_over_runs": 15,
+      "non_death_over_balls": 14
+    }
+  ],
+  "FY Fazal": [
+    {
+      "death_over_strike_rate": 118.75,
+      "death_over_runs": 38,
+      "death_over_balls": 32,
+      "non_death_over_strike_rate": 103.57142857142858,
+      "non_death_over_runs": 145,
+      "non_death_over_balls": 140
+    }
+  ],
+  "AC Voges": [
+    {
+      "death_over_strike_rate": 151.78571428571428,
+      "death_over_runs": 85,
+      "death_over_balls": 56,
+      "non_death_over_strike_rate": 110.34482758620689,
+      "non_death_over_runs": 96,
+      "non_death_over_balls": 87
+    }
+  ],
+  "MD Mishra": [
+    {
+      "death_over_strike_rate": 142.10526315789474,
+      "death_over_runs": 27,
+      "death_over_balls": 19,
+      "non_death_over_strike_rate": 111.22994652406418,
+      "non_death_over_runs": 208,
+      "non_death_over_balls": 187
+    }
+  ],
+  "UT Yadav": [
+    {
+      "death_over_strike_rate": 109.04255319148936,
+      "death_over_runs": 205,
+      "death_over_balls": 188,
+      "non_death_over_strike_rate": 23.076923076923077,
+      "non_death_over_runs": 3,
+      "non_death_over_balls": 13
+    }
+  ],
+  "R Sharma": [
+    {
+      "death_over_strike_rate": 89.04109589041096,
+      "death_over_runs": 65,
+      "death_over_balls": 73,
+      "non_death_over_strike_rate": 50,
+      "non_death_over_runs": 1,
+      "non_death_over_balls": 2
+    }
+  ],
+  "Mandeep Singh": [
+    {
+      "death_over_strike_rate": 149.63503649635038,
+      "death_over_runs": 410,
+      "death_over_balls": 274,
+      "non_death_over_strike_rate": 116.56165616561655,
+      "non_death_over_runs": 1295,
+      "non_death_over_balls": 1111
+    }
+  ],
+  "KM Jadhav": [
+    {
+      "death_over_strike_rate": 137.65586034912718,
+      "death_over_runs": 552,
+      "death_over_balls": 401,
+      "non_death_over_strike_rate": 112.5,
+      "non_death_over_runs": 639,
+      "non_death_over_balls": 568
+    }
+  ],
+  "PD Collingwood": [
+    {
+      "death_over_strike_rate": 180,
+      "death_over_runs": 81,
+      "death_over_balls": 45,
+      "non_death_over_strike_rate": 109.90990990990991,
+      "non_death_over_runs": 122,
+      "non_death_over_balls": 111
+    }
+  ],
+  "CK Langeveldt": [
+    {
+      "death_over_strike_rate": 140,
+      "death_over_runs": 7,
+      "death_over_balls": 5,
+      "non_death_over_strike_rate": 25,
+      "non_death_over_runs": 1,
+      "non_death_over_balls": 4
+    }
+  ],
+  "A Mithun": [
+    {
+      "death_over_strike_rate": 135.71428571428572,
+      "death_over_runs": 19,
+      "death_over_balls": 14,
+      "non_death_over_strike_rate": 125,
+      "non_death_over_runs": 15,
+      "non_death_over_balls": 12
+    }
+  ],
+  "AP Dole": [
+    {
+      "death_over_strike_rate": 165,
+      "death_over_runs": 33,
+      "death_over_balls": 20,
+      "non_death_over_strike_rate": 50,
+      "non_death_over_runs": 1,
+      "non_death_over_balls": 2
+    }
+  ],
+  "B Sumanth": [
+    {
+      "death_over_strike_rate": 100,
+      "death_over_runs": 26,
+      "death_over_balls": 26,
+      "non_death_over_strike_rate": 81.81818181818183,
+      "non_death_over_runs": 9,
+      "non_death_over_balls": 11
+    }
+  ],
+  "MR Marsh": [
+    {
+      "death_over_strike_rate": 143.5897435897436,
+      "death_over_runs": 168,
+      "death_over_balls": 117,
+      "non_death_over_strike_rate": 123.01980198019803,
+      "non_death_over_runs": 497,
+      "non_death_over_balls": 404
+    }
+  ],
+  "AJ Finch": [
+    {
+      "death_over_strike_rate": 158.42696629213484,
+      "death_over_runs": 282,
+      "death_over_balls": 178,
+      "non_death_over_strike_rate": 124.5674740484429,
+      "non_death_over_runs": 1800,
+      "non_death_over_balls": 1445
+    }
+  ],
+  "STR Binny": [
+    {
+      "death_over_strike_rate": 151.14503816793894,
+      "death_over_runs": 396,
+      "death_over_balls": 262,
+      "non_death_over_strike_rate": 114.99999999999999,
+      "non_death_over_runs": 483,
+      "non_death_over_balls": 420
+    }
+  ],
+  "IR Jaggi": [
+    {
+      "death_over_strike_rate": 92.85714285714286,
+      "death_over_runs": 13,
+      "death_over_balls": 14,
+      "non_death_over_strike_rate": 75.90361445783132,
+      "non_death_over_runs": 63,
+      "non_death_over_balls": 83
+    }
+  ],
+  "DT Christian": [
+    {
+      "death_over_strike_rate": 137.27272727272728,
+      "death_over_runs": 302,
+      "death_over_balls": 220,
+      "non_death_over_strike_rate": 86.20689655172413,
+      "non_death_over_runs": 150,
+      "non_death_over_balls": 174
+    }
+  ],
+  "MA Agarwal": [
+    {
+      "death_over_strike_rate": 211.11111111111111,
+      "death_over_runs": 247,
+      "death_over_balls": 117,
+      "non_death_over_strike_rate": 128.0598610368787,
+      "non_death_over_runs": 2396,
+      "non_death_over_balls": 1871
+    }
+  ],
+  "UBT Chand": [
+    {
+      "death_over_strike_rate": 166.66666666666669,
+      "death_over_runs": 30,
+      "death_over_balls": 18,
+      "non_death_over_strike_rate": 96.08540925266904,
+      "non_death_over_runs": 270,
+      "non_death_over_balls": 281
+    }
+  ],
+  "AL Menaria": [
+    {
+      "death_over_strike_rate": 116.66666666666667,
+      "death_over_runs": 91,
+      "death_over_balls": 78,
+      "non_death_over_strike_rate": 110.14492753623189,
+      "non_death_over_runs": 304,
+      "non_death_over_balls": 276
+    }
+  ],
+  "WD Parnell": [
+    {
+      "death_over_strike_rate": 84.48275862068965,
+      "death_over_runs": 49,
+      "death_over_balls": 58,
+      "non_death_over_strike_rate": 72.72727272727273,
+      "non_death_over_runs": 16,
+      "non_death_over_balls": 22
+    }
+  ],
+  "JJ van der Wath": [
+    {
+      "death_over_strike_rate": 127.27272727272727,
+      "death_over_runs": 14,
+      "death_over_balls": 11,
+      "non_death_over_strike_rate": 80,
+      "non_death_over_runs": 4,
+      "non_death_over_balls": 5
+    }
+  ],
+  "S Aravind": [
+    {
+      "death_over_strike_rate": 108.88888888888889,
+      "death_over_runs": 49,
+      "death_over_balls": 45,
+      "non_death_over_strike_rate": 83.33333333333334,
+      "non_death_over_runs": 10,
+      "non_death_over_balls": 12
+    }
+  ],
+  "JEC Franklin": [
+    {
+      "death_over_strike_rate": 142.64705882352942,
+      "death_over_runs": 97,
+      "death_over_balls": 68,
+      "non_death_over_strike_rate": 99.13793103448276,
+      "non_death_over_runs": 230,
+      "non_death_over_balls": 232
+    }
+  ],
+  "Shakib Al Hasan": [
+    {
+      "death_over_strike_rate": 138.79310344827587,
+      "death_over_runs": 322,
+      "death_over_balls": 232,
+      "non_death_over_strike_rate": 115.71072319201996,
+      "non_death_over_runs": 464,
+      "non_death_over_balls": 401
+    }
+  ],
+  "DH Yagnik": [
+    {
+      "death_over_strike_rate": 130.13698630136986,
+      "death_over_runs": 95,
+      "death_over_balls": 73,
+      "non_death_over_strike_rate": 121.66666666666666,
+      "non_death_over_runs": 73,
+      "non_death_over_balls": 60
+    }
+  ],
+  "NLTC Perera": [
+    {
+      "death_over_strike_rate": 152.29885057471265,
+      "death_over_runs": 265,
+      "death_over_balls": 174,
+      "non_death_over_strike_rate": 118.3206106870229,
+      "non_death_over_runs": 155,
+      "non_death_over_balls": 131
+    }
+  ],
+  "J Syed Mohammad": [
+    {
+      "death_over_strike_rate": 133.33333333333331,
+      "death_over_runs": 20,
+      "death_over_balls": 15,
+      "non_death_over_strike_rate": 81.81818181818183,
+      "non_death_over_runs": 9,
+      "non_death_over_balls": 11
+    }
+  ],
+  "RN ten Doeschate": [
+    {
+      "death_over_strike_rate": 151.42857142857142,
+      "death_over_runs": 212,
+      "death_over_balls": 140,
+      "non_death_over_strike_rate": 120,
+      "non_death_over_runs": 114,
+      "non_death_over_balls": 95
+    }
+  ],
+  "TR Birt": [
+    {
+      "death_over_strike_rate": 166.66666666666669,
+      "death_over_runs": 60,
+      "death_over_balls": 36,
+      "non_death_over_strike_rate": 71.42857142857143,
+      "non_death_over_runs": 15,
+      "non_death_over_balls": 21
+    }
+  ],
+  "Harpreet Singh": [
+    {
+      "death_over_strike_rate": 124.32432432432432,
+      "death_over_runs": 46,
+      "death_over_balls": 37,
+      "non_death_over_strike_rate": 90.12345679012346,
+      "non_death_over_runs": 73,
+      "non_death_over_balls": 81
+    }
+  ],
+  "CA Ingram": [
+    {
+      "death_over_strike_rate": 150,
+      "death_over_runs": 63,
+      "death_over_balls": 42,
+      "non_death_over_strike_rate": 103.64963503649636,
+      "non_death_over_runs": 142,
+      "non_death_over_balls": 137
+    }
+  ],
+  "S Nadeem": [
+    {
+      "death_over_strike_rate": 45.45454545454545,
+      "death_over_runs": 30,
+      "death_over_balls": 66,
+      "non_death_over_strike_rate": 42.857142857142854,
+      "non_death_over_runs": 9,
+      "non_death_over_balls": 21
+    }
+  ],
+  "CJ Ferguson": [
+    {
+      "death_over_strike_rate": 100,
+      "death_over_runs": 23,
+      "death_over_balls": 23,
+      "non_death_over_strike_rate": 79.7872340425532,
+      "non_death_over_runs": 75,
+      "non_death_over_balls": 94
+    }
+  ],
+  "AA Chavan": [
+    {
+      "death_over_strike_rate": 137.5,
+      "death_over_runs": 11,
+      "death_over_balls": 8,
+      "non_death_over_strike_rate": 33.33333333333333,
+      "non_death_over_runs": 1,
+      "non_death_over_balls": 3
+    }
+  ],
+  "B Kumar": [
+    {
+      "death_over_strike_rate": 96.55172413793103,
+      "death_over_runs": 280,
+      "death_over_balls": 290,
+      "non_death_over_strike_rate": 74.28571428571429,
+      "non_death_over_runs": 26,
+      "non_death_over_balls": 35
+    }
+  ],
+  "S Rana": [
+    {
+      "death_over_strike_rate": 133.33333333333331,
+      "death_over_runs": 64,
+      "death_over_balls": 48,
+      "non_death_over_strike_rate": 74.19354838709677,
+      "non_death_over_runs": 23,
+      "non_death_over_balls": 31
+    }
+  ],
+  "F du Plessis": [
+    {
+      "death_over_strike_rate": 181.73076923076923,
+      "death_over_runs": 567,
+      "death_over_balls": 312,
+      "non_death_over_strike_rate": 131.8496538081108,
+      "non_death_over_runs": 3999,
+      "non_death_over_balls": 3033
+    }
+  ],
+  "GJ Maxwell": [
+    {
+      "death_over_strike_rate": 180.85106382978725,
+      "death_over_runs": 595,
+      "death_over_balls": 329,
+      "non_death_over_strike_rate": 151.50244584206848,
+      "non_death_over_runs": 2168,
+      "non_death_over_balls": 1431
+    }
+  ],
+  "SPD Smith": [
+    {
+      "death_over_strike_rate": 159.38967136150234,
+      "death_over_runs": 679,
+      "death_over_balls": 426,
+      "non_death_over_strike_rate": 118.32111925383077,
+      "non_death_over_runs": 1776,
+      "non_death_over_balls": 1501
+    }
+  ],
+  "MN Samuels": [
+    {
+      "death_over_strike_rate": 147.05882352941177,
+      "death_over_runs": 25,
+      "death_over_balls": 17,
+      "non_death_over_strike_rate": 87.74193548387098,
+      "non_death_over_runs": 136,
+      "non_death_over_balls": 155
+    }
+  ],
+  "SA Yadav": [
+    {
+      "death_over_strike_rate": 175.32133676092545,
+      "death_over_runs": 682,
+      "death_over_balls": 389,
+      "non_death_over_strike_rate": 139.62355212355214,
+      "non_death_over_runs": 2893,
+      "non_death_over_balls": 2072
+    }
+  ],
+  "KK Cooper": [
+    {
+      "death_over_strike_rate": 181.3953488372093,
+      "death_over_runs": 78,
+      "death_over_balls": 43,
+      "non_death_over_strike_rate": 154.16666666666669,
+      "non_death_over_runs": 37,
+      "non_death_over_balls": 24
+    }
+  ],
+  "JP Faulkner": [
+    {
+      "death_over_strike_rate": 156.27240143369175,
+      "death_over_runs": 436,
+      "death_over_balls": 279,
+      "non_death_over_strike_rate": 83.80952380952381,
+      "non_death_over_runs": 88,
+      "non_death_over_balls": 105
+    }
+  ],
+  "HV Patel": [
+    {
+      "death_over_strike_rate": 142.96875,
+      "death_over_runs": 183,
+      "death_over_balls": 128,
+      "non_death_over_strike_rate": 88,
+      "non_death_over_runs": 66,
+      "non_death_over_balls": 75
+    }
+  ],
+  "Ankit Sharma": [
+    {
+      "death_over_strike_rate": 141.1764705882353,
+      "death_over_runs": 48,
+      "death_over_balls": 34,
+      "non_death_over_strike_rate": 118.18181818181819,
+      "non_death_over_runs": 39,
+      "non_death_over_balls": 33
+    }
+  ],
+  "DA Miller": [
+    {
+      "death_over_strike_rate": 176.39836289222376,
+      "death_over_runs": 1293,
+      "death_over_balls": 733,
+      "non_death_over_strike_rate": 119.11764705882352,
+      "non_death_over_runs": 1620,
+      "non_death_over_balls": 1360
+    }
+  ],
+  "Azhar Mahmood": [
+    {
+      "death_over_strike_rate": 135.16483516483518,
+      "death_over_runs": 123,
+      "death_over_balls": 91,
+      "non_death_over_strike_rate": 125,
+      "non_death_over_runs": 265,
+      "non_death_over_balls": 212
+    }
+  ],
+  "P Negi": [
+    {
+      "death_over_strike_rate": 141.43646408839777,
+      "death_over_runs": 256,
+      "death_over_balls": 181,
+      "non_death_over_strike_rate": 100.93457943925233,
+      "non_death_over_runs": 108,
+      "non_death_over_balls": 107
+    }
+  ],
+  "RJ Peterson": [
+    {
+      "death_over_strike_rate": 118.75,
+      "death_over_runs": 19,
+      "death_over_balls": 16,
+      "non_death_over_strike_rate": 92.85714285714286,
+      "non_death_over_runs": 13,
+      "non_death_over_balls": 14
+    }
+  ],
+  "A Ashish Reddy": [
+    {
+      "death_over_strike_rate": 146.57534246575344,
+      "death_over_runs": 214,
+      "death_over_balls": 146,
+      "non_death_over_strike_rate": 140.4255319148936,
+      "non_death_over_runs": 66,
+      "non_death_over_balls": 47
+    }
+  ],
+  "BB Samantray": [
+    {
+      "death_over_strike_rate": 140,
+      "death_over_runs": 42,
+      "death_over_balls": 30,
+      "non_death_over_strike_rate": 100,
+      "non_death_over_runs": 83,
+      "non_death_over_balls": 83
+    }
+  ],
+  "Gurkeerat Singh": [
+    {
+      "death_over_strike_rate": 154.93827160493828,
+      "death_over_runs": 251,
+      "death_over_balls": 162,
+      "non_death_over_strike_rate": 100,
+      "non_death_over_runs": 260,
+      "non_death_over_balls": 260
+    }
+  ],
+  "PA Reddy": [
+    {
+      "death_over_strike_rate": 300,
+      "death_over_runs": 15,
+      "death_over_balls": 5,
+      "non_death_over_strike_rate": 96.12903225806451,
+      "non_death_over_runs": 149,
+      "non_death_over_balls": 155
+    }
+  ],
+  "AD Russell": [
+    {
+      "death_over_strike_rate": 193.92592592592592,
+      "death_over_runs": 1309,
+      "death_over_balls": 675,
+      "non_death_over_strike_rate": 158.02469135802468,
+      "non_death_over_runs": 1152,
+      "non_death_over_balls": 729
+    }
+  ],
+  "MC Juneja": [
+    {
+      "death_over_strike_rate": 106.25,
+      "death_over_runs": 17,
+      "death_over_balls": 16,
+      "non_death_over_strike_rate": 96.42857142857143,
+      "non_death_over_runs": 108,
+      "non_death_over_balls": 112
+    }
+  ],
+  "KK Nair": [
+    {
+      "death_over_strike_rate": 177.41935483870967,
+      "death_over_runs": 275,
+      "death_over_balls": 155,
+      "non_death_over_strike_rate": 119.92110453648914,
+      "non_death_over_runs": 1216,
+      "non_death_over_balls": 1014
+    }
+  ],
+  "GH Vihari": [
+    {
+      "death_over_strike_rate": 113.23529411764706,
+      "death_over_runs": 77,
+      "death_over_balls": 68,
+      "non_death_over_strike_rate": 81.27490039840637,
+      "non_death_over_runs": 204,
+      "non_death_over_balls": 251
+    }
+  ],
+  "AS Rajpoot": [
+    {
+      "death_over_strike_rate": 69.44444444444444,
+      "death_over_runs": 25,
+      "death_over_balls": 36,
+      "non_death_over_strike_rate": 20,
+      "non_death_over_runs": 1,
+      "non_death_over_balls": 5
+    }
+  ],
+  "M Vohra": [
+    {
+      "death_over_strike_rate": 229.62962962962962,
+      "death_over_runs": 62,
+      "death_over_balls": 27,
+      "non_death_over_strike_rate": 127.46566791510612,
+      "non_death_over_runs": 1021,
+      "non_death_over_balls": 801
+    }
+  ],
+  "JD Unadkat": [
+    {
+      "death_over_strike_rate": 126.08695652173914,
+      "death_over_runs": 174,
+      "death_over_balls": 138,
+      "non_death_over_strike_rate": 82.14285714285714,
+      "non_death_over_runs": 23,
+      "non_death_over_balls": 28
+    }
+  ],
+  "R Rampaul": [
+    {
+      "death_over_strike_rate": 106.06060606060606,
+      "death_over_runs": 35,
+      "death_over_balls": 33,
+      "non_death_over_strike_rate": 93.75,
+      "non_death_over_runs": 15,
+      "non_death_over_balls": 16
+    }
+  ],
+  "CH Morris": [
+    {
+      "death_over_strike_rate": 165.993265993266,
+      "death_over_runs": 493,
+      "death_over_balls": 297,
+      "non_death_over_strike_rate": 119,
+      "non_death_over_runs": 119,
+      "non_death_over_balls": 100
+    }
+  ],
+  "SV Samson": [
+    {
+      "death_over_strike_rate": 191.64619164619165,
+      "death_over_runs": 780,
+      "death_over_balls": 407,
+      "non_death_over_strike_rate": 131.59420289855072,
+      "non_death_over_runs": 3632,
+      "non_death_over_balls": 2760
+    }
+  ],
+  "BJ Rohrer": [
+    {
+      "death_over_strike_rate": 225.71428571428572,
+      "death_over_runs": 79,
+      "death_over_balls": 35,
+      "non_death_over_strike_rate": 108.57142857142857,
+      "non_death_over_runs": 114,
+      "non_death_over_balls": 105
+    }
+  ],
+  "KL Rahul": [
+    {
+      "death_over_strike_rate": 177.12264150943395,
+      "death_over_runs": 751,
+      "death_over_balls": 424,
+      "non_death_over_strike_rate": 128.87647831800263,
+      "non_death_over_runs": 3923,
+      "non_death_over_balls": 3044
+    }
+  ],
+  "Q de Kock": [
+    {
+      "death_over_strike_rate": 202.17391304347828,
+      "death_over_runs": 186,
+      "death_over_balls": 92,
+      "non_death_over_strike_rate": 131.45519077196096,
+      "non_death_over_runs": 2963,
+      "non_death_over_balls": 2254
+    }
+  ],
+  "R Dhawan": [
+    {
+      "death_over_strike_rate": 127.27272727272727,
+      "death_over_runs": 168,
+      "death_over_balls": 132,
+      "non_death_over_strike_rate": 76.36363636363637,
+      "non_death_over_runs": 42,
+      "non_death_over_balls": 55
+    }
+  ],
+  "MG Johnson": [
+    {
+      "death_over_strike_rate": 109.09090909090908,
+      "death_over_runs": 156,
+      "death_over_balls": 143,
+      "non_death_over_strike_rate": 50,
+      "non_death_over_runs": 10,
+      "non_death_over_balls": 20
+    }
+  ],
+  "LJ Wright": [
+    {
+      "death_over_strike_rate": 222.22222222222223,
+      "death_over_runs": 80,
+      "death_over_balls": 36,
+      "non_death_over_strike_rate": 95.65217391304348,
+      "non_death_over_runs": 22,
+      "non_death_over_balls": 23
+    }
+  ],
+  "CM Gautam": [
+    {
+      "death_over_strike_rate": 125,
+      "death_over_runs": 55,
+      "death_over_balls": 44,
+      "non_death_over_strike_rate": 108.57142857142857,
+      "non_death_over_runs": 114,
+      "non_death_over_balls": 105
+    }
+  ],
+  "X Thalaivan Sargunam": [
+    {
+      "death_over_strike_rate": 66.66666666666666,
+      "death_over_runs": 2,
+      "death_over_balls": 3,
+      "non_death_over_strike_rate": 57.14285714285714,
+      "non_death_over_runs": 8,
+      "non_death_over_balls": 14
+    }
+  ],
+  "DJG Sammy": [
+    {
+      "death_over_strike_rate": 141.66666666666669,
+      "death_over_runs": 136,
+      "death_over_balls": 96,
+      "non_death_over_strike_rate": 109.6551724137931,
+      "non_death_over_runs": 159,
+      "non_death_over_balls": 145
+    }
+  ],
+  "MM Sharma": [
+    {
+      "death_over_strike_rate": 102.32558139534885,
+      "death_over_runs": 88,
+      "death_over_balls": 86,
+      "non_death_over_strike_rate": 76.59574468085107,
+      "non_death_over_runs": 36,
+      "non_death_over_balls": 47
+    }
+  ],
+  "Sachin Baby": [
+    {
+      "death_over_strike_rate": 162.06896551724137,
+      "death_over_runs": 94,
+      "death_over_balls": 58,
+      "non_death_over_strike_rate": 84.21052631578947,
+      "non_death_over_runs": 48,
+      "non_death_over_balls": 57
+    }
+  ],
+  "NM Coulter-Nile": [
+    {
+      "death_over_strike_rate": 130.35714285714286,
+      "death_over_runs": 73,
+      "death_over_balls": 56,
+      "non_death_over_strike_rate": 56.25,
+      "non_death_over_runs": 9,
+      "non_death_over_balls": 16
+    }
+  ],
+  "CJ Anderson": [
+    {
+      "death_over_strike_rate": 168.26923076923077,
+      "death_over_runs": 175,
+      "death_over_balls": 104,
+      "non_death_over_strike_rate": 114.51104100946372,
+      "non_death_over_runs": 363,
+      "non_death_over_balls": 317
+    }
+  ],
+  "AR Patel": [
+    {
+      "death_over_strike_rate": 150.33783783783784,
+      "death_over_runs": 890,
+      "death_over_balls": 592,
+      "non_death_over_strike_rate": 112.8935532233883,
+      "non_death_over_runs": 753,
+      "non_death_over_balls": 667
+    }
+  ],
+  "TG Southee": [
+    {
+      "death_over_strike_rate": 134.17721518987344,
+      "death_over_runs": 106,
+      "death_over_balls": 79,
+      "non_death_over_strike_rate": 51.85185185185185,
+      "non_death_over_runs": 14,
+      "non_death_over_balls": 27
+    }
+  ],
+  "RR Rossouw": [
+    {
+      "death_over_strike_rate": 210.25641025641028,
+      "death_over_runs": 82,
+      "death_over_balls": 39,
+      "non_death_over_strike_rate": 145.69288389513108,
+      "non_death_over_runs": 389,
+      "non_death_over_balls": 267
+    }
+  ],
+  "YS Chahal": [
+    {
+      "death_over_strike_rate": 52.38095238095239,
+      "death_over_runs": 33,
+      "death_over_balls": 63,
+      "non_death_over_strike_rate": 17.391304347826086,
+      "non_death_over_runs": 4,
+      "non_death_over_balls": 23
+    }
+  ],
+  "LMP Simmons": [
+    {
+      "death_over_strike_rate": 155.55555555555557,
+      "death_over_runs": 56,
+      "death_over_balls": 36,
+      "non_death_over_strike_rate": 125.98522167487684,
+      "non_death_over_runs": 1023,
+      "non_death_over_balls": 812
+    }
+  ],
+  "BCJ Cutting": [
+    {
+      "death_over_strike_rate": 178.51239669421489,
+      "death_over_runs": 216,
+      "death_over_balls": 121,
+      "non_death_over_strike_rate": 110.00000000000001,
+      "non_death_over_runs": 22,
+      "non_death_over_balls": 20
+    }
+  ],
+  "Imran Tahir": [
+    {
+      "death_over_strike_rate": 93.54838709677419,
+      "death_over_runs": 29,
+      "death_over_balls": 31,
+      "non_death_over_strike_rate": 66.66666666666666,
+      "non_death_over_runs": 4,
+      "non_death_over_balls": 6
+    }
+  ],
+  "S Gopal": [
+    {
+      "death_over_strike_rate": 129.80769230769232,
+      "death_over_runs": 135,
+      "death_over_balls": 104,
+      "non_death_over_strike_rate": 69.23076923076923,
+      "non_death_over_runs": 45,
+      "non_death_over_balls": 65
+    }
+  ],
+  "R Tewatia": [
+    {
+      "death_over_strike_rate": 167.9334916864608,
+      "death_over_runs": 707,
+      "death_over_balls": 421,
+      "non_death_over_strike_rate": 92.96636085626912,
+      "non_death_over_runs": 304,
+      "non_death_over_balls": 327
+    }
+  ],
+  "JO Holder": [
+    {
+      "death_over_strike_rate": 130.82706766917295,
+      "death_over_runs": 174,
+      "death_over_balls": 133,
+      "non_death_over_strike_rate": 111.8421052631579,
+      "non_death_over_runs": 85,
+      "non_death_over_balls": 76
+    }
+  ],
+  "Karanveer Singh": [
+    {
+      "death_over_strike_rate": 80,
+      "death_over_runs": 8,
+      "death_over_balls": 10,
+      "non_death_over_strike_rate": 57.14285714285714,
+      "non_death_over_runs": 4,
+      "non_death_over_balls": 7
+    }
+  ],
+  "SS Iyer": [
+    {
+      "death_over_strike_rate": 167.12328767123287,
+      "death_over_runs": 488,
+      "death_over_balls": 292,
+      "non_death_over_strike_rate": 122.08816705336427,
+      "non_death_over_runs": 2631,
+      "non_death_over_balls": 2155
+    }
+  ],
+  "DJ Hooda": [
+    {
+      "death_over_strike_rate": 147.31543624161074,
+      "death_over_runs": 439,
+      "death_over_balls": 298,
+      "non_death_over_strike_rate": 122.58454106280192,
+      "non_death_over_runs": 1015,
+      "non_death_over_balls": 828
+    }
+  ],
+  "Anureet Singh": [
+    {
+      "death_over_strike_rate": 84.21052631578947,
+      "death_over_runs": 32,
+      "death_over_balls": 38,
+      "non_death_over_strike_rate": 44.44444444444444,
+      "non_death_over_runs": 4,
+      "non_death_over_balls": 9
+    }
+  ],
+  "KS Williamson": [
+    {
+      "death_over_strike_rate": 166.1818181818182,
+      "death_over_runs": 457,
+      "death_over_balls": 275,
+      "non_death_over_strike_rate": 117.89250353606788,
+      "non_death_over_runs": 1667,
+      "non_death_over_balls": 1414
+    }
+  ],
+  "J Suchith": [
+    {
+      "death_over_strike_rate": 180.64516129032256,
+      "death_over_runs": 56,
+      "death_over_balls": 31,
+      "non_death_over_strike_rate": 46.666666666666664,
+      "non_death_over_runs": 14,
+      "non_death_over_balls": 30
+    }
+  ],
+  "HH Pandya": [
+    {
+      "death_over_strike_rate": 171.313672922252,
+      "death_over_runs": 1278,
+      "death_over_balls": 746,
+      "non_death_over_strike_rate": 126.04698672114402,
+      "non_death_over_runs": 1234,
+      "non_death_over_balls": 979
+    }
+  ],
+  "D Wiese": [
+    {
+      "death_over_strike_rate": 162.33766233766232,
+      "death_over_runs": 125,
+      "death_over_balls": 77,
+      "non_death_over_strike_rate": 95.65217391304348,
+      "non_death_over_runs": 22,
+      "non_death_over_balls": 23
+    }
+  ],
+  "SN Khan": [
+    {
+      "death_over_strike_rate": 162.5,
+      "death_over_runs": 273,
+      "death_over_balls": 168,
+      "non_death_over_strike_rate": 110.5072463768116,
+      "non_death_over_runs": 305,
+      "non_death_over_balls": 276
+    }
+  ],
+  "PJ Cummins": [
+    {
+      "death_over_strike_rate": 157.32758620689654,
+      "death_over_runs": 365,
+      "death_over_balls": 232,
+      "non_death_over_strike_rate": 131.8181818181818,
+      "non_death_over_runs": 145,
+      "non_death_over_balls": 110
+    }
+  ],
+  "SN Thakur": [
+    {
+      "death_over_strike_rate": 144.6043165467626,
+      "death_over_runs": 201,
+      "death_over_balls": 139,
+      "non_death_over_strike_rate": 129.62962962962962,
+      "non_death_over_runs": 105,
+      "non_death_over_balls": 81
+    }
+  ],
+  "JC Buttler": [
+    {
+      "death_over_strike_rate": 197.64309764309763,
+      "death_over_runs": 587,
+      "death_over_balls": 297,
+      "non_death_over_strike_rate": 140.14150943396226,
+      "non_death_over_runs": 2971,
+      "non_death_over_balls": 2120
+    }
+  ],
+  "CR Brathwaite": [
+    {
+      "death_over_strike_rate": 200,
+      "death_over_runs": 156,
+      "death_over_balls": 78,
+      "non_death_over_strike_rate": 75,
+      "non_death_over_runs": 24,
+      "non_death_over_balls": 32
+    }
+  ],
+  "MP Stoinis": [
+    {
+      "death_over_strike_rate": 167.56756756756758,
+      "death_over_runs": 744,
+      "death_over_balls": 444,
+      "non_death_over_strike_rate": 128.7037037037037,
+      "non_death_over_runs": 1112,
+      "non_death_over_balls": 864
+    }
+  ],
+  "Ishan Kishan": [
+    {
+      "death_over_strike_rate": 180.85106382978725,
+      "death_over_runs": 255,
+      "death_over_balls": 141,
+      "non_death_over_strike_rate": 132.36929922135707,
+      "non_death_over_runs": 2380,
+      "non_death_over_balls": 1798
+    }
+  ],
+  "KH Pandya": [
+    {
+      "death_over_strike_rate": 159.47242206235012,
+      "death_over_runs": 665,
+      "death_over_balls": 417,
+      "non_death_over_strike_rate": 118.97810218978103,
+      "non_death_over_runs": 978,
+      "non_death_over_balls": 822
+    }
+  ],
+  "TM Head": [
+    {
+      "death_over_strike_rate": 180,
+      "death_over_runs": 99,
+      "death_over_balls": 55,
+      "non_death_over_strike_rate": 173.05699481865284,
+      "non_death_over_runs": 668,
+      "non_death_over_balls": 386
+    }
+  ],
+  "M Ashwin": [
+    {
+      "death_over_strike_rate": 81.08108108108108,
+      "death_over_runs": 30,
+      "death_over_balls": 37,
+      "non_death_over_strike_rate": 38.46153846153847,
+      "non_death_over_runs": 5,
+      "non_death_over_balls": 13
+    }
+  ],
+  "RR Pant": [
+    {
+      "death_over_strike_rate": 202.2172949002217,
+      "death_over_runs": 912,
+      "death_over_balls": 451,
+      "non_death_over_strike_rate": 135.01432664756447,
+      "non_death_over_runs": 2356,
+      "non_death_over_balls": 1745
+    }
+  ],
+  "SW Billings": [
+    {
+      "death_over_strike_rate": 168.57142857142858,
+      "death_over_runs": 118,
+      "death_over_balls": 70,
+      "non_death_over_strike_rate": 120.31746031746032,
+      "non_death_over_runs": 379,
+      "non_death_over_balls": 315
+    }
+  ],
+  "Swapnil Singh": [
+    {
+      "death_over_strike_rate": 136.8421052631579,
+      "death_over_runs": 26,
+      "death_over_balls": 19,
+      "non_death_over_strike_rate": 96.15384615384616,
+      "non_death_over_runs": 25,
+      "non_death_over_balls": 26
+    }
+  ],
+  "J Yadav": [
+    {
+      "death_over_strike_rate": 114.81481481481481,
+      "death_over_runs": 31,
+      "death_over_balls": 27,
+      "non_death_over_strike_rate": 100,
+      "non_death_over_runs": 9,
+      "non_death_over_balls": 9
+    }
+  ],
+  "HM Amla": [
+    {
+      "death_over_strike_rate": 235.29411764705884,
+      "death_over_runs": 120,
+      "death_over_balls": 51,
+      "non_death_over_strike_rate": 128.16901408450704,
+      "non_death_over_runs": 455,
+      "non_death_over_balls": 355
+    }
+  ],
+  "N Rana": [
+    {
+      "death_over_strike_rate": 177.33333333333334,
+      "death_over_runs": 399,
+      "death_over_balls": 225,
+      "non_death_over_strike_rate": 129.11098198721675,
+      "non_death_over_runs": 2222,
+      "non_death_over_balls": 1721
+    }
+  ],
+  "ER Dwivedi": [
+    {
+      "death_over_strike_rate": 211.11111111111111,
+      "death_over_runs": 19,
+      "death_over_balls": 9,
+      "non_death_over_strike_rate": 100,
+      "non_death_over_runs": 5,
+      "non_death_over_balls": 5
+    }
+  ],
+  "CJ Jordan": [
+    {
+      "death_over_strike_rate": 112.67605633802818,
+      "death_over_runs": 80,
+      "death_over_balls": 71,
+      "non_death_over_strike_rate": 16.666666666666664,
+      "non_death_over_runs": 1,
+      "non_death_over_balls": 6
+    }
+  ],
+  "TS Mills": [
+    {
+      "death_over_strike_rate": 66.66666666666666,
+      "death_over_runs": 6,
+      "death_over_balls": 9,
+      "non_death_over_strike_rate": 40,
+      "non_death_over_runs": 2,
+      "non_death_over_balls": 5
+    }
+  ],
+  "BA Stokes": [
+    {
+      "death_over_strike_rate": 164.79999999999998,
+      "death_over_runs": 206,
+      "death_over_balls": 125,
+      "non_death_over_strike_rate": 127.71929824561403,
+      "non_death_over_runs": 728,
+      "non_death_over_balls": 570
+    }
+  ],
+  "JJ Roy": [
+    {
+      "death_over_strike_rate": 178.26086956521738,
+      "death_over_runs": 41,
+      "death_over_balls": 23,
+      "non_death_over_strike_rate": 137.08133971291866,
+      "non_death_over_runs": 573,
+      "non_death_over_balls": 418
+    }
+  ],
+  "Vishnu Vinod": [
+    {
+      "death_over_strike_rate": 110.00000000000001,
+      "death_over_runs": 11,
+      "death_over_balls": 10,
+      "non_death_over_strike_rate": 95.65217391304348,
+      "non_death_over_runs": 44,
+      "non_death_over_balls": 46
+    }
+  ],
+  "Basil Thampi": [
+    {
+      "death_over_strike_rate": 96.66666666666667,
+      "death_over_runs": 29,
+      "death_over_balls": 30,
+      "non_death_over_strike_rate": 60,
+      "non_death_over_runs": 3,
+      "non_death_over_balls": 5
+    }
+  ],
+  "CR Woakes": [
+    {
+      "death_over_strike_rate": 112.5,
+      "death_over_runs": 63,
+      "death_over_balls": 56,
+      "non_death_over_strike_rate": 71.42857142857143,
+      "non_death_over_runs": 15,
+      "non_death_over_balls": 21
+    }
+  ],
+  "RA Tripathi": [
+    {
+      "death_over_strike_rate": 143.6241610738255,
+      "death_over_runs": 214,
+      "death_over_balls": 149,
+      "non_death_over_strike_rate": 137.95721187025535,
+      "non_death_over_runs": 1999,
+      "non_death_over_balls": 1449
+    }
+  ],
+  "V Shankar": [
+    {
+      "death_over_strike_rate": 166.66666666666669,
+      "death_over_runs": 485,
+      "death_over_balls": 291,
+      "non_death_over_strike_rate": 110.42402826855124,
+      "non_death_over_runs": 625,
+      "non_death_over_balls": 566
+    }
+  ],
+  "Rashid Khan": [
+    {
+      "death_over_strike_rate": 168.84057971014494,
+      "death_over_runs": 466,
+      "death_over_balls": 276,
+      "non_death_over_strike_rate": 127.27272727272727,
+      "non_death_over_runs": 70,
+      "non_death_over_balls": 55
+    }
+  ],
+  "RD Chahar": [
+    {
+      "death_over_strike_rate": 115.74074074074075,
+      "death_over_runs": 125,
+      "death_over_balls": 108,
+      "non_death_over_strike_rate": 25,
+      "non_death_over_runs": 4,
+      "non_death_over_balls": 16
+    }
+  ],
+  "C de Grandhomme": [
+    {
+      "death_over_strike_rate": 137.5,
+      "death_over_runs": 154,
+      "death_over_balls": 112,
+      "non_death_over_strike_rate": 127.67857142857142,
+      "non_death_over_runs": 143,
+      "non_death_over_balls": 112
+    }
+  ],
+  "AF Milne": [
+    {
+      "death_over_strike_rate": 85,
+      "death_over_runs": 17,
+      "death_over_balls": 20,
+      "non_death_over_strike_rate": 66.66666666666666,
+      "non_death_over_runs": 6,
+      "non_death_over_balls": 9
+    }
+  ],
+  "S Badree": [
+    {
+      "death_over_strike_rate": 57.14285714285714,
+      "death_over_runs": 8,
+      "death_over_balls": 14,
+      "non_death_over_strike_rate": 55.55555555555556,
+      "non_death_over_runs": 5,
+      "non_death_over_balls": 9
+    }
+  ],
+  "Mohammad Nabi": [
+    {
+      "death_over_strike_rate": 143.0232558139535,
+      "death_over_runs": 123,
+      "death_over_balls": 86,
+      "non_death_over_strike_rate": 136.5079365079365,
+      "non_death_over_runs": 86,
+      "non_death_over_balls": 63
+    }
+  ],
+  "K Rabada": [
+    {
+      "death_over_strike_rate": 119.68503937007875,
+      "death_over_runs": 152,
+      "death_over_balls": 127,
+      "non_death_over_strike_rate": 83.07692307692308,
+      "non_death_over_runs": 54,
+      "non_death_over_balls": 65
+    }
+  ],
+  "Kuldeep Yadav": [
+    {
+      "death_over_strike_rate": 90.55555555555556,
+      "death_over_runs": 163,
+      "death_over_balls": 180,
+      "non_death_over_strike_rate": 55.55555555555556,
+      "non_death_over_runs": 20,
+      "non_death_over_balls": 36
+    }
+  ],
+  "Washington Sundar": [
+    {
+      "death_over_strike_rate": 143.75,
+      "death_over_runs": 253,
+      "death_over_balls": 176,
+      "non_death_over_strike_rate": 83.78378378378379,
+      "non_death_over_runs": 124,
+      "non_death_over_balls": 148
+    }
+  ],
+  "SP Jackson": [
+    {
+      "death_over_strike_rate": 113.33333333333333,
+      "death_over_runs": 34,
+      "death_over_balls": 30,
+      "non_death_over_strike_rate": 100,
+      "non_death_over_runs": 27,
+      "non_death_over_balls": 27
+    }
+  ],
+  "TA Boult": [
+    {
+      "death_over_strike_rate": 107.04225352112675,
+      "death_over_runs": 76,
+      "death_over_balls": 71,
+      "non_death_over_strike_rate": 100,
+      "non_death_over_runs": 7,
+      "non_death_over_balls": 7
+    }
+  ],
+  "E Lewis": [
+    {
+      "death_over_strike_rate": 152.38095238095238,
+      "death_over_runs": 32,
+      "death_over_balls": 21,
+      "non_death_over_strike_rate": 136.4035087719298,
+      "non_death_over_runs": 622,
+      "non_death_over_balls": 456
+    }
+  ],
+  "RK Singh": [
+    {
+      "death_over_strike_rate": 180.66914498141264,
+      "death_over_runs": 486,
+      "death_over_balls": 269,
+      "non_death_over_strike_rate": 112.93103448275863,
+      "non_death_over_runs": 393,
+      "non_death_over_balls": 348
+    }
+  ],
+  "K Gowtham": [
+    {
+      "death_over_strike_rate": 186.36363636363635,
+      "death_over_runs": 164,
+      "death_over_balls": 88,
+      "non_death_over_strike_rate": 138.33333333333334,
+      "non_death_over_runs": 83,
+      "non_death_over_balls": 60
+    }
+  ],
+  "TK Curran": [
+    {
+      "death_over_strike_rate": 138,
+      "death_over_runs": 69,
+      "death_over_balls": 50,
+      "non_death_over_strike_rate": 101.75438596491229,
+      "non_death_over_runs": 58,
+      "non_death_over_balls": 57
+    }
+  ],
+  "Mujeeb Ur Rahman": [
+    {
+      "death_over_strike_rate": 91.66666666666666,
+      "death_over_runs": 11,
+      "death_over_balls": 12,
+      "non_death_over_strike_rate": 33.33333333333333,
+      "non_death_over_runs": 1,
+      "non_death_over_balls": 3
+    }
+  ],
+  "Shubman Gill": [
+    {
+      "death_over_strike_rate": 151.63934426229508,
+      "death_over_runs": 370,
+      "death_over_balls": 244,
+      "non_death_over_strike_rate": 133.97920604914935,
+      "non_death_over_runs": 2835,
+      "non_death_over_balls": 2116
+    }
+  ],
+  "Shivam Mavi": [
+    {
+      "death_over_strike_rate": 94.11764705882352,
+      "death_over_runs": 48,
+      "death_over_balls": 51,
+      "non_death_over_strike_rate": 60,
+      "non_death_over_runs": 3,
+      "non_death_over_balls": 5
+    }
+  ],
+  "H Klaasen": [
+    {
+      "death_over_strike_rate": 193.26923076923077,
+      "death_over_runs": 402,
+      "death_over_balls": 208,
+      "non_death_over_strike_rate": 155.58510638297872,
+      "non_death_over_runs": 585,
+      "non_death_over_balls": 376
+    }
+  ],
+  "JC Archer": [
+    {
+      "death_over_strike_rate": 158.71559633027522,
+      "death_over_runs": 173,
+      "death_over_balls": 109,
+      "non_death_over_strike_rate": 86.66666666666667,
+      "non_death_over_runs": 13,
+      "non_death_over_balls": 15
+    }
+  ],
+  "MK Lomror": [
+    {
+      "death_over_strike_rate": 161.9718309859155,
+      "death_over_runs": 230,
+      "death_over_balls": 142,
+      "non_death_over_strike_rate": 128.69565217391303,
+      "non_death_over_runs": 296,
+      "non_death_over_balls": 230
+    }
+  ],
+  "MM Ali": [
+    {
+      "death_over_strike_rate": 178.70967741935485,
+      "death_over_runs": 277,
+      "death_over_balls": 155,
+      "non_death_over_strike_rate": 133.18250377073906,
+      "non_death_over_runs": 883,
+      "non_death_over_balls": 663
+    }
+  ],
+  "Abhishek Sharma": [
+    {
+      "death_over_strike_rate": 155.3398058252427,
+      "death_over_runs": 160,
+      "death_over_balls": 103,
+      "non_death_over_strike_rate": 155,
+      "non_death_over_runs": 1209,
+      "non_death_over_balls": 780
+    }
+  ],
+  "IS Sodhi": [
+    {
+      "death_over_strike_rate": 50,
+      "death_over_runs": 5,
+      "death_over_balls": 10,
+      "non_death_over_strike_rate": 28.57142857142857,
+      "non_death_over_runs": 2,
+      "non_death_over_balls": 7
+    }
+  ],
+  "SO Hetmyer": [
+    {
+      "death_over_strike_rate": 182.25806451612902,
+      "death_over_runs": 791,
+      "death_over_balls": 434,
+      "non_death_over_strike_rate": 120.64343163538874,
+      "non_death_over_runs": 450,
+      "non_death_over_balls": 373
+    }
+  ],
+  "S Dube": [
+    {
+      "death_over_strike_rate": 175.4208754208754,
+      "death_over_runs": 521,
+      "death_over_balls": 297,
+      "non_death_over_strike_rate": 134.89655172413794,
+      "non_death_over_runs": 978,
+      "non_death_over_balls": 725
+    }
+  ],
+  "Navdeep Saini": [
+    {
+      "death_over_strike_rate": 103.7037037037037,
+      "death_over_runs": 28,
+      "death_over_balls": 27,
+      "non_death_over_strike_rate": 50,
+      "non_death_over_runs": 5,
+      "non_death_over_balls": 10
+    }
+  ],
+  "Rasikh Salam": [
+    {
+      "death_over_strike_rate": 115.99999999999999,
+      "death_over_runs": 29,
+      "death_over_balls": 25,
+      "non_death_over_strike_rate": 73.33333333333333,
+      "non_death_over_runs": 11,
+      "non_death_over_balls": 15
+    }
+  ],
+  "N Pooran": [
+    {
+      "death_over_strike_rate": 170.4057279236277,
+      "death_over_runs": 714,
+      "death_over_balls": 419,
+      "non_death_over_strike_rate": 157.69805680119583,
+      "non_death_over_runs": 1055,
+      "non_death_over_balls": 669
+    }
+  ],
+  "SM Curran": [
+    {
+      "death_over_strike_rate": 179.4871794871795,
+      "death_over_runs": 420,
+      "death_over_balls": 234,
+      "non_death_over_strike_rate": 111.00244498777505,
+      "non_death_over_runs": 454,
+      "non_death_over_balls": 409
+    }
+  ],
+  "R Parag": [
+    {
+      "death_over_strike_rate": 160.46511627906978,
+      "death_over_runs": 483,
+      "death_over_balls": 301,
+      "non_death_over_strike_rate": 122.34042553191489,
+      "non_death_over_runs": 690,
+      "non_death_over_balls": 564
+    }
+  ],
+  "MJ Santner": [
+    {
+      "death_over_strike_rate": 139.1304347826087,
+      "death_over_runs": 32,
+      "death_over_balls": 23,
+      "non_death_over_strike_rate": 78.72340425531915,
+      "non_death_over_runs": 37,
+      "non_death_over_balls": 47
+    }
+  ],
+  "LS Livingstone": [
+    {
+      "death_over_strike_rate": 213.28125,
+      "death_over_runs": 273,
+      "death_over_balls": 128,
+      "non_death_over_strike_rate": 146.72686230248306,
+      "non_death_over_runs": 650,
+      "non_death_over_balls": 443
+    }
+  ],
+  "Harpreet Brar": [
+    {
+      "death_over_strike_rate": 134.01360544217687,
+      "death_over_runs": 197,
+      "death_over_balls": 147,
+      "non_death_over_strike_rate": 83.72093023255815,
+      "non_death_over_runs": 36,
+      "non_death_over_balls": 43
+    }
+  ],
+  "SE Rutherford": [
+    {
+      "death_over_strike_rate": 157.14285714285714,
+      "death_over_runs": 66,
+      "death_over_balls": 42,
+      "non_death_over_strike_rate": 64.51612903225806,
+      "non_death_over_runs": 40,
+      "non_death_over_balls": 62
+    }
+  ],
+  "P Simran Singh": [
+    {
+      "death_over_strike_rate": 155.88235294117646,
+      "death_over_runs": 53,
+      "death_over_balls": 34,
+      "non_death_over_strike_rate": 144.6058091286307,
+      "non_death_over_runs": 697,
+      "non_death_over_balls": 482
+    }
+  ],
+  "D Padikkal": [
+    {
+      "death_over_strike_rate": 139.02439024390242,
+      "death_over_runs": 114,
+      "death_over_balls": 82,
+      "non_death_over_strike_rate": 122.1186440677966,
+      "non_death_over_runs": 1441,
+      "non_death_over_balls": 1180
+    }
+  ],
+  "YBK Jaiswal": [
+    {
+      "death_over_strike_rate": 213.33333333333334,
+      "death_over_runs": 64,
+      "death_over_balls": 30,
+      "non_death_over_strike_rate": 148.35271317829458,
+      "non_death_over_runs": 1531,
+      "non_death_over_balls": 1032
+    }
+  ],
+  "RD Gaikwad": [
+    {
+      "death_over_strike_rate": 170.94594594594594,
+      "death_over_runs": 253,
+      "death_over_balls": 148,
+      "non_death_over_strike_rate": 133.94437420986094,
+      "non_death_over_runs": 2119,
+      "non_death_over_balls": 1582
+    }
+  ],
+  "Abdul Samad": [
+    {
+      "death_over_strike_rate": 166.5236051502146,
+      "death_over_runs": 388,
+      "death_over_balls": 233,
+      "non_death_over_strike_rate": 115.72327044025157,
+      "non_death_over_runs": 184,
+      "non_death_over_balls": 159
+    }
+  ],
+  "PK Garg": [
+    {
+      "death_over_strike_rate": 160.5263157894737,
+      "death_over_runs": 61,
+      "death_over_balls": 38,
+      "non_death_over_strike_rate": 104,
+      "non_death_over_runs": 208,
+      "non_death_over_balls": 200
+    }
+  ],
+  "KL Nagarkoti": [
+    {
+      "death_over_strike_rate": 80,
+      "death_over_runs": 16,
+      "death_over_balls": 20,
+      "non_death_over_strike_rate": 46.15384615384615,
+      "non_death_over_runs": 6,
+      "non_death_over_balls": 13
+    }
+  ],
+  "Ravi Bishnoi": [
+    {
+      "death_over_strike_rate": 71.875,
+      "death_over_runs": 23,
+      "death_over_balls": 32,
+      "non_death_over_strike_rate": 50,
+      "non_death_over_runs": 9,
+      "non_death_over_balls": 18
+    }
+  ],
+  "Shahbaz Ahmed": [
+    {
+      "death_over_strike_rate": 146.85714285714286,
+      "death_over_runs": 257,
+      "death_over_balls": 175,
+      "non_death_over_strike_rate": 105.70342205323193,
+      "non_death_over_runs": 278,
+      "non_death_over_balls": 263
+    }
+  ],
+  "DR Sams": [
+    {
+      "death_over_strike_rate": 112.5,
+      "death_over_runs": 27,
+      "death_over_balls": 24,
+      "non_death_over_strike_rate": 85,
+      "non_death_over_runs": 17,
+      "non_death_over_balls": 20
+    }
+  ],
+  "RM Patidar": [
+    {
+      "death_over_strike_rate": 240,
+      "death_over_runs": 72,
+      "death_over_balls": 30,
+      "non_death_over_strike_rate": 153.81355932203388,
+      "non_death_over_runs": 726,
+      "non_death_over_balls": 472
+    }
+  ],
+  "KA Jamieson": [
+    {
+      "death_over_strike_rate": 147.22222222222223,
+      "death_over_runs": 53,
+      "death_over_balls": 36,
+      "non_death_over_strike_rate": 63.1578947368421,
+      "non_death_over_runs": 12,
+      "non_death_over_balls": 19
+    }
+  ],
+  "M Shahrukh Khan": [
+    {
+      "death_over_strike_rate": 162.03208556149733,
+      "death_over_runs": 303,
+      "death_over_balls": 187,
+      "non_death_over_strike_rate": 122.54901960784315,
+      "non_death_over_runs": 250,
+      "non_death_over_balls": 204
+    }
+  ],
+  "Lalit Yadav": [
+    {
+      "death_over_strike_rate": 115.5844155844156,
+      "death_over_runs": 89,
+      "death_over_balls": 77,
+      "non_death_over_strike_rate": 98.5576923076923,
+      "non_death_over_runs": 205,
+      "non_death_over_balls": 208
+    }
+  ],
+  "FA Allen": [
+    {
+      "death_over_strike_rate": 84.61538461538461,
+      "death_over_runs": 11,
+      "death_over_balls": 13,
+      "non_death_over_strike_rate": 40,
+      "non_death_over_runs": 2,
+      "non_death_over_balls": 5
+    }
+  ],
+  "C Sakariya": [
+    {
+      "death_over_strike_rate": 73.07692307692307,
+      "death_over_runs": 19,
+      "death_over_balls": 26,
+      "non_death_over_strike_rate": 25,
+      "non_death_over_runs": 1,
+      "non_death_over_balls": 4
+    }
+  ],
+  "KS Bharat": [
+    {
+      "death_over_strike_rate": 168.42105263157893,
+      "death_over_runs": 32,
+      "death_over_balls": 19,
+      "non_death_over_strike_rate": 116.90140845070422,
+      "non_death_over_runs": 166,
+      "non_death_over_balls": 142
+    }
+  ],
+  "PWH de Silva": [
+    {
+      "death_over_strike_rate": 112.24489795918366,
+      "death_over_runs": 55,
+      "death_over_balls": 49,
+      "non_death_over_strike_rate": 70.83333333333334,
+      "non_death_over_runs": 17,
+      "non_death_over_balls": 24
+    }
+  ],
+  "GD Phillips": [
+    {
+      "death_over_strike_rate": 204.54545454545453,
+      "death_over_runs": 45,
+      "death_over_balls": 22,
+      "non_death_over_strike_rate": 62.5,
+      "non_death_over_runs": 20,
+      "non_death_over_balls": 32
+    }
+  ],
+  "AK Markram": [
+    {
+      "death_over_strike_rate": 183.60655737704917,
+      "death_over_runs": 224,
+      "death_over_balls": 122,
+      "non_death_over_strike_rate": 120.09345794392523,
+      "non_death_over_runs": 771,
+      "non_death_over_balls": 642
+    }
+  ],
+  "RV Patel": [
+    {
+      "death_over_strike_rate": 123.80952380952381,
+      "death_over_runs": 52,
+      "death_over_balls": 42,
+      "non_death_over_strike_rate": 90.32258064516128,
+      "non_death_over_runs": 28,
+      "non_death_over_balls": 31
+    }
+  ],
+  "Anuj Rawat": [
+    {
+      "death_over_strike_rate": 175.30864197530863,
+      "death_over_runs": 142,
+      "death_over_balls": 81,
+      "non_death_over_strike_rate": 94.6236559139785,
+      "non_death_over_runs": 176,
+      "non_death_over_balls": 186
+    }
+  ],
+  "TH David": [
+    {
+      "death_over_strike_rate": 190.35714285714283,
+      "death_over_runs": 533,
+      "death_over_balls": 280,
+      "non_death_over_strike_rate": 113.33333333333333,
+      "non_death_over_runs": 119,
+      "non_death_over_balls": 105
+    }
+  ],
+  "DP Conway": [
+    {
+      "death_over_strike_rate": 156.36363636363637,
+      "death_over_runs": 86,
+      "death_over_balls": 55,
+      "non_death_over_strike_rate": 140.43624161073828,
+      "non_death_over_runs": 837,
+      "non_death_over_balls": 596
+    }
+  ],
+  "Tilak Varma": [
+    {
+      "death_over_strike_rate": 181.59509202453987,
+      "death_over_runs": 296,
+      "death_over_balls": 163,
+      "non_death_over_strike_rate": 137.5,
+      "non_death_over_runs": 858,
+      "non_death_over_balls": 624
+    }
+  ],
+  "R Powell": [
+    {
+      "death_over_strike_rate": 197.41379310344826,
+      "death_over_runs": 229,
+      "death_over_balls": 116,
+      "non_death_over_strike_rate": 102.34375,
+      "non_death_over_runs": 131,
+      "non_death_over_balls": 128
+    }
+  ],
+  "OF Smith": [
+    {
+      "death_over_strike_rate": 137.14285714285714,
+      "death_over_runs": 48,
+      "death_over_balls": 35,
+      "non_death_over_strike_rate": 33.33333333333333,
+      "non_death_over_runs": 3,
+      "non_death_over_balls": 9
+    }
+  ],
+  "A Badoni": [
+    {
+      "death_over_strike_rate": 161.70212765957444,
+      "death_over_runs": 380,
+      "death_over_balls": 235,
+      "non_death_over_strike_rate": 106.75105485232068,
+      "non_death_over_runs": 253,
+      "non_death_over_balls": 237
+    }
+  ],
+  "A Manohar": [
+    {
+      "death_over_strike_rate": 166.66666666666669,
+      "death_over_runs": 105,
+      "death_over_balls": 63,
+      "non_death_over_strike_rate": 113.51351351351352,
+      "non_death_over_runs": 126,
+      "non_death_over_balls": 111
+    }
+  ],
+  "R Shepherd": [
+    {
+      "death_over_strike_rate": 211.6279069767442,
+      "death_over_runs": 91,
+      "death_over_balls": 43,
+      "non_death_over_strike_rate": 126.3157894736842,
+      "non_death_over_runs": 24,
+      "non_death_over_balls": 19
+    }
+  ],
+  "DJ Willey": [
+    {
+      "death_over_strike_rate": 109.09090909090908,
+      "death_over_runs": 24,
+      "death_over_balls": 22,
+      "non_death_over_strike_rate": 72.5,
+      "non_death_over_runs": 29,
+      "non_death_over_balls": 40
+    }
+  ],
+  "JM Sharma": [
+    {
+      "death_over_strike_rate": 189.20863309352518,
+      "death_over_runs": 263,
+      "death_over_balls": 139,
+      "non_death_over_strike_rate": 134.5029239766082,
+      "non_death_over_runs": 460,
+      "non_death_over_balls": 342
+    }
+  ],
+  "B Sai Sudharsan": [
+    {
+      "death_over_strike_rate": 200,
+      "death_over_runs": 166,
+      "death_over_balls": 83,
+      "non_death_over_strike_rate": 130.67484662576686,
+      "non_death_over_runs": 852,
+      "non_death_over_balls": 652
+    }
+  ],
+  "Ramandeep Singh": [
+    {
+      "death_over_strike_rate": 243.58974358974356,
+      "death_over_runs": 95,
+      "death_over_balls": 39,
+      "non_death_over_strike_rate": 113.11475409836065,
+      "non_death_over_runs": 69,
+      "non_death_over_balls": 61
+    }
+  ],
+  "HE van der Dussen": [
+    {
+      "death_over_strike_rate": 120,
+      "death_over_runs": 12,
+      "death_over_balls": 10,
+      "non_death_over_strike_rate": 71.42857142857143,
+      "non_death_over_runs": 10,
+      "non_death_over_balls": 14
+    }
+  ],
+  "JR Hazlewood": [
+    {
+      "death_over_strike_rate": 94.44444444444444,
+      "death_over_runs": 17,
+      "death_over_balls": 18,
+      "non_death_over_strike_rate": 20,
+      "non_death_over_runs": 2,
+      "non_death_over_balls": 10
+    }
+  ],
+  "Aman Hakim Khan": [
+    {
+      "death_over_strike_rate": 143.90243902439025,
+      "death_over_runs": 59,
+      "death_over_balls": 41,
+      "non_death_over_strike_rate": 88.88888888888889,
+      "non_death_over_runs": 56,
+      "non_death_over_balls": 63
+    }
+  ],
+  "HR Shokeen": [
+    {
+      "death_over_strike_rate": 135.29411764705884,
+      "death_over_runs": 23,
+      "death_over_balls": 17,
+      "non_death_over_strike_rate": 89.58333333333334,
+      "non_death_over_runs": 43,
+      "non_death_over_balls": 48
+    }
+  ],
+  "Shashank Singh": [
+    {
+      "death_over_strike_rate": 195.69892473118279,
+      "death_over_runs": 182,
+      "death_over_balls": 93,
+      "non_death_over_strike_rate": 142.60355029585799,
+      "non_death_over_runs": 241,
+      "non_death_over_balls": 169
+    }
+  ],
+  "Mohsin Khan": [
+    {
+      "death_over_strike_rate": 114.28571428571428,
+      "death_over_runs": 24,
+      "death_over_balls": 21,
+      "non_death_over_strike_rate": 33.33333333333333,
+      "non_death_over_runs": 1,
+      "non_death_over_balls": 3
+    }
+  ],
+  "Simarjeet Singh": [
+    {
+      "death_over_strike_rate": 100,
+      "death_over_runs": 5,
+      "death_over_balls": 5,
+      "non_death_over_strike_rate": 66.66666666666666,
+      "non_death_over_runs": 2,
+      "non_death_over_balls": 3
+    }
+  ],
+  "AS Roy": [
+    {
+      "death_over_strike_rate": 137.5,
+      "death_over_runs": 22,
+      "death_over_balls": 16,
+      "non_death_over_strike_rate": 50,
+      "non_death_over_runs": 4,
+      "non_death_over_balls": 8
+    }
+  ],
+  "T Stubbs": [
+    {
+      "death_over_strike_rate": 235.71428571428572,
+      "death_over_runs": 264,
+      "death_over_balls": 112,
+      "non_death_over_strike_rate": 112.5,
+      "non_death_over_runs": 135,
+      "non_death_over_balls": 120
+    }
+  ],
+  "PN Mankad": [
+    {
+      "death_over_strike_rate": 163.63636363636365,
+      "death_over_runs": 18,
+      "death_over_balls": 11,
+      "non_death_over_strike_rate": 129.5081967213115,
+      "non_death_over_runs": 79,
+      "non_death_over_balls": 61
+    }
+  ],
+  "Sikandar Raza": [
+    {
+      "death_over_strike_rate": 138.23529411764704,
+      "death_over_runs": 47,
+      "death_over_balls": 34,
+      "non_death_over_strike_rate": 132.35294117647058,
+      "non_death_over_runs": 135,
+      "non_death_over_balls": 102
+    }
+  ],
+  "HC Brook": [
+    {
+      "death_over_strike_rate": 144,
+      "death_over_runs": 36,
+      "death_over_balls": 25,
+      "non_death_over_strike_rate": 117.1875,
+      "non_death_over_runs": 150,
+      "non_death_over_balls": 128
+    }
+  ],
+  "C Green": [
+    {
+      "death_over_strike_rate": 199.01960784313727,
+      "death_over_runs": 203,
+      "death_over_balls": 102,
+      "non_death_over_strike_rate": 139.7183098591549,
+      "non_death_over_runs": 496,
+      "non_death_over_balls": 355
+    }
+  ],
+  "N Wadhera": [
+    {
+      "death_over_strike_rate": 180,
+      "death_over_runs": 99,
+      "death_over_balls": 55,
+      "non_death_over_strike_rate": 128.71794871794873,
+      "non_death_over_runs": 251,
+      "non_death_over_balls": 195
+    }
+  ],
+  "Arshad Khan": [
+    {
+      "death_over_strike_rate": 160,
+      "death_over_runs": 64,
+      "death_over_balls": 40,
+      "non_death_over_strike_rate": 128,
+      "non_death_over_runs": 32,
+      "non_death_over_balls": 25
+    }
+  ],
+  "Abishek Porel": [
+    {
+      "death_over_strike_rate": 166.66666666666669,
+      "death_over_runs": 50,
+      "death_over_balls": 30,
+      "non_death_over_strike_rate": 150.73170731707316,
+      "non_death_over_runs": 309,
+      "non_death_over_balls": 205
+    }
+  ],
+  "Dhruv Jurel": [
+    {
+      "death_over_strike_rate": 172.7891156462585,
+      "death_over_runs": 254,
+      "death_over_balls": 147,
+      "non_death_over_strike_rate": 113.41463414634146,
+      "non_death_over_runs": 93,
+      "non_death_over_balls": 82
+    }
+  ],
+  "Yudhvir Singh": [
+    {
+      "death_over_strike_rate": 166.66666666666669,
+      "death_over_runs": 20,
+      "death_over_balls": 12,
+      "non_death_over_strike_rate": 50,
+      "non_death_over_runs": 2,
+      "non_death_over_balls": 4
+    }
+  ],
+  "PD Salt": [
+    {
+      "death_over_strike_rate": 184.21052631578948,
+      "death_over_runs": 35,
+      "death_over_balls": 19,
+      "non_death_over_strike_rate": 176.79083094555875,
+      "non_death_over_runs": 617,
+      "non_death_over_balls": 349
+    }
+  ],
+  "Naveen-ul-Haq": [
+    {
+      "death_over_strike_rate": 89.47368421052632,
+      "death_over_runs": 17,
+      "death_over_balls": 19,
+      "non_death_over_strike_rate": 20,
+      "non_death_over_runs": 1,
+      "non_death_over_balls": 5
+    }
+  ],
+  "Noor Ahmad": [
+    {
+      "death_over_strike_rate": 80,
+      "death_over_runs": 12,
+      "death_over_balls": 15,
+      "non_death_over_strike_rate": 33.33333333333333,
+      "non_death_over_runs": 1,
+      "non_death_over_balls": 3
+    }
+  ],
+  "Sanvir Singh": [
+    {
+      "death_over_strike_rate": 128.57142857142858,
+      "death_over_runs": 18,
+      "death_over_balls": 14,
+      "non_death_over_strike_rate": 100,
+      "non_death_over_runs": 7,
+      "non_death_over_balls": 7
+    }
+  ],
+  "Azmatullah Omarzai": [
+    {
+      "death_over_strike_rate": 150,
+      "death_over_runs": 6,
+      "death_over_balls": 4,
+      "non_death_over_strike_rate": 124.13793103448276,
+      "non_death_over_runs": 36,
+      "non_death_over_balls": 29
+    }
+  ],
+  "Naman Dhir": [
+    {
+      "death_over_strike_rate": 237.5,
+      "death_over_runs": 57,
+      "death_over_balls": 24,
+      "non_death_over_strike_rate": 153.7037037037037,
+      "non_death_over_runs": 83,
+      "non_death_over_balls": 54
+    }
+  ],
+  "Sameer Rizvi": [
+    {
+      "death_over_strike_rate": 206.25,
+      "death_over_runs": 33,
+      "death_over_balls": 16,
+      "non_death_over_strike_rate": 66.66666666666666,
+      "non_death_over_runs": 18,
+      "non_death_over_balls": 27
+    }
+  ],
+  "SB Dubey": [
+    {
+      "death_over_strike_rate": 183.33333333333331,
+      "death_over_runs": 11,
+      "death_over_balls": 6,
+      "non_death_over_strike_rate": 169.23076923076923,
+      "non_death_over_runs": 22,
+      "non_death_over_balls": 13
+    }
+  ],
+  "Ashutosh Sharma": [
+    {
+      "death_over_strike_rate": 182.08955223880596,
+      "death_over_runs": 122,
+      "death_over_balls": 67,
+      "non_death_over_strike_rate": 141.86046511627907,
+      "non_death_over_runs": 61,
+      "non_death_over_balls": 43
+    }
+  ],
+  "Nithish Kumar Reddy": [
+    {
+      "death_over_strike_rate": 176.66666666666666,
+      "death_over_runs": 53,
+      "death_over_balls": 30,
+      "non_death_over_strike_rate": 137.36263736263737,
+      "non_death_over_runs": 250,
+      "non_death_over_balls": 182
+    }
+  ],
+  "Saurav Chauhan": [
+    {
+      "death_over_strike_rate": 130.76923076923077,
+      "death_over_runs": 17,
+      "death_over_balls": 13,
+      "non_death_over_strike_rate": 50,
+      "non_death_over_runs": 1,
+      "non_death_over_balls": 2
+    }
+  ],
+  "WG Jacks": [
+    {
+      "death_over_strike_rate": 560,
+      "death_over_runs": 28,
+      "death_over_balls": 5,
+      "non_death_over_strike_rate": 156.8,
+      "non_death_over_runs": 196,
+      "non_death_over_balls": 125
+    }
+  ],
+  "Gulbadin Naib": [
+    {
+      "death_over_strike_rate": 150,
+      "death_over_runs": 15,
+      "death_over_balls": 10,
+      "non_death_over_strike_rate": 80,
+      "non_death_over_runs": 4,
+      "non_death_over_balls": 5
+    }
+  ],
+  "D Ferreira": [
+    {
+      "death_over_strike_rate": 87.5,
+      "death_over_runs": 7,
+      "death_over_balls": 8,
+      "non_death_over_strike_rate": 33.33333333333333,
+      "non_death_over_runs": 1,
+      "non_death_over_balls": 3
+    }
+  ]
+}
