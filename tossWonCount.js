@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //no of matches in which team won toss in each year
 const matches = require("./matches.json");
 function tossWonCount() {
@@ -19,3 +20,26 @@ const tossWonCountOutput = tossWonCount();
 const fs = require("fs");
 let formattedData = JSON.stringify(tossWonCountOutput, null, 2);
 fs.writeFileSync("tossWonCount.txt", formattedData);
+=======
+//no of matches in which team won toss in each year
+const matches = require("./matches.json");
+function tossWonCount() {
+  const result = {};
+  for (let i = 0; i < matches.length; i++) {
+    let year = matches[i]["season"];
+    let team = matches[i]["toss_winner"];
+    if (!result[year]) {
+      result[year] = {};
+    }
+    if (!result[year][team]) {
+      result[year][team] = 0;
+    }
+    result[year][team]++;
+  }
+  return result;
+}
+const tossWonCountOutput = tossWonCount();
+const fs = require("fs");
+let formattedData = JSON.stringify(tossWonCountOutput, null, 2);
+fs.writeFileSync("tossWonCount.txt", formattedData);
+>>>>>>> b6ff4d5b4384bfa681b49ed343d15168e3b4323d
