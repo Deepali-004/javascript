@@ -1,0 +1,92 @@
+[
+  {
+    "season": "2009",
+    "team": "Mumbai Indians",
+    "total_runs": 2231
+  },
+  {
+    "season": "2011",
+    "team": "Chennai Super Kings",
+    "total_runs": 2023
+  },
+  {
+    "season": "2012",
+    "team": "Chennai Super Kings",
+    "total_runs": 2462
+  },
+  {
+    "season": "2013",
+    "team": "Delhi Daredevils",
+    "total_runs": 2290
+  },
+  {
+    "season": "2014",
+    "team": "Kolkata Knight Riders",
+    "total_runs": 2353
+  },
+  {
+    "season": "2015",
+    "team": "Mumbai Indians",
+    "total_runs": 2044
+  },
+  {
+    "season": "2016",
+    "team": "Mumbai Indians",
+    "total_runs": 2063
+  },
+  {
+    "season": "2017",
+    "team": "Sunrisers Hyderabad",
+    "total_runs": 1845
+  },
+  {
+    "season": "2018",
+    "team": "Mumbai Indians",
+    "total_runs": 2809
+  },
+  {
+    "season": "2019",
+    "team": "Royal Challengers Bangalore",
+    "total_runs": 2473
+  },
+  {
+    "season": "2021",
+    "team": "Mumbai Indians",
+    "total_runs": 2303
+  },
+  {
+    "season": "2022",
+    "team": "Chennai Super Kings",
+    "total_runs": 2223
+  },
+  {
+    "season": "2023",
+    "team": "Chennai Super Kings",
+    "total_runs": 3054
+  },
+  {
+    "season": "2024",
+    "team": "Royal Challengers Bengaluru",
+    "total_runs": 2524
+  },
+  {
+    "season": "2026",
+    "team": "Chennai Super Kings",
+    "total_runs": 135
+  },
+  {
+    "season": "2007/08",
+    "team": "Kolkata Knight Riders",
+    "total_runs": 1983
+  },
+  {
+    "season": "2009/10",
+    "team": "Kolkata Knight Riders",
+    "total_runs": 2374
+  },
+  {
+    "season": "2020/21",
+    "team": "Mumbai Indians",
+    "total_runs": 2191
+  }
+]

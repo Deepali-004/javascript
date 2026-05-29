@@ -1,0 +1,292 @@
+[
+  {
+    "venue": "M Chinnaswamy Stadium",
+    "batter": "V Kohli",
+    "runs": 1874
+  },
+  {
+    "venue": "Punjab Cricket Association Stadium, Mohali",
+    "batter": "SE Marsh",
+    "runs": 806
+  },
+  {
+    "venue": "Feroz Shah Kotla",
+    "batter": "V Sehwag",
+    "runs": 933
+  },
+  {
+    "venue": "Wankhede Stadium",
+    "batter": "RG Sharma",
+    "runs": 1733
+  },
+  {
+    "venue": "Eden Gardens",
+    "batter": "G Gambhir",
+    "runs": 1407
+  },
+  {
+    "venue": "Sawai Mansingh Stadium",
+    "batter": "AM Rahane",
+    "runs": 1100
+  },
+  {
+    "venue": "Rajiv Gandhi International Stadium, Uppal",
+    "batter": "DA Warner",
+    "runs": 1169
+  },
+  {
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "batter": "SK Raina",
+    "runs": 1302
+  },
+  {
+    "venue": "Dr DY Patil Sports Academy",
+    "batter": "RV Uthappa",
+    "runs": 226
+  },
+  {
+    "venue": "Newlands",
+    "batter": "R Dravid",
+    "runs": 114
+  },
+  {
+    "venue": "St George's Park",
+    "batter": "JP Duminy",
+    "runs": 139
+  },
+  {
+    "venue": "Kingsmead",
+    "batter": "Yuvraj Singh",
+    "runs": 182
+  },
+  {
+    "venue": "SuperSport Park",
+    "batter": "SK Raina",
+    "runs": 182
+  },
+  {
+    "venue": "Buffalo Park",
+    "batter": "BJ Hodge",
+    "runs": 73
+  },
+  {
+    "venue": "New Wanderers Stadium",
+    "batter": "JH Kallis",
+    "runs": 151
+  },
+  {
+    "venue": "De Beers Diamond Oval",
+    "batter": "A Symonds",
+    "runs": 90
+  },
+  {
+    "venue": "OUTsurance Oval",
+    "batter": "AB de Villiers",
+    "runs": 90
+  },
+  {
+    "venue": "Brabourne Stadium",
+    "batter": "SS Tiwary",
+    "runs": 249
+  },
+  {
+    "venue": "Sardar Patel Stadium, Motera",
+    "batter": "AM Rahane",
+    "runs": 308
+  },
+  {
+    "venue": "Barabati Stadium",
+    "batter": "RV Uthappa",
+    "runs": 152
+  },
+  {
+    "venue": "Brabourne Stadium, Mumbai",
+    "batter": "DA Warner",
+    "runs": 213
+  },
+  {
+    "venue": "Vidarbha Cricket Association Stadium, Jamtha",
+    "batter": "RG Sharma",
+    "runs": 132
+  },
+  {
+    "venue": "Himachal Pradesh Cricket Association Stadium",
+    "batter": "SE Marsh",
+    "runs": 334
+  },
+  {
+    "venue": "Nehru Stadium",
+    "batter": "DPMD Jayawardene",
+    "runs": 111
+  },
+  {
+    "venue": "Holkar Cricket Stadium",
+    "batter": "KL Rahul",
+    "runs": 195
+  },
+  {
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+    "batter": "S Dhawan",
+    "runs": 294
+  },
+  {
+    "venue": "Subrata Roy Sahara Stadium",
+    "batter": "RV Uthappa",
+    "runs": 418
+  },
+  {
+    "venue": "Maharashtra Cricket Association Stadium",
+    "batter": "SPD Smith",
+    "runs": 469
+  },
+  {
+    "venue": "Shaheed Veer Narayan Singh International Stadium",
+    "batter": "DA Warner",
+    "runs": 207
+  },
+  {
+    "venue": "JSCA International Stadium Complex",
+    "batter": "MS Dhoni",
+    "runs": 138
+  },
+  {
+    "venue": "Sheikh Zayed Stadium",
+    "batter": "SA Yadav",
+    "runs": 413
+  },
+  {
+    "venue": "Sharjah Cricket Stadium",
+    "batter": "V Kohli",
+    "runs": 285
+  },
+  {
+    "venue": "Dubai International Cricket Stadium",
+    "batter": "KL Rahul",
+    "runs": 612
+  },
+  {
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+    "batter": "M Vijay",
+    "runs": 260
+  },
+  {
+    "venue": "Saurashtra Cricket Association Stadium",
+    "batter": "SK Raina",
+    "runs": 328
+  },
+  {
+    "venue": "Green Park",
+    "batter": "SK Raina",
+    "runs": 119
+  },
+  {
+    "venue": "M.Chinnaswamy Stadium",
+    "batter": "AB de Villiers",
+    "runs": 572
+  },
+  {
+    "venue": "Punjab Cricket Association IS Bindra Stadium",
+    "batter": "KL Rahul",
+    "runs": 406
+  },
+  {
+    "venue": "Rajiv Gandhi International Stadium",
+    "batter": "DA Warner",
+    "runs": 433
+  },
+  {
+    "venue": "MA Chidambaram Stadium",
+    "batter": "MS Dhoni",
+    "runs": 218
+  },
+  {
+    "venue": "Arun Jaitley Stadium",
+    "batter": "SS Iyer",
+    "runs": 496
+  },
+  {
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "batter": "RD Gaikwad",
+    "runs": 706
+  },
+  {
+    "venue": "Wankhede Stadium, Mumbai",
+    "batter": "SA Yadav",
+    "runs": 584
+  },
+  {
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "batter": "Shubman Gill",
+    "runs": 953
+  },
+  {
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "batter": "DA Warner",
+    "runs": 365
+  },
+  {
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "batter": "RD Gaikwad",
+    "runs": 141
+  },
+  {
+    "venue": "Dr DY Patil Sports Academy, Mumbai",
+    "batter": "JC Buttler",
+    "runs": 228
+  },
+  {
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "batter": "RD Gaikwad",
+    "runs": 200
+  },
+  {
+    "venue": "Eden Gardens, Kolkata",
+    "batter": "RK Singh",
+    "runs": 383
+  },
+  {
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",
+    "batter": "JM Sharma",
+    "runs": 160
+  },
+  {
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "batter": "KL Rahul",
+    "runs": 483
+  },
+  {
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "batter": "H Klaasen",
+    "runs": 435
+  },
+  {
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "batter": "V Kohli",
+    "runs": 694
+  },
+  {
+    "venue": "Barsapara Cricket Stadium, Guwahati",
+    "batter": "JC Buttler",
+    "runs": 98
+  },
+  {
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "batter": "SV Samson",
+    "runs": 391
+  },
+  {
+    "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+    "batter": "RR Rossouw",
+    "runs": 143
+  },
+  {
+    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+    "batter": "Ashutosh Sharma",
+    "runs": 128
+  },
+  {
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+    "batter": "RR Pant",
+    "runs": 106
+  }
+]

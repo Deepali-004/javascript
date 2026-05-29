@@ -1,0 +1,92 @@
+[
+  {
+    "season": "2009",
+    "player": "YK Pathan",
+    "wonTimes": 3
+  },
+  {
+    "season": "2011",
+    "player": "CH Gayle",
+    "wonTimes": 6
+  },
+  {
+    "season": "2012",
+    "player": "CH Gayle",
+    "wonTimes": 5
+  },
+  {
+    "season": "2013",
+    "player": "MEK Hussey",
+    "wonTimes": 5
+  },
+  {
+    "season": "2014",
+    "player": "GJ Maxwell",
+    "wonTimes": 4
+  },
+  {
+    "season": "2015",
+    "player": "DA Warner",
+    "wonTimes": 4
+  },
+  {
+    "season": "2016",
+    "player": "V Kohli",
+    "wonTimes": 5
+  },
+  {
+    "season": "2017",
+    "player": "BA Stokes",
+    "wonTimes": 3
+  },
+  {
+    "season": "2018",
+    "player": "Rashid Khan",
+    "wonTimes": 4
+  },
+  {
+    "season": "2019",
+    "player": "AD Russell",
+    "wonTimes": 4
+  },
+  {
+    "season": "2021",
+    "player": "RD Gaikwad",
+    "wonTimes": 4
+  },
+  {
+    "season": "2022",
+    "player": "Kuldeep Yadav",
+    "wonTimes": 4
+  },
+  {
+    "season": "2023",
+    "player": "YBK Jaiswal",
+    "wonTimes": 4
+  },
+  {
+    "season": "2024",
+    "player": "Abhishek Sharma",
+    "wonTimes": 3
+  },
+  {
+    "season": "2026",
+    "player": "MS Dhoni",
+    "wonTimes": 1
+  },
+  {
+    "season": "2007/08",
+    "player": "SE Marsh",
+    "wonTimes": 5
+  },
+  {
+    "season": "2009/10",
+    "player": "SR Tendulkar",
+    "wonTimes": 4
+  },
+  {
+    "season": "2020/21",
+    "player": "KL Rahul",
+    "wonTimes": 3
+  }
+]

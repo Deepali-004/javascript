@@ -1,0 +1,12 @@
+[
+  [
+    598068,
+    "Royal Challengers Bangalore",
+    106
+  ],
+  [
+    829803,
+    "Kings XI Punjab",
+    106
+  ]
+]

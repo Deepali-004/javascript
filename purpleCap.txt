@@ -1,0 +1,92 @@
+[
+  {
+    "season": "2009",
+    "bowler": "RP Singh",
+    "wickets": 26
+  },
+  {
+    "season": "2011",
+    "bowler": "SL Malinga",
+    "wickets": 30
+  },
+  {
+    "season": "2012",
+    "bowler": "M Morkel",
+    "wickets": 30
+  },
+  {
+    "season": "2013",
+    "bowler": "JP Faulkner",
+    "wickets": 33
+  },
+  {
+    "season": "2014",
+    "bowler": "MM Sharma",
+    "wickets": 26
+  },
+  {
+    "season": "2015",
+    "bowler": "DJ Bravo",
+    "wickets": 28
+  },
+  {
+    "season": "2016",
+    "bowler": "B Kumar",
+    "wickets": 24
+  },
+  {
+    "season": "2017",
+    "bowler": "B Kumar",
+    "wickets": 28
+  },
+  {
+    "season": "2018",
+    "bowler": "AJ Tye",
+    "wickets": 28
+  },
+  {
+    "season": "2019",
+    "bowler": "K Rabada",
+    "wickets": 28
+  },
+  {
+    "season": "2021",
+    "bowler": "HV Patel",
+    "wickets": 35
+  },
+  {
+    "season": "2022",
+    "bowler": "YS Chahal",
+    "wickets": 29
+  },
+  {
+    "season": "2023",
+    "bowler": "MM Sharma",
+    "wickets": 31
+  },
+  {
+    "season": "2024",
+    "bowler": "HV Patel",
+    "wickets": 30
+  },
+  {
+    "season": "2026",
+    "bowler": "JA Morkel",
+    "wickets": 3
+  },
+  {
+    "season": "2007/08",
+    "bowler": "Sohail Tanvir",
+    "wickets": 24
+  },
+  {
+    "season": "2009/10",
+    "bowler": "PP Ojha",
+    "wickets": 22
+  },
+  {
+    "season": "2020/21",
+    "bowler": "K Rabada",
+    "wickets": 30
+  }
+]

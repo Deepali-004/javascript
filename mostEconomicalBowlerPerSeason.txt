@@ -1,0 +1,92 @@
+[
+  {
+    "season": "2009",
+    "bowler": "R Ashwin",
+    "economy": 3.25
+  },
+  {
+    "season": "2011",
+    "bowler": "JP Faulkner",
+    "economy": 4.5
+  },
+  {
+    "season": "2012",
+    "bowler": "L Balaji",
+    "economy": 5.4
+  },
+  {
+    "season": "2013",
+    "bowler": "Anand Rajan",
+    "economy": 5.25
+  },
+  {
+    "season": "2014",
+    "bowler": "Ankit Sharma",
+    "economy": 5.375
+  },
+  {
+    "season": "2015",
+    "bowler": "J Yadav",
+    "economy": 4.142857142857142
+  },
+  {
+    "season": "2016",
+    "bowler": "MR Marsh",
+    "economy": 5
+  },
+  {
+    "season": "2017",
+    "bowler": "NB Singh",
+    "economy": 3.75
+  },
+  {
+    "season": "2018",
+    "bowler": "IS Sodhi",
+    "economy": 5.869565217391305
+  },
+  {
+    "season": "2019",
+    "bowler": "AS Roy",
+    "economy": 5.5
+  },
+  {
+    "season": "2021",
+    "bowler": "Imran Tahir",
+    "economy": 4
+  },
+  {
+    "season": "2022",
+    "bowler": "A Badoni",
+    "economy": 5.5
+  },
+  {
+    "season": "2023",
+    "bowler": "MW Short",
+    "economy": 6.25
+  },
+  {
+    "season": "2024",
+    "bowler": "R Ravindra",
+    "economy": 3.5
+  },
+  {
+    "season": "2026",
+    "bowler": "R Ashwin",
+    "economy": 4.75
+  },
+  {
+    "season": "2007/08",
+    "bowler": "DJ Thornely",
+    "economy": 5.7142857142857135
+  },
+  {
+    "season": "2009/10",
+    "bowler": "V Sehwag",
+    "economy": 4.0588235294117645
+  },
+  {
+    "season": "2020/21",
+    "bowler": "Rashid Khan",
+    "economy": 5.375
+  }
+]

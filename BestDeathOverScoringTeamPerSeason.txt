@@ -1,0 +1,66 @@
+{
+  "2009": [
+    "Royal Challengers Bangalore",
+    644
+  ],
+  "2011": [
+    "Chennai Super Kings",
+    787
+  ],
+  "2012": [
+    "Chennai Super Kings",
+    834
+  ],
+  "2013": [
+    "Mumbai Indians",
+    926
+  ],
+  "2014": [
+    "Kings XI Punjab",
+    768
+  ],
+  "2015": [
+    "Mumbai Indians",
+    902
+  ],
+  "2016": [
+    "Royal Challengers Bangalore",
+    876
+  ],
+  "2017": [
+    "Mumbai Indians",
+    768
+  ],
+  "2018": [
+    "Chennai Super Kings",
+    852
+  ],
+  "2019": [
+    "Mumbai Indians",
+    796
+  ],
+  "2021": [
+    "Chennai Super Kings",
+    836
+  ],
+  "2022": [
+    "Rajasthan Royals",
+    870
+  ],
+  "2023": [
+    "Gujarat Titans",
+    869
+  ],
+  "2024": [
+    "Royal Challengers Bengaluru",
+    816
+  ],
+  "2026": [
+    "Chennai Super Kings",
+    59
+  ],
+  "NaN": [
+    "Mumbai Indians",
+    2174
+  ]
+}

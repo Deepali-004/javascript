@@ -1,0 +1,92 @@
+[
+  [
+    "KMDN Kulasekara",
+    {
+      "economy": 6,
+      "runs": 30,
+      "balls": 30,
+      "death_overs": "5.0"
+    }
+  ],
+  [
+    "S Gopal",
+    {
+      "economy": 6.763636363636364,
+      "runs": 62,
+      "balls": 55,
+      "death_overs": "9.1"
+    }
+  ],
+  [
+    "Sohail Tanvir",
+    {
+      "economy": 6.815533980582524,
+      "runs": 117,
+      "balls": 103,
+      "death_overs": "17.1"
+    }
+  ],
+  [
+    "R Tewatia",
+    {
+      "economy": 7.333333333333333,
+      "runs": 55,
+      "balls": 45,
+      "death_overs": "7.3"
+    }
+  ],
+  [
+    "SP Narine",
+    {
+      "economy": 7.404505386875613,
+      "runs": 1260,
+      "balls": 1021,
+      "death_overs": "170.1"
+    }
+  ],
+  [
+    "TM Dilshan",
+    {
+      "economy": 7.4399999999999995,
+      "runs": 31,
+      "balls": 25,
+      "death_overs": "4.1"
+    }
+  ],
+  [
+    "DE Bollinger",
+    {
+      "economy": 7.487179487179487,
+      "runs": 292,
+      "balls": 234,
+      "death_overs": "39.0"
+    }
+  ],
+  [
+    "M Theekshana",
+    {
+      "economy": 7.555555555555555,
+      "runs": 136,
+      "balls": 108,
+      "death_overs": "18.0"
+    }
+  ],
+  [
+    "MM Ali",
+    {
+      "economy": 7.578947368421052,
+      "runs": 72,
+      "balls": 57,
+      "death_overs": "9.3"
+    }
+  ],
+  [
+    "SH Johnson",
+    {
+      "economy": 7.6,
+      "runs": 38,
+      "balls": 30,
+      "death_overs": "5.0"
+    }
+  ]
+]
